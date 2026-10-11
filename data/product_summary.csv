@@ -1,0 +1,1377 @@
+item_id,sessions_viewed,sessions_added_to_cart,sessions_purchased,sessions_viewed_promo,revenue,item_name,item_category,sessions_exposed,view_to_cart_rate,cart_to_buy_rate,exposure_to_buy_rate,view_only_to_buy_rate,exposure_to_buy_ci_low,exposure_to_buy_ci_high,label,min_views_floor,median_exposure_used,median_rate_used,exposure_likely_undercounted
+9195292,0,45,118,0,5277,Google Canteen Bottle Black,Drinkware,45,,2.6222222222222222,2.6222222222222222,,,,Not Enough Data,100,1245.0,0.0,True
+9195140,0,75,40,0,5256,Google Utility BackPack,Lifestyle/Bags/,75,,0.5333333333333333,0.5333333333333333,,0.4215733915278032,0.6418449054118834,Not Enough Data,100,1245.0,0.0,False
+9195130,0,0,83,0,4728,Google Zip Hoodie F/C,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9194259,0,29,99,0,4352,Google Campus Bike,Accessories,29,,3.413793103448276,3.413793103448276,,,,Not Enough Data,100,1245.0,0.0,True
+9197759,0,5,27,0,4050,Google Incognito Techpack V2,Bags,5,,5.4,5.4,,,,Not Enough Data,100,1245.0,0.0,True
+9199130,0,0,89,0,3534,Super G Unisex Joggers,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195841,0,42,102,0,3308,Google Perk Thermal Tumbler,Lifestyle,42,,2.4285714285714284,2.4285714285714284,,,,Not Enough Data,100,1245.0,0.0,True
+9196652,0,255,177,0,3228,Google Heathered Pom Beanie,New,255,,0.6941176470588235,0.6941176470588235,,0.6350278877886265,0.747445408621224,Hidden Gem,100,1245.0,0.0,False
+9195032,0,147,181,0,3165,Google Camp Mug Ivory,Drinkware,147,,1.2312925170068028,1.2312925170068028,,,,Hidden Gem,100,1245.0,0.0,True
+9196765,0,0,32,0,3002,Google Men's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184915,0,0,52,0,2728,Google Crewneck Sweatshirt Navy,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196605,0,0,38,0,2708,Google Badge Heavyweight Pullover Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196606,0,0,47,0,2662,Google Badge Heavyweight Pullover Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199131,0,0,74,0,2648,Super G Unisex Joggers,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184916,0,0,52,0,2618,Google Crewneck Sweatshirt Navy,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196717,0,0,36,0,2584,Google Men's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9190330,0,221,136,0,2515,Google Crew Socks,Apparel,221,,0.6153846153846154,0.6153846153846154,,0.5497903472266481,0.6770360051921214,Hidden Gem,100,1245.0,0.0,False
+9199220,0,288,110,0,2446,Google Land & Sea Cotton Cap,Home/Apparel/Hats/,288,,0.3819444444444444,0.3819444444444444,,0.32773302014361433,0.43926387132079653,Hidden Gem,100,1245.0,0.0,False
+9195031,0,46,76,0,2432,Google Thermal Tumbler Navy,Drinkware,46,,1.6521739130434783,1.6521739130434783,,,,Not Enough Data,100,1245.0,0.0,True
+9196653,0,176,90,0,2424,Google Speckled Beanie Navy,Home/Apparel/Hats/,176,,0.5113636363636364,0.5113636363636364,,0.43806232164614967,0.5841794733556742,Hidden Gem,100,1245.0,0.0,False
+9196759,0,0,25,0,2415,Google Women's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184913,0,0,45,0,2288,Google Crewneck Sweatshirt Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196766,0,0,22,0,2274,Google Men's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195830,0,179,85,0,2237,Google Glass Bottle,Lifestyle/Drinkware/,179,,0.4748603351955307,0.4748603351955307,,0.4030032151048605,0.5477738509457538,Hidden Gem,100,1245.0,0.0,False
+9196727,0,126,58,0,2202,Google Woodtop Bottle Black,Lifestyle/Drinkware/,126,,0.4603174603174603,0.4603174603174603,,0.3757506931925942,0.547232387730623,Hidden Gem,100,1245.0,0.0,False
+9188227,0,144,62,0,2196,Google Flat Front Bag Grey,Lifestyle/Bags/,144,,0.4305555555555556,0.4305555555555556,,0.35252216241189166,0.5121979163751345,Hidden Gem,100,1245.0,0.0,False
+9195709,0,299,118,0,2150,Google Leather Strap Hat Blue,Home/Apparel/Hats/,299,,0.39464882943143814,0.39464882943143814,,0.34091899830257283,0.4510514575396894,Hidden Gem,100,1245.0,0.0,False
+9195127,0,0,40,0,2124,Google Zip Hoodie F/C,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196615,0,0,39,0,2068,Google Crewneck Sweatshirt Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195949,0,88,84,0,2023,Google Crew Combed Cotton Sock,Apparel,88,,0.9545454545454546,0.9545454545454546,,0.888880924960137,0.9821840390648802,Not Enough Data,100,1245.0,0.0,False
+9195359,1,182,99,0,2022,Noogler Android Figure,Accessories,183,182.0,0.5439560439560439,0.5409836065573771,99.0,0.4686821681436322,0.6115997390975818,Hidden Gem,100,1245.0,0.0,False
+9196753,0,0,19,0,1978,Google Men's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196616,0,0,33,0,1947,Google Crewneck Sweatshirt Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9180865,0,260,120,0,1910,Google Metallic Notebook Set,Home/Stationery/Notebooks/,260,,0.46153846153846156,0.46153846153846156,,0.4019416959985419,0.5222552464093271,Hidden Gem,100,1245.0,0.0,False
+9195131,0,0,31,0,1884,Google Zip Hoodie F/C,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196849,0,0,32,0,1848,Android Iconic Crewneck Sweatshirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195129,0,0,31,0,1848,Google Zip Hoodie F/C,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196664,0,0,27,0,1829,Google Sherpa Zip Hoodie Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196604,0,0,30,0,1822,Google Badge Heavyweight Pullover Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196637,0,0,57,0,1818,Google Red Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196875,0,10,44,0,1792,Google KeepCup,New,10,,4.4,4.4,,,,Not Enough Data,100,1245.0,0.0,True
+9195971,0,9,55,0,1788,Google Chrome Dinosaur Collectible,Accessories,9,,6.111111111111111,6.111111111111111,,,,Not Enough Data,100,1245.0,0.0,True
+9196758,0,0,14,0,1771,Google Women's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184914,0,0,29,0,1760,Google Crewneck Sweatshirt Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185158,0,0,29,0,1749,Google Crewneck Sweatshirt Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199129,0,0,45,0,1727,Super G Unisex Joggers,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196767,0,0,20,0,1722,Google Men's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185002,0,108,69,0,1662,Google Large Standard Journal Grey,Home/Stationery/Notebooks/,108,,0.6388888888888888,0.6388888888888888,,0.5449705366692225,0.7232659692462865,Hidden Gem,100,1245.0,0.0,False
+9196676,0,123,66,0,1656,Google Speckled Beanie Grey,Home/Apparel/Hats/,123,,0.5365853658536586,0.5365853658536586,,0.44868827716312104,0.6222663623242396,Hidden Gem,100,1245.0,0.0,False
+9196629,0,0,56,0,1608,Google Navy Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196764,0,0,16,0,1545,Google Men's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197718,0,7,25,0,1540,Google Incognito Zip Pack,Bags,7,,3.5714285714285716,3.5714285714285716,,,,Not Enough Data,100,1245.0,0.0,True
+9195128,0,0,24,0,1536,Google Zip Hoodie F/C,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188208,0,101,50,0,1488,Google Packable Bag Black,Lifestyle/Bags/,101,,0.49504950495049505,0.49504950495049505,,0.3995249927451751,0.590936808677161,Hidden Gem,100,1245.0,0.0,False
+9188203,0,254,141,0,1470,Google Clear Pen 4-Pack,Home/Stationery/Writing/,254,,0.5551181102362205,0.5551181102362205,,0.49363242793300444,0.6149613753943097,Hidden Gem,100,1245.0,0.0,False
+9195964,0,3,24,0,1464,Google Seaport Tote,New,3,,8.0,8.0,,,,Not Enough Data,100,1245.0,0.0,True
+9199224,0,99,53,0,1455,Google Land & Sea Nalgene Water Bottle,Drinkware,99,,0.5353535353535354,0.5353535353535354,,0.43762913941060466,0.6304367016498222,Not Enough Data,100,1245.0,0.0,False
+9196755,0,0,13,0,1449,Google Men's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196275,0,1,34,0,1422,Google Soft Modal Scarf,Apparel,1,,34.0,34.0,,,,Not Enough Data,100,1245.0,0.0,True
+9200320,0,0,19,0,1417,Google Black Cloud Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196850,0,0,25,0,1408,Android Iconic Crewneck Sweatshirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196614,0,0,28,0,1397,Google Crewneck Sweatshirt Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196628,0,0,44,0,1392,Google Navy Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196636,0,0,52,0,1392,Google Red Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196647,0,0,24,0,1389,Google Sherpa Zip Hoodie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9200314,0,68,88,0,1375,Google Camp Mug Gray,Shop by Brand,68,,1.2941176470588236,1.2941176470588236,,,,Not Enough Data,100,1245.0,0.0,True
+9195948,0,83,56,0,1375,Google Crew Striped Athletic Sock,Apparel,83,,0.6746987951807228,0.6746987951807228,,0.5681331989652646,0.7658081379055438,Not Enough Data,100,1245.0,0.0,False
+9195959,0,121,74,0,1343,Google Large Tote White,Lifestyle/Bags/,121,,0.6115702479338843,0.6115702479338843,,0.5225701530506783,0.6937039094413113,Hidden Gem,100,1245.0,0.0,False
+9200321,0,0,15,0,1334,Google Black Cloud Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196663,0,0,22,0,1320,Google Sherpa Zip Hoodie Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196966,0,0,24,0,1307,Google NYC Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188192,0,1853,88,0,1289,YouTube Twill Sandwich Cap Black,Home/Shop by Brand/YouTube/,1853,,0.04749055585536967,0.04749055585536967,,0.03870753546760254,0.05814596027484528,Star,100,1245.0,0.0,False
+9196648,0,0,20,0,1280,Google Sherpa Zip Hoodie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196863,0,13,49,0,1275,Google Hemp Tote,Clearance,13,,3.769230769230769,3.769230769230769,,,,Not Enough Data,100,1245.0,0.0,True
+9196738,0,103,35,0,1272,Google Cork Base Tumbler,Lifestyle/Drinkware/,103,,0.33980582524271846,0.33980582524271846,,0.25556868842441466,0.4355628558429869,Hidden Gem,100,1245.0,0.0,False
+9196848,0,0,26,0,1243,Android Iconic Crewneck Sweatshirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199127,0,97,41,0,1240,Google Blue Stojo Cup,Home/New/,97,,0.422680412371134,0.422680412371134,,0.3291646600667981,0.5220872042431691,Not Enough Data,100,1245.0,0.0,False
+9197456,0,22,40,0,1218,Google Super G Tumbler (Red Lid),Lifestyle,22,,1.8181818181818181,1.8181818181818181,,,,Not Enough Data,100,1245.0,0.0,True
+9196967,0,0,27,0,1215,Google NYC Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9181148,0,2,1,0,1200,Gift Card- $100.00,Home/Gift Cards/,2,,0.5,0.5,,0.09452865480086614,0.9054713451991339,Not Enough Data,100,1245.0,0.0,False
+9195197,0,0,32,0,1194,Google F/C Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195741,0,0,31,0,1176,Google Dino Game Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196862,0,109,77,0,1176,Google Black Cork Journal,New,109,,0.7064220183486238,0.7064220183486238,,0.6150748804582535,0.7837142185974137,Hidden Gem,100,1245.0,0.0,False
+9196661,0,0,17,0,1155,Google Sherpa Zip Hoodie Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195198,0,0,30,0,1134,Google F/C Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196617,0,0,24,0,1133,Google Crewneck Sweatshirt Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196602,0,0,21,0,1128,Google Badge Heavyweight Pullover Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9181149,0,9,7,0,1125,Gift Card - $25.00,Gift Cards,9,,0.7777777777777778,0.7777777777777778,,0.4525833436728054,0.9367762376877727,Not Enough Data,100,1245.0,0.0,False
+9196733,0,0,26,0,1122,Google Cotopaxi Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9190334,0,136,44,0,1095,YouTube Crew Socks,Home/Shop by Brand/YouTube/,136,,0.3235294117647059,0.3235294117647059,,0.2506870243433009,0.40606747503313634,Hidden Gem,100,1245.0,0.0,False
+9195712,0,207,68,0,1078,YouTube Leather Strap Hat Black,Home/Apparel/Hats/,207,,0.3285024154589372,0.3285024154589372,,0.26815308960377315,0.39510122074105447,Hidden Gem,100,1245.0,0.0,False
+9200710,0,55,14,0,1068,Google Knit Blanket,Home/New/,55,,0.2545454545454545,0.2545454545454545,,0.1581197275732498,0.3830212339233784,Not Enough Data,100,1245.0,0.0,False
+9180819,0,323,141,0,1050,Google Laptop and Cell Phone Stickers,Home/Stationery/Stickers/,323,,0.43653250773993807,0.43653250773993807,,0.3835045372714013,0.491052434668523,Hidden Gem,100,1245.0,0.0,False
+9196754,0,0,10,0,1035,Google Men's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196768,0,0,10,0,1030,Google Men's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184981,0,273,49,0,1021,Google Small Standard Journal Navy,Home/Sale/,273,,0.1794871794871795,0.1794871794871795,,0.13851013675008317,0.22935943198525144,Hidden Gem,100,1245.0,0.0,False
+9184917,0,0,19,0,1012,Google Crewneck Sweatshirt Navy,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196655,0,0,9,0,1008,Google Raincoat Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195792,0,0,47,0,1000,YouTube Icon Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196950,0,109,91,0,999,Google NYC Campus Mug,Campus Collection,109,,0.8348623853211009,0.8348623853211009,,0.7540105726903711,0.8929139657777115,Hidden Gem,100,1245.0,0.0,False
+9188229,0,14,43,0,990,Google 24oz Ring Bottle Blue,Google,14,,3.0714285714285716,3.0714285714285716,,,,Not Enough Data,100,1245.0,0.0,True
+9200199,0,23,33,0,988,Google Bear Baby Blanket Beige,Shop by Brand,23,,1.434782608695652,1.434782608695652,,,,Not Enough Data,100,1245.0,0.0,True
+9195742,0,0,23,0,984,Google Dino Game Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185150,0,0,15,0,975,Google Women's Microfleece Jacket Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196869,0,2,35,0,975,Google Utensil Set,New,2,,17.5,17.5,,,,Not Enough Data,100,1245.0,0.0,True
+9197720,0,2,15,0,960,Google Incognito Dopp Kit V2,Bags,2,,7.5,7.5,,,,Not Enough Data,100,1245.0,0.0,True
+9195835,0,18,49,0,952,Google Campus Bike Corkbase Mug Blue,Lifestyle,18,,2.7222222222222223,2.7222222222222223,,,,Not Enough Data,100,1245.0,0.0,True
+9196742,0,0,11,0,949,Google Men's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196662,0,0,14,0,949,Google Sherpa Zip Hoodie Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195961,0,2,18,0,944,Google Campus Bike Mini Backpack,Lifestyle,2,,9.0,9.0,,,,Not Enough Data,100,1245.0,0.0,True
+9196613,0,0,19,0,935,Google Crewneck Sweatshirt Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9194988,0,0,15,0,926,Google Women's Grid Zip-Up,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199084,0,107,45,0,903,Google Land & Sea Journal Set,Home/Stationery/Notebooks/,107,,0.4205607476635514,0.4205607476635514,,0.33137117288870527,0.5152568079415968,Hidden Gem,100,1245.0,0.0,False
+9195267,0,13,12,0,900,Google Incognito Messenger Bag,Bags,13,,0.9230769230769231,0.9230769230769231,,0.6668546607175265,0.9862899336203037,Not Enough Data,100,1245.0,0.0,False
+9195552,0,0,40,0,896,Google Unisex Eco Tee Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196649,0,0,14,0,894,Google Sherpa Zip Hoodie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197719,0,0,15,0,887,Google Incognito Laptop Organizer,Bags,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196719,0,0,11,0,883,Google Men's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197004,0,36,75,0,879,Google Austin Campus Mug,Campus Collection,36,,2.0833333333333335,2.0833333333333335,,,,Not Enough Data,100,1245.0,0.0,True
+9195831,0,64,33,0,878,Google Campus Bike Bottle,Lifestyle/Drinkware/,64,,0.515625,0.515625,,0.3958139224399903,0.6336665143421609,Not Enough Data,100,1245.0,0.0,False
+9195132,0,0,17,0,864,Google Zip Hoodie F/C,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195840,0,107,52,0,857,YouTube Play Mug,Home/Shop by Brand/YouTube/,107,,0.48598130841121495,0.48598130841121495,,0.39341857591757085,0.5795157736407177,Hidden Gem,100,1245.0,0.0,False
+9196734,0,0,18,0,856,Google Cotopaxi Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199125,0,105,35,0,856,Google Land & Sea Mug,Home/New/,105,,0.3333333333333333,0.3333333333333333,,0.2504577293800206,0.42797404670559364,Hidden Gem,100,1245.0,0.0,False
+9188221,0,69,60,0,855,Google Utility Bag Grey,Bags,69,,0.8695652173913043,0.8695652173913043,,0.7703148508859572,0.9298345143119515,Not Enough Data,100,1245.0,0.0,False
+9199132,0,0,24,0,854,Super G Unisex Joggers,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9200364,0,71,30,0,844,White Google Shoreline Bottle,Shop by Brand,71,,0.4225352112676056,0.4225352112676056,,0.3145283047701463,0.5384946129654448,Not Enough Data,100,1245.0,0.0,False
+9196706,0,70,24,0,834,Google Cup Cap Tumbler Grey,Lifestyle/Drinkware/,70,,0.34285714285714286,0.34285714285714286,,0.2424582708289697,0.45960668984360514,Not Enough Data,100,1245.0,0.0,False
+9195710,0,275,35,0,831,Google Leather Strap Hat Black,Home/Apparel/Hats/,275,,0.12727272727272726,0.12727272727272726,,0.09295350860211654,0.1718620712826639,Hidden Gem,100,1245.0,0.0,False
+9188315,0,22,95,0,826,Google Magnet,Accessories,22,,4.318181818181818,4.318181818181818,,,,Not Enough Data,100,1245.0,0.0,True
+9194989,0,0,15,0,826,Google Women's Grid Zip-Up,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195203,0,0,31,0,822,Google F/C Longsleeve Ash,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196618,0,0,12,0,814,Google Crewneck Sweatshirt Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195250,0,0,26,0,812,Google Toddler FC Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197586,0,35,62,0,806,Google Seattle Campus Mug,Campus Collection,35,,1.7714285714285714,1.7714285714285714,,,,Not Enough Data,100,1245.0,0.0,True
+9195248,0,0,27,0,805,Google Toddler FC Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195126,0,0,14,0,804,Google Zip Hoodie F/C,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199082,0,22,35,0,784,Google Land & Sea Tote Bag,Bags,22,,1.5909090909090908,1.5909090909090908,,,,Not Enough Data,100,1245.0,0.0,True
+9195204,0,0,27,0,774,Google F/C Longsleeve Ash,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9200322,0,0,8,0,770,Google Black Cloud Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196665,0,0,13,0,770,Google Sherpa Zip Hoodie Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195202,0,0,26,0,768,Google F/C Longsleeve Ash,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196638,0,0,29,0,762,Google Red Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195196,0,0,24,0,762,Google F/C Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195939,0,15,22,0,756,Google Campus Bike Grid Task Pad,Office,15,,1.4666666666666666,1.4666666666666666,,,,Not Enough Data,100,1245.0,0.0,True
+9196631,0,0,22,0,750,Google Navy Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185159,0,0,15,0,737,Google Crewneck Sweatshirt Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9198448,0,5,41,0,736,Daddy Works at Google Book,Small Goods,5,,8.2,8.2,,,,Not Enough Data,100,1245.0,0.0,True
+9195249,0,0,24,0,735,Google Toddler FC Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196788,0,48,42,0,729,Google Mural Socks,New,48,,0.875,0.875,,0.7529927291394518,0.9414302824959915,Not Enough Data,100,1245.0,0.0,False
+9196716,0,0,10,0,725,Google Men's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197569,0,15,57,0,715,Google PNW Campus Mug,Campus Collection,15,,3.8,3.8,,,,Not Enough Data,100,1245.0,0.0,True
+9195551,0,0,35,0,712,Google Unisex Eco Tee Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196718,0,0,7,0,694,Google Men's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196866,0,26,22,0,691,Google ApPeel Journal Red,Home/Stationery/Notebooks/,26,,0.8461538461538461,0.8461538461538461,,0.6646841558168644,0.9385006600107053,Not Enough Data,100,1245.0,0.0,False
+9195295,0,38,36,0,688,Android Techie 3D Framed Art,Accessories,38,,0.9473684210526315,0.9473684210526315,,0.8271423311893115,0.9854460975514631,Not Enough Data,100,1245.0,0.0,False
+9196384,0,26,42,0,679,Google Mural Mug,Drinkware,26,,1.6153846153846154,1.6153846153846154,,,,Not Enough Data,100,1245.0,0.0,True
+9195945,0,80,51,0,676,Google Campus Bike Tote Navy,Lifestyle/Bags/,80,,0.6375,0.6375,,0.5281059097698362,0.7342936627574055,Not Enough Data,100,1245.0,0.0,False
+9196646,0,0,11,0,674,Google Sherpa Zip Hoodie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196380,0,31,46,0,673,Google Mural Sticky Note Pad,Office,31,,1.4838709677419355,1.4838709677419355,,,,Not Enough Data,100,1245.0,0.0,True
+9185157,0,0,13,0,671,Google Crewneck Sweatshirt Grey,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197568,0,10,9,0,660,Google PNW Campus Bottle,Campus Collection,10,,0.9,0.9,,0.5958436145024278,0.9821242504842788,Not Enough Data,100,1245.0,0.0,False
+9195912,0,0,33,0,660,Womens Google Striped LS,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9194987,0,0,12,0,652,Google Women's Grid Zip-Up,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196657,0,0,5,0,648,Google Raincoat Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196623,0,0,22,0,642,Google Heather Green Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196630,0,0,17,0,642,Google Navy Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196785,0,5,68,0,640,Google Keychain,New,5,,13.6,13.6,,,,Not Enough Data,100,1245.0,0.0,True
+9196274,0,75,20,0,640,YouTube Transmission Journal Red,Home/Shop by Brand/YouTube/,75,,0.26666666666666666,0.26666666666666666,,0.17976179296488748,0.3763101284573058,Not Enough Data,100,1245.0,0.0,False
+9188197,0,55,43,0,634,Google See-No Hear-No Set,Lifestyle/Small Goods/,55,,0.7818181818181819,0.7818181818181819,,0.6562971335952182,0.8705410217234678,Not Enough Data,100,1245.0,0.0,False
+9195206,0,0,25,0,630,Google F/C Longsleeve Ash,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185155,0,0,14,0,627,Google Crewneck Sweatshirt Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196902,0,39,36,0,626,#IamRemarkable Journal,Stationery,39,,0.9230769230769231,0.9230769230769231,,0.7967862687194474,0.9734930859265043,Not Enough Data,100,1245.0,0.0,False
+9196383,0,116,25,0,623,Google Mural Bottle,Lifestyle/Drinkware/,116,,0.21551724137931033,0.21551724137931033,,0.15045569151310173,0.2988173489002438,Hidden Gem,100,1245.0,0.0,False
+9195739,0,0,18,0,616,Google Dino Game Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195738,0,0,13,0,616,Google Dino Game Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196621,0,0,26,0,602,Google Heather Green Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195199,0,0,18,0,600,Google F/C Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196752,0,0,6,0,598,Google Men's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196756,0,0,5,0,598,Google Men's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195928,0,8,32,0,597,Google Premium Sunglasses,Accessories,8,,4.0,4.0,,,,Not Enough Data,100,1245.0,0.0,True
+9195962,0,1,16,0,589,Essential Canvas Tote,New,1,,16.0,16.0,,,,Not Enough Data,100,1245.0,0.0,True
+9188189,0,8,18,0,585,Google 16 oz Tumbler Blue,Drinkware,8,,2.25,2.25,,,,Not Enough Data,100,1245.0,0.0,True
+9196737,0,5,27,0,584,Google Felt Refillable Journal,Clearance,5,,5.4,5.4,,,,Not Enough Data,100,1245.0,0.0,True
+9196731,0,0,15,0,580,Google Cotopaxi Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196656,0,0,6,0,576,Google Raincoat Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195549,0,0,25,0,574,Google Unisex Eco Tee Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196741,0,0,7,0,573,Google Men's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196977,0,29,55,0,566,Google Chicago Campus Mug,Campus Collection,29,,1.896551724137931,1.896551724137931,,,,Not Enough Data,100,1245.0,0.0,True
+9200319,0,0,8,0,564,Google Black Cloud Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196800,0,109,30,0,559,Android Iconic Mug Gray,Lifestyle/Drinkware/,109,,0.27522935779816515,0.27522935779816515,,0.2001190236455971,0.3656439573826762,Hidden Gem,100,1245.0,0.0,False
+9197951,0,35,53,0,557,Google Sunnyvale Campus Mug,Campus Collection,35,,1.5142857142857142,1.5142857142857142,,,,Not Enough Data,100,1245.0,0.0,True
+9196846,0,4,8,0,552,Android Iconic Notebook,New,4,,2.0,2.0,,,,Not Enough Data,100,1245.0,0.0,True
+9197457,0,25,19,0,552,Google Super G Tumbler (Blue Lid),Home/Eco-Friendly/,25,,0.76,0.76,,0.5656994004476144,0.8850384226967327,Not Enough Data,100,1245.0,0.0,False
+9196608,0,0,12,0,552,Google Badge Heavyweight Pullover Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184988,0,92,52,0,551,Google Emoji Sticker Pack,Home/Stationery/Stickers/,92,,0.5652173913043478,0.5652173913043478,,0.46332061916830214,0.6618859717066414,Not Enough Data,100,1245.0,0.0,False
+9196901,0,39,22,0,543,#IamRemarkable Water Bottle,Lifestyle/Drinkware/,39,,0.5641025641025641,0.5641025641025641,,0.40975423474522105,0.7069547583829534,Not Enough Data,100,1245.0,0.0,False
+9196603,0,0,9,0,542,Google Badge Heavyweight Pullover Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9198825,0,40,14,0,536,Mural Food Container,Home/New/,40,,0.35,0.35,,0.22134333171049153,0.5049440300646262,Not Enough Data,100,1245.0,0.0,False
+9195195,0,0,21,0,534,Google F/C Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196735,0,0,8,0,532,Google Cotopaxi Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196757,0,0,4,0,529,Google Men's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196777,0,0,8,0,520,Google Sherpa Vest Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196832,0,0,25,0,514,Android Pocket Onesie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196965,0,0,11,0,512,Google NYC Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185010,0,3,37,0,508,Google Bot,Accessories,3,,12.333333333333334,12.333333333333334,,,,Not Enough Data,100,1245.0,0.0,True
+9197426,0,15,31,0,505,Google SF Campus Bottle,Campus Collection,15,,2.066666666666667,2.066666666666667,,,,Not Enough Data,100,1245.0,0.0,True
+9188210,0,18,13,0,500,Google Mesh Bag Red,Bags,18,,0.7222222222222222,0.7222222222222222,,0.49126922453805477,0.8750043085364452,Not Enough Data,100,1245.0,0.0,False
+9195296,0,31,27,0,500,Android Super Hero 3D Framed Art,Accessories,31,,0.8709677419354839,0.8709677419354839,,0.7114724304561464,0.9486579883535524,Not Enough Data,100,1245.0,0.0,False
+9196671,0,0,22,0,494,Google Infant Hero Onesie Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196801,0,19,16,0,493,Android Iconic Glass Bottle Green,Lifestyle/Drinkware/,19,,0.8421052631578947,0.8421052631578947,,0.6243407235682331,0.9447962896007217,Not Enough Data,100,1245.0,0.0,False
+9195205,0,0,16,0,492,Google F/C Longsleeve Ash,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195548,0,119,53,0,490,Android Buoy Bottle,Lifestyle/Drinkware/,119,,0.44537815126050423,0.44537815126050423,,0.3591783519641876,0.5349943061581424,Hidden Gem,100,1245.0,0.0,False
+9196951,0,30,34,0,485,Google NYC Campus Bottle,Campus Collection,30,,1.1333333333333333,1.1333333333333333,,,,Not Enough Data,100,1245.0,0.0,True
+9196770,0,0,5,0,480,Google Women's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9180818,0,123,62,0,476,Keyboard DOT Sticker,Office,123,,0.5040650406504065,0.5040650406504065,,0.4169294936759028,0.590954355156026,Hidden Gem,100,1245.0,0.0,False
+9196743,0,0,6,0,474,Google Men's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195550,0,0,19,0,474,Google Unisex Eco Tee Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195918,0,0,11,0,471,Google Summer19 Crew Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195735,0,0,16,0,470,Google Campus Bike Eco Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195825,0,0,9,0,468,YouTube Standards Zip Hoodie Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197400,0,24,56,0,462,Google LA Campus Mug,Campus Collection,24,,2.3333333333333335,2.3333333333333335,,,,Not Enough Data,100,1245.0,0.0,True
+9196760,0,0,5,0,460,Google Women's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197707,0,0,11,0,457,Google PNW Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196732,0,0,10,0,456,Google Cotopaxi Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197810,0,19,7,0,450,Supernatural Paper Backpack,Bags,19,,0.3684210526315789,0.3684210526315789,,0.1914927237627384,0.5896084250184328,Not Enough Data,100,1245.0,0.0,False
+9188201,0,196,102,0,449,Google Pen White,Office,196,,0.5204081632653061,0.5204081632653061,,0.45074858925443806,0.5892831158560095,Hidden Gem,100,1245.0,0.0,False
+9196624,0,0,18,0,446,Google Heather Green Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196895,0,2,21,0,444,Google Cork Passport Holder,Accessories,2,,10.5,10.5,,,,Not Enough Data,100,1245.0,0.0,True
+9197414,0,0,11,0,443,Google SF Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196729,0,44,30,0,440,Google LoveHandle Black,Lifestyle/Small Goods/,44,,0.6818181818181818,0.6818181818181818,,0.5344282746687306,0.8000087006832644,Not Enough Data,100,1245.0,0.0,False
+9196645,0,0,8,0,440,Google Sherpa Zip Hoodie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188191,4,183,17,0,438,YouTube 25 oz Gear Cap Bottle Black,Home/Shop by Brand/YouTube/,187,45.75,0.09289617486338798,0.09090909090909091,4.25,0.0575335203557491,0.14075448393681603,Hidden Gem,100,1245.0,0.0,False
+9198447,0,5,25,0,436,Mommy Works at Google Book,Small Goods,5,,5.0,5.0,,,,Not Enough Data,100,1245.0,0.0,True
+9185152,0,0,7,0,435,Google Women's Microfleece Jacket Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199737,0,0,14,0,434,Super G Unisex Joggers,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196812,0,0,14,0,434,Android Pocket Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196917,0,0,14,0,434,#IamRemarkable Unisex Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196728,0,19,20,0,432,Android Iconic Socks,New,19,,1.0526315789473684,1.0526315789473684,,,,Not Enough Data,100,1245.0,0.0,True
+9185146,0,0,9,0,431,Google Mens Microfleece Jacket Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199205,0,0,9,0,429,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196772,0,0,5,0,426,Google Women's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196771,0,0,5,0,426,Google Women's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196843,0,4,7,0,425,Android Iconic Backpack,New,4,,1.75,1.75,,,,Not Enough Data,100,1245.0,0.0,True
+9188234,0,104,31,0,422,Google Twill Cap Charcoal,Home/Apparel/Hats/,104,,0.2980769230769231,0.2980769230769231,,0.2186388055378162,0.39190109743098245,Hidden Gem,100,1245.0,0.0,False
+9200600,0,109,36,0,414,Google Bot (Multicolored),Lifestyle,109,,0.3302752293577982,0.3302752293577982,,0.24908361228527495,0.4230231284911763,Hidden Gem,100,1245.0,0.0,False
+9195237,0,0,14,0,410,Google Toddler FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196813,0,0,15,0,409,Android Pocket Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195911,0,0,22,0,408,Womens Google Striped LS,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196381,0,7,19,0,408,Google Mural Notebook,Office,7,,2.7142857142857144,2.7142857142857144,,,,Not Enough Data,100,1245.0,0.0,True
+9195966,0,11,45,0,406,Google Clear Framed Yellow Shades,Accessories,11,,4.090909090909091,4.090909090909091,,,,Not Enough Data,100,1245.0,0.0,True
+9185149,0,0,6,0,405,Google Women's Microfleece Jacket Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196894,0,2,25,0,401,Google Cork Card Holder,Accessories,2,,12.5,12.5,,,,Not Enough Data,100,1245.0,0.0,True
+9197423,0,11,35,0,398,Google SF Campus Tote,Campus Collection,11,,3.1818181818181817,3.1818181818181817,,,,Not Enough Data,100,1245.0,0.0,True
+9196855,0,30,23,0,395,Android Iconic Hat White,New,30,,0.7666666666666667,0.7666666666666667,,0.5907132766967574,0.8820776078949878,Not Enough Data,100,1245.0,0.0,False
+9196779,0,0,6,0,394,Google Sherpa Vest Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196775,0,0,6,0,394,Google Sherpa Vest Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196814,0,0,15,0,392,Android Pocket Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196769,0,0,4,0,391,Google Men's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196854,0,47,25,0,391,Android Iconic Hat Green,Home/Apparel/Hats/,47,,0.5319148936170213,0.5319148936170213,,0.39232141926770786,0.6666853783153737,Not Enough Data,100,1245.0,0.0,False
+9197994,0,199,54,0,390,YouTube Jotter Task Pad,Home/Shop by Brand/YouTube/,199,,0.271356783919598,0.271356783919598,,0.2143405086670257,0.3370335684453616,Hidden Gem,100,1245.0,0.0,False
+9180825,0,0,52,0,388,Google Sunglasses,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9180827,0,0,48,0,382,Google Sunglasses,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196390,0,12,13,0,376,Supernatural Paper Tote,Bags,12,,1.0833333333333333,1.0833333333333333,,,,Not Enough Data,100,1245.0,0.0,True
+9196784,0,4,35,0,376,Google Emoji Magnet Set,Small Goods,4,,8.75,8.75,,,,Not Enough Data,100,1245.0,0.0,True
+9195798,0,0,18,0,374,YouTube Icon Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196666,0,0,6,0,372,Google Sherpa Zip Hoodie Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188310,0,185,96,0,372,Android SM S/F18 Sticker Sheet,Accessories,185,,0.518918918918919,0.518918918918919,,0.4472696801289761,0.5897984235092053,Hidden Gem,100,1245.0,0.0,False
+9196783,0,80,27,0,370,YouTube Iconic Play Pin,Home/Shop by Brand/YouTube/,80,,0.3375,0.3375,,0.24345459812221978,0.44643681616376707,Not Enough Data,100,1245.0,0.0,False
+9196922,0,90,45,0,368,Google Cambridge Campus Mug,Home/Campus Collection/,90,,0.5,0.5,,0.39883544540986604,0.601164554590134,Not Enough Data,100,1245.0,0.0,False
+9196761,0,0,4,0,368,Google Women's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196724,0,0,8,0,363,Google Women's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196723,0,0,7,0,363,Google Women's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197413,0,0,8,0,361,Google SF Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195265,0,5,6,0,360,Google Incognito Flap Pack,Bags,5,,1.2,1.2,,,,Not Enough Data,100,1245.0,0.0,True
+9200323,0,0,3,0,358,Google Black Cloud Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196744,0,0,3,0,356,Google Men's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196745,0,0,3,0,356,Google Men's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195211,0,0,13,0,354,Google Tudes Recycled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196693,0,0,16,0,352,Google Youth Hero Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197412,0,0,10,0,352,Google SF Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199133,0,0,10,0,351,Super G Unisex Joggers,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196907,0,0,19,0,348,#IamRemarkable Unisex T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195913,0,0,20,0,344,Womens Google Striped LS,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196635,0,0,11,0,336,Google Red Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195553,0,0,17,0,334,Google Unisex Eco Tee Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196721,0,0,5,0,331,Google Men's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196720,0,0,5,0,331,Google Men's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196856,0,50,28,0,329,Android Iconic Hat Black,Home/Apparel/Hats/,50,,0.56,0.56,,0.4230578680014353,0.6883801278976466,Not Enough Data,100,1245.0,0.0,False
+9188209,0,74,33,0,327,Google Mesh Bag Blue,Lifestyle/Bags/,74,,0.44594594594594594,0.44594594594594594,,0.33815638584551055,0.5590708037292155,Not Enough Data,100,1245.0,0.0,False
+9196694,0,0,13,0,324,Google Youth Hero Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195827,0,0,6,0,324,YouTube Standards Zip Hoodie Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195200,0,0,10,0,324,Google F/C Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197603,0,12,19,0,322,Google Kirkland Campus Mug,Campus Collection,12,,1.5833333333333333,1.5833333333333333,,,,Not Enough Data,100,1245.0,0.0,True
+9197020,0,0,9,0,320,Google Austin Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185160,0,0,7,0,319,Google Crewneck Sweatshirt Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9180823,0,31,36,0,316,Google Mini Kick Ball,Fun,31,,1.1612903225806452,1.1612903225806452,,,,Not Enough Data,100,1245.0,0.0,True
+9196747,0,0,4,0,316,Google Women's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196748,0,0,4,0,316,Google Women's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9185151,0,0,5,0,315,Google Women's Microfleece Jacket Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195919,0,0,9,0,315,Google Summer19 Crew Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184829,0,90,83,0,314,Google Light Pen Blue,Writing Instruments,90,,0.9222222222222223,0.9222222222222223,,0.8480596940416417,0.9618156704022723,Not Enough Data,100,1245.0,0.0,False
+9184912,0,0,7,0,308,Google Crewneck Sweatshirt Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196847,0,0,7,0,308,Android Iconic Crewneck Sweatshirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196939,0,0,9,0,306,Google Cambridge Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188233,0,188,46,0,305,Google Phone Stand Bamboo,Lifestyle/Small Goods/,188,,0.24468085106382978,0.24468085106382978,,0.1887446163327106,0.31084254307379977,Hidden Gem,100,1245.0,0.0,False
+9195246,0,0,10,0,305,Google Infant Charcoal Onesie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195238,0,0,12,0,305,Google Toddler FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195227,0,0,7,0,305,Google Youth FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196711,0,0,14,0,304,Google Split Seam Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195731,0,0,10,0,300,Google Campus Bike Eco Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196786,0,14,39,0,300,Google Lapel Pin,New,14,,2.7857142857142856,2.7857142857142856,,,,Not Enough Data,100,1245.0,0.0,True
+9195244,0,0,14,0,300,Google Infant Charcoal Onesie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195881,0,0,13,0,300,Unisex Google Pocket Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195882,0,0,15,0,300,Unisex Google Pocket Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9194990,0,0,6,0,300,Google Women's Grid Zip-Up,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196762,0,0,3,0,299,Google Women's Puff Jacket Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9180826,0,0,39,0,298,Google Sunglasses,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196870,0,51,28,0,294,Google Sustainable Pencil Pouch,Home/Eco-Friendly/,51,,0.5490196078431373,0.5490196078431373,,0.41384471541649237,0.6773269498886776,Not Enough Data,100,1245.0,0.0,False
+9195226,0,0,12,0,290,Google Youth FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197939,0,217,63,0,289,Google Decal,Home/Stationery/Stickers/,217,,0.2903225806451613,0.2903225806451613,,0.23399210366553022,0.35394784967659376,Hidden Gem,100,1245.0,0.0,False
+9195230,0,0,9,0,288,Google Youth FC Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196607,0,0,6,0,288,Google Badge Heavyweight Pullover Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197026,0,5,17,0,288,Google Austin Campus Tote,Campus Collection,5,,3.4,3.4,,,,Not Enough Data,100,1245.0,0.0,True
+9197380,0,0,19,0,288,Google LA Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195968,0,4,39,0,287,Google Clear Framed Gray Shades,Accessories,4,,9.75,9.75,,,,Not Enough Data,100,1245.0,0.0,True
+9185156,0,0,4,0,286,Google Crewneck Sweatshirt Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195936,0,31,17,0,286,Google Color Block Notebook,Home/Stationery/Notebooks/,31,,0.5483870967741935,0.5483870967741935,,0.37771879603669134,0.7083851716341388,Not Enough Data,100,1245.0,0.0,False
+9196978,0,3,15,0,284,Google Chicago Campus Bottle,Campus Collection,3,,5.0,5.0,,,,Not Enough Data,100,1245.0,0.0,True
+9197368,0,12,32,0,283,Google Boulder Campus Mug,Campus Collection,12,,2.6666666666666665,2.6666666666666665,,,,Not Enough Data,100,1245.0,0.0,True
+9196858,0,8,47,0,278,Google Recycled Writing Set,Clearance,8,,5.875,5.875,,,,Not Enough Data,100,1245.0,0.0,True
+9195736,0,0,11,0,275,Google Campus Bike Eco Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196722,0,0,6,0,275,Google Women's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184830,0,60,69,0,274,Google Light Pen Red,Writing Instruments,60,,1.15,1.15,,,,Not Enough Data,100,1245.0,0.0,True
+9195801,0,0,13,0,272,YouTube Icon Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196389,0,9,13,0,271,Supernatural Paper Lunch Sack,Bags,9,,1.4444444444444444,1.4444444444444444,,,,Not Enough Data,100,1245.0,0.0,True
+9196805,0,0,9,0,271,Android Pocket Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195231,0,0,9,0,270,Google Youth FC Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197592,0,0,11,0,270,Google Kirkland Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197005,0,5,15,0,270,Google Austin Campus Bottle,Campus Collection,5,,3.0,3.0,,,,Not Enough Data,100,1245.0,0.0,True
+9196857,1,37,26,0,268,Android Iconic Beanie,Home/Apparel/Hats/,38,37.0,0.7027027027027027,0.6842105263157895,26.0,0.5254394356005149,0.8091557997633335,Not Enough Data,100,1245.0,0.0,False
+9184749,0,112,50,0,268,Android Large Removable Sticker Sheet,Home/Sale/,112,,0.44642857142857145,0.44642857142857145,,0.3576589345942301,0.5387513359821432,Hidden Gem,100,1245.0,0.0,False
+9195938,0,38,24,0,267,Google Confetti Slim Task Pad,Home/Stationery/Notebooks/,38,,0.631578947368421,0.631578947368421,,0.47283672824260115,0.7661598684458619,Not Enough Data,100,1245.0,0.0,False
+9184850,0,0,25,0,267,Google Tee Yellow,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195236,0,0,12,0,265,Google Toddler FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196994,0,0,8,0,265,Google Chicago Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196938,0,0,8,0,265,Google Cambridge Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199201,0,0,6,0,264,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196699,0,0,12,0,262,Google Youth Hero Tee Maroon,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188228,1,13,27,0,258,Google 24 oz Ring Bottle Red,Google,14,13.0,2.076923076923077,1.9285714285714286,27.0,,,Not Enough Data,100,1245.0,0.0,True
+9197986,0,0,6,0,256,Google Sunnyvale Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197988,0,0,7,0,256,Google Sunnyvale Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197356,0,0,6,0,256,Google Boulder Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195927,0,16,39,0,255,Google Blue Kids Sunglasses,Accessories,16,,2.4375,2.4375,,,,Not Enough Data,100,1245.0,0.0,True
+9196412,0,0,18,0,252,Google Beekeepers Tee Mint,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195201,0,0,9,0,252,Google F/C Longsleeve Ash,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196968,0,0,7,0,251,Google NYC Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184831,0,49,61,0,250,Google Light Pen Green,Writing Instruments,49,,1.2448979591836735,1.2448979591836735,,,,Not Enough Data,100,1245.0,0.0,True
+9181151,0,4,3,0,250,Gift Card - $50.00,Gift Cards,4,,0.75,0.75,,0.3006360524426366,0.9544139373553637,Not Enough Data,100,1245.0,0.0,False
+9195791,0,0,12,0,250,YouTube Icon Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9194986,0,0,3,0,250,Google Women's Grid Zip-Up,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195967,0,7,49,0,248,Google Clear Framed Blue Shades,Accessories,7,,7.0,7.0,,,,Not Enough Data,100,1245.0,0.0,True
+9195229,0,0,8,0,246,Google Youth FC Longsleeve Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196427,0,0,15,0,246,Stan and Friends Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195245,0,0,12,0,245,Google Infant Charcoal Onesie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196806,0,0,7,0,242,Android Pocket Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196658,0,0,2,0,240,Google Raincoat Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195263,0,0,9,0,240,Google Toddler FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196916,0,0,7,0,240,#IamRemarkable Unisex Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195799,0,0,12,0,238,YouTube Icon Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197814,0,4,7,0,238,Google Large Pet Leash (Red/Yellow),Accessories,4,,1.75,1.75,,,,Not Enough Data,100,1245.0,0.0,True
+9188198,0,31,20,0,236,Google Small Cable Organizer Blue,Lifestyle/Small Goods/,31,,0.6451612903225806,0.6451612903225806,,0.469476380428149,0.7888355225843418,Not Enough Data,100,1245.0,0.0,False
+9196709,0,0,9,0,236,Google Split Seam Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197978,0,0,6,0,233,Google Mountain View Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197705,0,0,7,0,233,Google PNW Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196993,0,0,6,0,233,Google Chicago Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195247,0,0,10,0,230,Google Infant Charcoal Onesie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196864,0,54,24,0,230,Google Cork Pencil Pouch,Home/Eco-Friendly/,54,,0.4444444444444444,0.4444444444444444,,0.3200225687559781,0.5762458608863554,Not Enough Data,100,1245.0,0.0,False
+9200362,0,64,44,0,229,Google Cloud Pen,Shop by Brand,64,,0.6875,0.6875,,0.5660743364084737,0.7876909049773426,Not Enough Data,100,1245.0,0.0,False
+9197713,0,0,15,0,228,Google PNW Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195946,0,43,23,0,228,Google Campus Bike Carry Pouch,Lifestyle/Bags/,43,,0.5348837209302325,0.5348837209302325,,0.3891538972887278,0.6748917373608143,Not Enough Data,100,1245.0,0.0,False
+9195937,0,10,23,0,226,Google Confetti Task Pad,Office,10,,2.3,2.3,,,,Not Enough Data,100,1245.0,0.0,True
+9195228,0,0,10,0,225,Google Youth FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196695,0,0,10,0,224,Google Youth Hero Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197386,0,0,6,0,224,Google LA Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196891,0,3,7,0,224,Google Medium Pet Leash (Blue/Green),Accessories,3,,2.3333333333333335,2.3333333333333335,,,,Not Enough Data,100,1245.0,0.0,True
+9180842,0,113,46,0,224,Maze Pen,Home/Stationery/Writing/,113,,0.40707964601769914,0.40707964601769914,,0.32099930014289246,0.4992701929143749,Hidden Gem,100,1245.0,0.0,False
+9195294,0,14,23,0,224,Snowflake Android Cardboard Sculpture,Accessories,14,,1.6428571428571428,1.6428571428571428,,,,Not Enough Data,100,1245.0,0.0,True
+9197706,0,0,7,0,224,Google PNW Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197021,0,0,7,0,224,Google Austin Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197989,0,0,6,0,224,Google Sunnyvale Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188207,0,26,12,0,224,Google Laptop Sleeve Charcoal,Lifestyle/Bags/,26,,0.46153846153846156,0.46153846153846156,,0.28755582695234905,0.6454236379556988,Not Enough Data,100,1245.0,0.0,False
+9196780,0,0,3,0,221,Google Sherpa Vest Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196650,0,0,3,0,220,Google Sherpa Zip Hoodie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196918,0,0,6,0,220,#IamRemarkable Unisex Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196851,0,0,3,0,220,Android Iconic Crewneck Sweatshirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184979,0,96,22,0,216,Android Large Trace Journal Black,Home/Sale/,96,,0.22916666666666666,0.22916666666666666,,0.15648804837983807,0.32268696484110393,Not Enough Data,100,1245.0,0.0,False
+9197387,0,0,6,0,210,Google LA Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195802,0,0,10,0,208,YouTube Icon Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197953,0,9,13,0,207,Google Sunnyvale Campus Bottle,Campus Collection,9,,1.4444444444444444,1.4444444444444444,,,,Not Enough Data,100,1245.0,0.0,True
+9196861,0,3,19,0,207,Google Cork Journal,New,3,,6.333333333333333,6.333333333333333,,,,Not Enough Data,100,1245.0,0.0,True
+9197963,0,0,13,0,204,Google Sunnyvale Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184842,0,0,18,0,204,Google Tee Red,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197370,0,0,12,0,204,Google Infant Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196892,0,1,7,0,203,Google Large Pet Leash (Blue/Green),Accessories,1,,7.0,7.0,,,,Not Enough Data,100,1245.0,0.0,True
+9197981,0,0,6,0,201,Google Mountain View Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196830,0,0,9,0,200,Android Pocket Onesie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195794,0,0,8,0,196,YouTube Icon Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196859,0,33,40,0,196,Google Recycled Pen Black,New,33,,1.2121212121212122,1.2121212121212122,,,,Not Enough Data,100,1245.0,0.0,True
+9196889,0,3,6,0,196,Google Medium Pet Collar (Blue/Green),Accessories,3,,2.0,2.0,,,,Not Enough Data,100,1245.0,0.0,True
+9196654,0,0,2,0,192,Google Raincoat Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197980,0,0,3,0,192,Google Mountain View Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184866,0,0,16,0,191,Google Tee Blue,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196811,0,0,7,0,190,Android Pocket Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9200344,0,9,7,0,190,Google Chrome Dino Light Up Water Bottle,Shop by Brand,9,,0.7777777777777778,0.7777777777777778,,0.4525833436728054,0.9367762376877727,Not Enough Data,100,1245.0,0.0,False
+9196776,0,0,3,0,189,Google Sherpa Vest Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195555,0,0,6,0,188,Google Unisex Eco Tee Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196270,0,64,67,0,185,Google Mural Sticker Sheet,Small Goods,64,,1.046875,1.046875,,,,Not Enough Data,100,1245.0,0.0,True
+9195879,0,0,9,0,184,Unisex Google Pocket Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188311,0,13,28,0,184,Android Lumberjack Pin,Accessories,13,,2.1538461538461537,2.1538461538461537,,,,Not Enough Data,100,1245.0,0.0,True
+9196437,0,0,11,0,182,Stan and Friends Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195225,0,0,6,0,180,Google Youth FC Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9200324,0,0,3,0,179,Google Black Cloud Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188194,0,89,25,0,177,Google Mouse Pad Navy,Lifestyle/Small Goods/,89,,0.2808988764044944,0.2808988764044944,,0.19809358040575942,0.38183610628641307,Not Enough Data,100,1245.0,0.0,False
+9196691,0,0,9,0,177,Google Youth Badge Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196382,0,2,10,0,176,Google Mural Tote,Bags,2,,5.0,5.0,,,,Not Enough Data,100,1245.0,0.0,True
+9200316,0,42,22,0,172,Google Aluminum Bottle Red,Home/New/,42,,0.5238095238095238,0.5238095238095238,,0.3772221394020704,0.6664063552403504,Not Enough Data,100,1245.0,0.0,False
+9197379,0,0,11,0,172,Google LA Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197347,0,0,10,0,172,Google Boulder Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196995,0,0,5,0,169,Google Chicago Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196893,0,5,15,0,168,Google Cork Key Ring,Accessories,5,,3.0,3.0,,,,Not Enough Data,100,1245.0,0.0,True
+9196890,0,0,6,0,168,Google Large Pet Collar (Blue/Green),Accessories,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196710,0,0,7,0,168,Google Split Seam Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196872,0,12,20,0,168,Google Felt Luggage Tag,Clearance,12,,1.6666666666666667,1.6666666666666667,,,,Not Enough Data,100,1245.0,0.0,True
+9195942,0,30,14,0,168,Google Confetti Accessory Pouch,Lifestyle/Bags/,30,,0.4666666666666667,0.4666666666666667,,0.30232127224128236,0.6385798671847496,Not Enough Data,100,1245.0,0.0,False
+9197974,0,0,10,0,168,Google Sunnyvale Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196407,0,0,9,0,168,Android Garden Tee Orange,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184858,0,0,17,0,164,Google Tee Green,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196908,0,0,14,0,164,#IamRemarkable Unisex T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196782,0,4,23,0,163,Google Maps Pin,New,4,,5.75,5.75,,,,Not Enough Data,100,1245.0,0.0,True
+9184980,0,50,14,0,163,Android Small Trace Journal Black,Home/Sale/,50,,0.28,0.28,,0.17474014357680362,0.4166538714598967,Not Enough Data,100,1245.0,0.0,False
+9196714,0,0,7,0,162,Google Totepak,New,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196642,0,0,8,0,162,Google Toddler Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197420,0,0,10,0,162,Google SF Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196829,0,0,7,0,162,Android Pocket Onesie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196822,0,0,9,0,162,Android Pocket Toddler Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196268,0,0,10,0,160,Google Large White Gift Bag 5/PK,New,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197355,0,0,5,0,160,Google Boulder Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197987,0,0,4,0,160,Google Sunnyvale Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197354,0,0,4,0,160,Google Boulder Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196740,0,0,2,0,158,Google Men's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197372,0,0,10,0,158,Google Infant Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197405,0,0,11,0,158,Google SF Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196749,0,0,2,0,158,Google Women's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196643,0,0,7,0,157,Google Toddler Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196698,0,0,8,0,157,Google Youth Hero Tee Maroon,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195926,0,7,24,0,157,Google Red Kids Sunglasses,Accessories,7,,3.4285714285714284,3.4285714285714284,,,,Not Enough Data,100,1245.0,0.0,True
+9196912,0,0,11,0,156,#IamRemarkable Ladies T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196824,0,0,8,0,154,Android Pocket Toddler Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196433,0,0,10,0,154,Stan and Friends Onesie Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196906,0,0,10,0,152,#IamRemarkable Unisex T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196736,0,0,4,0,152,Google Cotopaxi Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196712,0,0,6,0,152,Google Split Seam Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196960,0,0,9,0,148,Google NYC Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196414,0,0,10,0,148,Google Beekeepers Tee Mint,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196413,0,0,10,0,148,Google Beekeepers Tee Mint,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196874,0,2,13,0,148,Google Felt Strap Keyring,New,2,,6.5,6.5,,,,Not Enough Data,100,1245.0,0.0,True
+9197812,0,3,4,0,147,Google Large Pet Collar (Red/Yellow),Accessories,3,,1.3333333333333333,1.3333333333333333,,,,Not Enough Data,100,1245.0,0.0,True
+9196840,0,0,5,0,145,Android Pocket Youth Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196419,0,0,9,0,144,Flamingo and Friends Tee Blue,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196420,0,0,8,0,144,Flamingo and Friends Tee Blue,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197955,0,0,7,0,144,Google Mountain View Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197373,0,0,9,0,144,Google Infant Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195251,0,0,4,0,144,Google Youth FC Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196442,0,0,8,0,144,Stan and Friends Toddler Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196443,0,0,9,0,144,Stan and Friends Toddler Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196831,0,0,7,0,144,Android Pocket Onesie Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196981,0,0,9,0,144,Google Chicago Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196429,0,0,8,0,144,Stan and Friends Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195797,0,0,6,0,142,YouTube Icon Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188256,0,0,9,0,141,Google Women's Black Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196868,0,12,20,0,141,Stainless Straight Straw/Cleaner,New,12,,1.6666666666666667,1.6666666666666667,,,,Not Enough Data,100,1245.0,0.0,True
+9195024,0,0,3,0,140,Google Women's Kirkland Pullover,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197371,0,0,9,0,140,Google Infant Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196953,0,0,9,0,140,Google NYC Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197811,0,4,5,0,140,Google Medium Pet Collar (Red/Yellow),Accessories,4,,1.25,1.25,,,,Not Enough Data,100,1245.0,0.0,True
+9197969,0,0,9,0,140,Google Mountain View Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196445,0,0,8,0,140,Google Beekeepers Youth Tee Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196452,0,0,9,0,140,Google Beekeepers Onesie Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196692,0,0,5,0,138,Google Youth Badge Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196428,0,0,9,0,138,Stan and Friends Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196644,0,0,7,0,138,Google Toddler Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197391,0,0,7,0,138,Google LA Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188231,0,3,9,0,138,Google Recycled Notebook Set Natural,Office,3,,3.0,3.0,,,,Not Enough Data,100,1245.0,0.0,True
+9197385,0,0,4,0,137,Google LA Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197708,0,0,4,0,137,Google PNW Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197985,0,0,4,0,137,Google Sunnyvale Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195846,0,64,50,0,135,Google Pen Citron,Clearance,64,,0.78125,0.78125,,0.665669836692222,0.8649780253865025,Not Enough Data,100,1245.0,0.0,False
+9195790,0,0,6,0,134,YouTube Icon Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196681,0,0,5,0,133,Google Toddler Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199203,0,0,3,0,132,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196285,0,0,6,0,132,Google Women's Pride Eco-Tee Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199206,0,0,2,0,132,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199204,0,0,3,0,132,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196823,0,0,7,0,131,Android Pocket Toddler Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196926,0,0,9,0,130,Google Cambridge Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196451,0,0,9,0,130,Google Beekeepers Toddler Tee Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195795,0,0,7,0,130,YouTube Icon Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196269,0,79,49,0,129,Google Pride Sticker,Home/Stationery/Stickers/,79,,0.620253164556962,0.620253164556962,,0.5100166778257305,0.7193366905302645,Not Enough Data,100,1245.0,0.0,False
+9188264,0,0,11,0,128,Google Tee Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197990,0,0,2,0,128,Google Sunnyvale Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196970,0,0,4,0,128,Google NYC Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197329,0,8,5,0,127,#IamRemarkable Pen,Home/Stationery/Writing/,8,,0.625,0.625,,0.30573785458380187,0.863158240538479,Not Enough Data,100,1245.0,0.0,False
+9196778,0,0,2,0,126,Google Sherpa Vest Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196959,0,0,9,0,126,Google NYC Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197419,0,0,6,0,126,Google SF Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196705,0,2,18,0,125,Google Yellow YoYo,New,2,,9.0,9.0,,,,Not Enough Data,100,1245.0,0.0,True
+9197399,0,5,11,0,124,Google LA Campus Bottle,Campus Collection,5,,2.2,2.2,,,,Not Enough Data,100,1245.0,0.0,True
+9196913,0,0,11,0,124,#IamRemarkable Ladies T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195010,0,0,1,0,124,Google Men's Discovery Lt. Rain Shell,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199126,0,55,23,0,122,Google Land & Sea Tech Taco,Home/New/,55,,0.41818181818181815,0.41818181818181815,,0.29737567047718927,0.5496713166883535,Not Enough Data,100,1245.0,0.0,False
+9196689,0,0,9,0,121,Google Youth Badge Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196687,0,0,8,0,120,Google Youth Badge Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196700,0,0,5,0,119,Google Youth Hero Tee Maroon,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9190336,0,181,12,0,119,YouTube Small Sticker Sheet,Home/Shop by Brand/YouTube/,181,,0.06629834254143646,0.06629834254143646,,0.0383284500706632,0.1122956518631006,Hidden Gem,100,1245.0,0.0,False
+9196237,0,7,5,0,119,Android Puzzlebot v2,Accessories,7,,0.7142857142857143,0.7142857142857143,,0.35892909014821267,0.9177828342909844,Not Enough Data,100,1245.0,0.0,False
+9197381,0,0,5,0,116,Google LA Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196432,0,0,8,0,116,Stan and Friends Onesie Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197415,0,0,3,0,114,Google SF Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196684,0,0,5,0,114,Google Toddler Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196641,0,0,6,0,114,Google Toddler Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9194991,0,0,2,0,113,Google Women's Grid Zip-Up,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197015,0,0,8,0,112,Google Austin Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196704,0,2,21,0,111,Google Blue YoYo,New,2,,10.5,10.5,,,,Not Enough Data,100,1245.0,0.0,True
+9185161,0,0,2,0,110,Google Crewneck Sweatshirt Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196896,0,0,6,0,110,Google Cork Tablet Case,Accessories,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196841,0,0,4,0,110,Android Pocket Youth Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195252,0,0,3,0,108,Google Youth FC Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196686,0,0,5,0,108,Google Youth Badge Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196821,0,0,5,0,108,Android Pocket Toddler Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196688,0,0,5,0,108,Google Youth Badge Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197041,0,0,6,0,108,Google Toddler Hero Tee Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196703,0,3,22,0,107,Google Red YoYo,New,3,,7.333333333333333,7.333333333333333,,,,Not Enough Data,100,1245.0,0.0,True
+9195842,0,53,48,0,107,Google Pen Bright Blue,Home/Stationery/Writing/,53,,0.9056603773584906,0.9056603773584906,,0.7974602432629856,0.9590279625581031,Not Enough Data,100,1245.0,0.0,False
+9197396,0,10,15,0,106,Google LA Campus Tote,Campus Collection,10,,1.5,1.5,,,,Not Enough Data,100,1245.0,0.0,True
+9197992,0,69,12,0,106,Google Jotter Task Pad,Home/Stationery/Notebooks/,69,,0.17391304347826086,0.17391304347826086,,0.10238268593034995,0.27983846242443633,Not Enough Data,100,1245.0,0.0,False
+9196690,0,0,7,0,104,Google Youth Badge Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197040,0,0,7,0,104,Google Toddler Hero Tee Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196685,0,0,7,0,104,Google Youth Badge Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195744,0,0,3,0,104,Google Dino Game Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196408,0,0,5,0,104,Android Garden Tee Orange,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196904,0,17,15,0,103,#IamRemarkable Lapel Pin,Lifestyle,17,,0.8823529411764706,0.8823529411764706,,0.6566315750229009,0.967120919987079,Not Enough Data,100,1245.0,0.0,False
+9196440,0,0,6,0,102,Stan and Friends Toddler Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197392,0,0,6,0,102,Google LA Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196411,0,0,6,0,102,Google Beekeepers Tee Mint,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196845,0,29,14,0,100,Android Iconic Sticker Sheet,Home/Stationery/Stickers/,29,,0.4827586206896552,0.4827586206896552,,0.3138581933079522,0.6556926202943085,Not Enough Data,100,1245.0,0.0,False
+9196726,0,0,2,0,99,Google Women's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199207,0,0,2,0,99,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195017,0,0,2,0,98,Google Women's Discovery Lt. Rain Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197968,0,0,6,0,98,Google Mountain View Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196807,0,0,3,0,98,Android Pocket Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197591,0,0,6,0,98,Google Kirkland Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196961,0,0,6,0,98,Google NYC Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195016,0,0,2,0,98,Google Women's Discovery Lt. Rain Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195011,0,0,2,0,98,Google Men's Discovery Lt. Rain Shell,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196434,0,0,5,0,98,Stan and Friends Onesie Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197982,0,0,3,0,96,Google Mountain View Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195389,0,0,3,0,96,Google Youth F/C Pullover Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184856,0,0,8,0,96,Google Tee Yellow,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195208,0,0,4,0,96,Google Tudes Recycled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196964,0,0,3,0,96,Google NYC Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196405,0,0,6,0,96,Android Garden Tee Orange,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197022,0,0,3,0,96,Google Austin Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195740,0,0,2,0,96,Google Dino Game Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195826,0,0,1,0,96,YouTube Standards Zip Hoodie Black,Uncategorized,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195910,0,0,6,0,96,Womens Google Striped LS,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195883,0,0,6,0,96,Unisex Google Pocket Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196971,0,70,42,0,95,Google NYC Campus Sticker,Home/Campus Collection/,70,,0.6,0.6,,0.48293583076211255,0.7066591942644307,Not Enough Data,100,1245.0,0.0,False
+9196683,0,0,5,0,95,Google Toddler Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195076,0,0,5,0,93,Google Tee F/C Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195907,0,0,5,0,92,Youth Jumbo Print Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197359,0,0,5,0,92,Google Boulder Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195908,0,0,6,0,92,Youth Jumbo Print Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196835,0,0,4,0,90,Android Pocket Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196725,0,0,2,0,88,Google Women's Tech Fleece Vest Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196423,0,0,5,0,88,Flamingo and Friends Tee Blue,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199122,0,0,2,0,88,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196949,0,28,24,0,88,Google NYC Campus Lapel Pin,Campus Collection,28,,0.8571428571428571,0.8571428571428571,,0.6850982695512267,0.9430108706929821,Not Enough Data,100,1245.0,0.0,False
+9196853,0,0,2,0,88,Android Iconic Crewneck Sweatshirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188314,0,1,9,0,88,Android Hipster Pin,Accessories,1,,9.0,9.0,,,,Not Enough Data,100,1245.0,0.0,True
+9196438,0,0,5,0,88,Stan and Friends Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196453,0,0,5,0,88,Google Beekeepers Onesie Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197007,0,0,6,0,88,Google Austin Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196619,0,0,2,0,88,Google Crewneck Sweatshirt Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195844,0,13,36,0,88,Google Pen Lilac,Stationery,13,,2.769230769230769,2.769230769230769,,,,Not Enough Data,100,1245.0,0.0,True
+9197398,0,19,38,0,87,Google LA Campus Sticker,Campus Collection,19,,2.0,2.0,,,,Not Enough Data,100,1245.0,0.0,True
+9196286,0,0,6,0,87,Google Women's Pride Eco-Tee Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197585,0,17,27,0,86,Google Seattle Campus Sticker,Campus Collection,17,,1.588235294117647,1.588235294117647,,,,Not Enough Data,100,1245.0,0.0,True
+9188333,0,0,7,0,85,Google Tonal Tee Coral,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195843,0,9,32,0,84,Google Pen Neon Coral,Stationery,9,,3.5555555555555554,3.5555555555555554,,,,Not Enough Data,100,1245.0,0.0,True
+9196426,0,0,6,0,84,Stan and Friends Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195941,0,6,15,0,83,Google Striped Penny Pouch,Bags,6,,2.5,2.5,,,,Not Enough Data,100,1245.0,0.0,True
+9196798,0,17,23,0,82,Android Iconic Pen,New,17,,1.3529411764705883,1.3529411764705883,,,,Not Enough Data,100,1245.0,0.0,True
+9196999,0,4,9,0,82,Google Chicago Campus Tote,Campus Collection,4,,2.25,2.25,,,,Not Enough Data,100,1245.0,0.0,True
+9195909,0,0,4,0,82,Youth Jumbo Print Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196909,0,0,7,0,82,#IamRemarkable Unisex T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197042,0,0,5,0,82,Google Toddler Hero Tee Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199077,0,0,4,0,80,Google Land & Sea Women's Eco Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196406,0,0,4,0,80,Android Garden Tee Orange,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195796,0,0,4,0,80,YouTube Icon Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199079,0,0,4,0,80,Google Land & Sea Women's Eco Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195737,0,0,4,0,80,Google Campus Bike Eco Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188193,0,22,8,0,79,Google Cloth & Pouch Black,Lifestyle/Small Goods/,22,,0.36363636363636365,0.36363636363636365,,0.19732972772607899,0.5704865065628195,Not Enough Data,100,1245.0,0.0,False
+9196871,0,40,13,0,79,Google Tech Taco,Lifestyle/Small Goods/,40,,0.325,0.325,,0.20084316962661725,0.4798254191110201,Not Enough Data,100,1245.0,0.0,False
+9196802,0,20,19,0,79,Android Iconic Pin,New,20,,0.95,0.95,,0.7638641064874331,0.9911187805671268,Not Enough Data,100,1245.0,0.0,False
+9196746,0,0,1,0,79,Google Women's Softshell Moss,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197039,0,0,6,0,78,Google Toddler Hero Tee Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196919,0,0,3,0,78,#IamRemarkable Unisex Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195920,0,0,2,0,78,Google Summer19 Crew Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196267,0,3,9,0,78,Google Small White Gift Bag 5/PK,New,3,,3.0,3.0,,,,Not Enough Data,100,1245.0,0.0,True
+9196923,0,31,7,0,77,Google Cambridge Campus Bottle,Home/Campus Collection/,31,,0.22580645161290322,0.22580645161290322,,0.11394991594498799,0.3981276005869738,Not Enough Data,100,1245.0,0.0,False
+9195847,0,12,28,0,76,Google Pen Red,Stationery,12,,2.3333333333333335,2.3333333333333335,,,,Not Enough Data,100,1245.0,0.0,True
+9188200,0,51,31,0,75,Google Pen Grey,Home/Stationery/Writing/,51,,0.6078431372549019,0.6078431372549019,,0.4708491122516505,0.7297285514197229,Not Enough Data,100,1245.0,0.0,False
+9196932,0,0,4,0,74,Google Cambridge Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197962,0,0,4,0,74,Google Sunnyvale Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197973,0,0,4,0,74,Google Sunnyvale Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197388,0,0,2,0,73,Google LA Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196639,0,0,3,0,72,Google Red Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195030,0,0,2,0,72,Google Tudes Thermal Bottle,Drinkware,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196773,0,0,1,0,71,Google Women's Tech Fleece Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196986,0,0,2,0,70,Google Chicago Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196987,0,0,5,0,70,Google Chicago Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197346,0,0,5,0,70,Google Boulder Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196448,0,0,4,0,70,Google Beekeepers Toddler Tee Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196425,0,0,4,0,70,Stan and Friends Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196815,0,0,3,0,69,Android Pocket Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188313,0,2,6,0,66,Android Geek Pin,Accessories,2,,3.0,3.0,,,,Not Enough Data,100,1245.0,0.0,True
+9197367,0,1,4,0,66,Google Boulder Campus Bottle,Campus Collection,1,,4.0,4.0,,,,Not Enough Data,100,1245.0,0.0,True
+9197949,0,8,7,0,66,Google Sunnyvale Campus Tote,Campus Collection,8,,0.875,0.875,,0.5291051942301386,0.9775830911367038,Not Enough Data,100,1245.0,0.0,False
+9195845,0,26,28,0,65,Google Pen Grass Green,Stationery,26,,1.0769230769230769,1.0769230769230769,,,,Not Enough Data,100,1245.0,0.0,True
+9196839,0,0,3,0,65,Android Pocket Youth Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197983,0,0,2,0,64,Google Mountain View Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196404,0,0,1,0,64,Android Garden Tee Orange,Uncategorized,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196940,0,0,1,0,64,Google Cambridge Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195765,0,0,4,0,64,Google Tee Mint Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197019,0,0,1,0,64,Google Austin Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197018,0,0,2,0,64,Google Austin Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188270,0,0,5,0,63,Google Tee Grey,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9194992,0,0,1,0,63,Google Women's Grid Zip-Up,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195803,0,0,2,0,62,YouTube Icon Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195800,0,0,2,0,62,YouTube Icon Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196833,0,0,3,0,60,Android Pocket Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196415,0,0,4,0,60,Google Beekeepers Tee Mint,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197565,0,8,6,0,58,Google PNW Campus Tote,Campus Collection,8,,0.75,0.75,,0.40926987910258916,0.9285223111419724,Not Enough Data,100,1245.0,0.0,False
+9199168,0,0,1,0,58,BLM Unisex Pullover Hoodie,Black Lives Matter,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196682,0,0,3,0,57,Google Toddler Hero Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199225,0,11,3,0,56,Google Land & Sea Mug,Home/New/,11,,0.2727272727272727,0.2727272727272727,,0.09745880573921467,0.5656502930102463,Not Enough Data,100,1245.0,0.0,False
+9195934,0,17,22,0,56,Google Confetti Pen White,Office,17,,1.2941176470588236,1.2941176470588236,,,,Not Enough Data,100,1245.0,0.0,True
+9197596,0,0,3,0,56,Google Kirkland Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197597,0,0,3,0,56,Google Kirkland Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196982,0,0,4,0,56,Google Chicago Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9184961,0,0,5,0,56,YouTube Women's Favorite Tee White,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197579,0,0,3,0,56,Google Seattle Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197813,0,3,2,0,56,Google Medium Pet Leash (Red/Yellow),Accessories,3,,0.6666666666666666,0.6666666666666666,,0.2076549551264879,0.9385096847238394,Not Enough Data,100,1245.0,0.0,False
+9196454,0,0,4,0,56,Google Beekeepers Onesie Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197970,0,0,4,0,56,Google Mountain View Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197975,0,0,4,0,56,Google Sunnyvale Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196441,0,0,4,0,56,Stan and Friends Toddler Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196444,0,0,2,0,56,Google Beekeepers Youth Tee Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9200318,0,0,1,0,55,Google Black Cloud Zip Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199123,0,0,1,0,55,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197366,0,14,21,0,55,Google Boulder Campus Sticker,Campus Collection,14,,1.5,1.5,,,,Not Enough Data,100,1245.0,0.0,True
+9195207,0,0,2,0,54,Google Tudes Recycled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196860,0,12,11,0,54,Google Recycled Pen Green,New,12,,0.9166666666666666,0.9166666666666666,,0.6461140782014047,0.9851352905492264,Not Enough Data,100,1245.0,0.0,False
+9180867,0,19,22,0,53,Google Frisbee,Shop by Brand,19,,1.1578947368421053,1.1578947368421053,,,,Not Enough Data,100,1245.0,0.0,True
+9196943,0,34,18,0,53,Google Cambridge Campus Sticker,Home/Campus Collection/,34,,0.5294117647058824,0.5294117647058824,,0.3673644042005483,0.6854874836688863,Not Enough Data,100,1245.0,0.0,False
+9196844,0,41,17,0,53,"Android Iconic 4"" Decal",Home/Stationery/Stickers/,41,,0.4146341463414634,0.4146341463414634,,0.2775633082533015,0.5663316464316339,Not Enough Data,100,1245.0,0.0,False
+9196409,0,0,3,0,52,Android Garden Tee Orange,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195012,0,0,1,0,49,Google Women's Discovery Lt. Rain Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196634,0,0,2,0,48,Google Red Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196627,0,0,2,0,48,Google Navy Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196421,0,0,3,0,48,Flamingo and Friends Tee Blue,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195209,0,0,1,0,48,Google Tudes Recycled Tee,Uncategorized,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197424,0,6,13,0,47,Google SF Campus Lapel Pin,Campus Collection,6,,2.1666666666666665,2.1666666666666665,,,,Not Enough Data,100,1245.0,0.0,True
+9197993,0,23,12,0,47,Android Jotter Task Pad,Home/Eco-Friendly/,23,,0.5217391304347826,0.5217391304347826,,0.3296242986421849,0.7076313046005427,Not Enough Data,100,1245.0,0.0,False
+9196900,0,5,6,0,46,#IamRemarkable Tote,Bags,5,,1.2,1.2,,,,Not Enough Data,100,1245.0,0.0,True
+9199164,0,0,1,0,46,BLM Unisex Pullover Hoodie,Black Lives Matter,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196852,0,0,1,0,44,Android Iconic Crewneck Sweatshirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196867,0,30,13,0,44,Stainless Bent Straw/Cleaner,Lifestyle/Drinkware/,30,,0.43333333333333335,0.43333333333333335,,0.2737723743061511,0.6080299045459127,Not Enough Data,100,1245.0,0.0,False
+9199118,0,0,1,0,44,Google Land & Sea French Terry Sweatshirt,Shop by Brand,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196696,0,0,2,0,43,Google Youth Hero Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196962,0,0,3,0,42,Google NYC Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197361,0,0,3,0,42,Google Boulder Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196416,0,0,3,0,42,Google Beekeepers Tee Mint,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197383,0,0,2,0,42,Google LA Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197573,0,0,2,0,42,Google Seattle Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196449,0,0,3,0,42,Google Beekeepers Toddler Tee Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196455,0,0,2,0,42,Google Beekeepers Onesie Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197971,0,0,3,0,42,Google Mountain View Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197976,0,0,2,0,42,Google Sunnyvale Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197003,0,5,12,0,42,Google Austin Campus Lapel Pin,Campus Collection,5,,2.4,2.4,,,,Not Enough Data,100,1245.0,0.0,True
+9195734,0,0,1,0,40,Google Campus Bike Eco Tee Navy,Uncategorized,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196865,0,20,4,0,40,Google Bottle Cleaner,Lifestyle/Drinkware/,20,,0.2,0.2,,0.0806563532712,0.41602172202575993,Not Enough Data,100,1245.0,0.0,False
+9184848,0,0,4,0,40,Google Tee Red,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196905,0,0,4,0,40,#IamRemarkable Unisex T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196730,0,0,1,0,38,Google Cotopaxi Shell,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195714,0,0,1,0,36,Google Women's Eco Tee Black,Uncategorized,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196944,0,10,4,0,36,Google Cambridge Campus Tote,Home/Campus Collection/,10,,0.4,0.4,,0.16817758120350967,0.6873304525498135,Not Enough Data,100,1245.0,0.0,False
+9197364,0,2,6,0,36,Google Boulder Campus Tote,Campus Collection,2,,3.0,3.0,,,,Not Enough Data,100,1245.0,0.0,True
+9195554,0,0,2,0,36,Google Unisex Eco Tee Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197397,0,7,11,0,36,Google LA Campus Lapel Pin,Campus Collection,7,,1.5714285714285714,1.5714285714285714,,,,Not Enough Data,100,1245.0,0.0,True
+9197427,0,0,4,0,35,Google SF Campus Mug,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196915,0,0,3,0,32,#IamRemarkable Ladies T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197352,0,0,1,0,32,Google Boulder Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196969,0,0,1,0,32,Google NYC Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197357,0,0,1,0,32,Google Boulder Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196937,0,0,1,0,32,Google Cambridge Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197382,0,0,2,0,32,Google LA Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197384,0,0,1,0,32,Google LA Campus Zip Hoodie,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196910,0,0,3,0,32,#IamRemarkable Unisex T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196929,0,0,2,0,32,Google Cambridge Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197404,0,0,2,0,32,Google SF Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196933,0,0,2,0,32,Google Cambridge Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195390,0,0,1,0,32,Google Youth F/C Pullover Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197979,0,0,1,0,32,Google Mountain View Campus Zip Hoodie,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196808,0,0,1,0,29,Android Pocket Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197604,0,5,7,0,29,Google Bellevue Campus Sticker,Campus Collection,5,,1.4,1.4,,,,Not Enough Data,100,1245.0,0.0,True
+9195759,0,0,2,0,28,Google Tee Mint Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196446,0,0,2,0,28,Google Beekeepers Youth Tee Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197348,0,0,2,0,28,Google Boulder Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197947,0,26,13,0,28,Google Sunnyvale Campus Sticker,Home/Campus Collection/,26,,0.5,0.5,,0.32060306315002074,0.6793969368499793,Not Enough Data,100,1245.0,0.0,False
+9196988,0,0,2,0,28,Google Chicago Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197560,0,0,2,0,28,Google PNW Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196456,0,0,2,0,28,Google Beekeepers Onesie Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197595,0,0,2,0,28,Google Kirkland Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197598,0,0,2,0,28,Google Kirkland Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197016,0,0,2,0,28,Google Austin Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197590,0,0,2,0,28,Google Kirkland Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196435,0,0,2,0,28,Stan and Friends Onesie Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197581,0,0,2,0,28,Google Seattle Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197406,0,0,2,0,28,Google SF Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9188325,0,0,2,0,27,Google Tonal Tee Spearmint,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196920,0,0,1,0,26,#IamRemarkable Unisex Hoodie,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197946,0,38,10,0,25,Google Mountain View Campus Sticker,Home/Campus Collection/,38,,0.2631578947368421,0.2631578947368421,,0.14971462389701296,0.42009150206375323,Not Enough Data,100,1245.0,0.0,False
+9196834,0,0,1,0,25,Android Pocket Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196836,0,0,1,0,25,Android Pocket Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195213,0,0,1,0,24,Google Tudes Recycled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196799,0,2,1,0,24,Android Iconic Bottle Black,Lifestyle/Drinkware/,2,,0.5,0.5,,0.09452865480086614,0.9054713451991339,Not Enough Data,100,1245.0,0.0,False
+9195888,0,0,2,0,24,Unisex Google Jumbo Print Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196976,0,3,7,0,24,Google Chicago Campus Lapel Pin,Campus Collection,3,,2.3333333333333335,2.3333333333333335,,,,Not Enough Data,100,1245.0,0.0,True
+9196620,0,0,1,0,24,Google Heather Green Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196804,0,0,1,0,23,Android Pocket Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197602,0,8,9,0,23,Google Kirkland Campus Sticker,Campus Collection,8,,1.125,1.125,,,,Not Enough Data,100,1245.0,0.0,True
+9197567,0,29,9,0,23,Google PNW Campus Sticker,Home/Campus Collection/,29,,0.3103448275862069,0.3103448275862069,,0.17275424489768065,0.49230470472718546,Not Enough Data,100,1245.0,0.0,False
+9196803,0,0,1,0,23,Android Pocket Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196810,0,0,1,0,23,Android Pocket Tee Navy,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197584,0,2,7,0,23,Google Seattle Campus Lapel Pin,Campus Collection,2,,3.5,3.5,,,,Not Enough Data,100,1245.0,0.0,True
+9196625,0,0,1,0,21,Google Heather Green Speckled Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196713,0,0,1,0,21,Google Split Seam Tee Olive,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197566,0,4,7,0,21,Google PNW Campus Lapel Pin,Campus Collection,4,,1.75,1.75,,,,Not Enough Data,100,1245.0,0.0,True
+9196410,0,0,1,0,20,Android Garden Tee Orange,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196837,0,0,1,0,20,Android Pocket Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199081,0,0,1,0,20,Google Land & Sea Women's Eco Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196914,0,0,2,0,20,#IamRemarkable Ladies T-Shirt,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9199080,0,0,1,0,20,Google Land & Sea Women's Eco Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197972,0,0,1,0,18,Google Mountain View Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195793,0,0,1,0,18,YouTube Icon Tee Charcoal,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196925,0,0,1,0,18,Google Cambridge Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197562,0,0,1,0,18,Google PNW Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197033,0,0,1,0,18,Android Pocket Onesie White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197564,0,0,1,0,18,Google PNW Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197035,0,0,1,0,18,Android Pocket Toddler Tee White,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196430,0,0,1,0,18,Stan and Friends Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196418,0,0,1,0,16,Flamingo and Friends Tee Blue,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196422,0,0,1,0,16,Flamingo and Friends Tee Blue,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197365,0,0,4,0,16,Google Boulder Campus Lapel Pin,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195880,0,0,1,0,16,Unisex Google Pocket Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195914,0,0,1,0,16,Womens Google Striped LS,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195878,0,0,1,0,16,Unisex Google Pocket Tee Grey,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196921,0,27,5,0,15,Google Cambridge Campus Lapel Pin,Home/Campus Collection/,27,,0.18518518518518517,0.18518518518518517,,0.0818058657428532,0.36699056505191746,Not Enough Data,100,1245.0,0.0,False
+9197006,0,0,1,0,14,Google Austin Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196980,0,0,1,0,14,Google Chicago Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197561,0,0,1,0,14,Google PNW Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196963,0,0,1,0,14,Google NYC Campus Ladies Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196450,0,0,1,0,14,Google Beekeepers Toddler Tee Pink,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197351,0,0,1,0,14,Google Boulder Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197422,0,0,1,0,14,Google SF Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197345,0,0,1,0,14,Google Boulder Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196985,0,0,1,0,14,Google Chicago Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196930,0,0,1,0,14,Google Cambridge Campus Unisex Tee,Campus Collection,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197563,0,0,1,0,14,Google PNW Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197711,0,0,1,0,14,Google PNW Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195745,0,0,1,0,14,Google Mountain View Tee Red,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197395,0,0,1,0,14,Google LA Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197360,0,0,1,0,14,Google Boulder Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197363,0,0,1,0,14,Google Boulder Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197712,0,0,1,0,14,Google PNW Campus Unisex Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9196439,0,0,1,0,14,Stan and Friends Youth Tee Green,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195780,0,0,1,0,14,Google Women's Ringer Tee,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197600,0,0,1,0,14,Google Kirkland Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9197393,0,0,1,0,14,Google LA Campus Ladies Tee,Clearance,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195075,0,0,1,0,12,Google Tee F/C Black,Apparel,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195070,0,0,1,0,12,Google Tee F/C Black,Uncategorized Items,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9195293,0,3,1,0,8,Candy Cane Android Cardboard Sculpture,Lifestyle/Small Goods/,3,,0.3333333333333333,0.3333333333333333,,0.0614903152761605,0.7923450448735121,Not Enough Data,100,1245.0,0.0,False
+9197601,0,3,2,0,6,Google Kirkland Campus Lapel Pin,Home/Campus Collection/,3,,0.6666666666666666,0.6666666666666666,,0.2076549551264879,0.9385096847238394,Not Enough Data,100,1245.0,0.0,False
+9188206,0,1,1,0,6,Google Separating Keyring,Accessories,1,,1.0,1.0,,0.20654329147389294,1.0,Not Enough Data,100,1245.0,0.0,False
+9188230,0,0,2,0,6,Android Flex Journal White,Lifestyle,0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,True
+9182173,0,25,1,0,4,Google Stylus Pen w/ LED Light,Home/Stationery/Writing/,25,,0.04,0.04,,0.007096050386699165,0.19544472405022525,Not Enough Data,100,1245.0,0.0,False
+9184832,0,4,1,0,2,Google Light Pen Yellow,Home/Stationery/Writing/,4,,0.25,0.25,,0.045586062644636216,0.6993639475573634,Not Enough Data,100,1245.0,0.0,False
+GGOEGGCX056399,31,9,0,0,0,Gift Card - $250.00,Home/Gift Cards/,40,0.2903225806451613,0.0,0.0,0.0,0.0,0.08762453925039232,Not Enough Data,100,1245.0,0.0,False
+GGOEGCBH145799,140,58,0,0,0,Google LA Campus Lapel Pin,Home/Campus Collection/,198,0.4142857142857143,0.0,0.0,0.0,0.0,0.01903274647049964,Low Priority,100,1245.0,0.0,False
+GGOEGCBD142299,1211,240,0,0,0,Google Cork Tablet Case,Home/Eco-Friendly/,1451,0.1981833195706028,0.0,0.0,0.0,0.0,0.0026405623814991265,Window-Shopper,100,1245.0,0.0,False
+GGOEGGCX056499,37,9,0,0,0,Gift Card - $50.00,Home/Gift Cards/,46,0.24324324324324326,0.0,0.0,0.0,0.0,0.07707617732978073,Not Enough Data,100,1245.0,0.0,False
+GGOEGGCX092599,33,9,0,0,0,Gift Card - $10.00,Home/Gift Cards/,42,0.2727272727272727,0.0,0.0,0.0,0.0,0.08380161250916197,Not Enough Data,100,1245.0,0.0,False
+GGOEGGOA017399,2085,471,0,0,0,Maze Pen,Home/Stationery/,2556,0.22589928057553957,0.0,0.0,0.0,0.0,0.0015007178569173968,Window-Shopper,100,1245.0,0.0,False
+GGOEGHGA118699,1212,230,0,0,0,Google Premium Sunglasses,Home/Shop by Brand/,1442,0.18976897689768976,0.0,0.0,0.0,0.0,0.002656999217618306,Window-Shopper,100,1245.0,0.0,False
+GGOEGHGA118599,851,197,0,0,0,Google Blue Kids Sunglasses,Home/Shop by Brand/Google/,1048,0.23149236192714454,0.0,0.0,0.0,0.0,0.003652260948796853,Low Priority,100,1245.0,0.0,False
+GGOEGHBJ101899,731,116,0,0,0,Google Twill Cap Charcoal,Home/Apparel/Hats/,847,0.15868673050615595,0.0,0.0,0.0,0.0,0.00451505897219882,Low Priority,100,1245.0,0.0,False
+GGOEGCBH136399,36,0,0,0,0,Google Green YoYo,Accessories/,36,0.0,,0.0,0.0,0.0,0.09642183044857634,Not Enough Data,100,1245.0,0.0,False
+GGOEGCBH143699,103,39,0,0,0,Google Boulder Campus Lapel Pin,Home/Campus Collection/,142,0.3786407766990291,0.0,0.0,0.0,0.0,0.02634090684688045,Low Priority,100,1245.0,0.0,False
+GGOEGHGA118499,1109,232,0,0,0,Google Red Kids Sunglasses,Home/Shop by Brand/,1341,0.20919747520288548,0.0,0.0,0.0,0.0,0.0028565445923148126,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKT149599,704,283,0,0,0,Google Bellevue Campus Sticker,Home/Sale/,987,0.40198863636363635,0.0,0.0,0.0,0.0,0.0038771081068861056,Low Priority,100,1245.0,0.0,False
+GGOEGHGH124899,505,138,0,0,0,Google Clear Framed Blue Shades,Sale,643,0.2732673267326733,0.0,0.0,0.0,0.0,0.005939011962124884,Low Priority,100,1245.0,0.0,False
+GGOEGCBC140799,81,33,0,0,0,Google Chicago Campus Lapel Pin,Home/Campus Collection/,114,0.4074074074074074,0.0,0.0,0.0,0.0,0.03259969314741144,Low Priority,100,1245.0,0.0,False
+GGOEGOAR090099,1599,626,0,0,0,Google Light Pen Red,Home/Stationery/Writing/,2225,0.391494684177611,0.0,0.0,0.0,0.0,0.0017235859201479367,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAR124299,200,85,0,0,0,Google Pen Red,Writing,285,0.425,0.0,0.0,0.0,0.0,0.013300023265346819,Low Priority,100,1245.0,0.0,False
+GGOEGCBC148599,109,54,0,0,0,Google Seattle Campus Lapel Pin,Home/Campus Collection/,163,0.4954128440366973,0.0,0.0,0.0,0.0,0.023025432506041655,Low Priority,100,1245.0,0.0,False
+GGOEGCBC146699,229,79,0,0,0,Google SF Campus Lapel Pin,Home/Campus Collection/,308,0.34497816593886466,0.0,0.0,0.0,0.0,0.012319074812340625,Low Priority,100,1245.0,0.0,False
+GGOEGOAT090299,119,59,0,0,0,Google Light Pen Yellow,Home/Stationery/Writing/,178,0.4957983193277311,0.0,0.0,0.0,0.0,0.021126078961029818,Low Priority,100,1245.0,0.0,False
+GGOEGOCA121499,2332,420,0,0,0,Google Color Block Notebook,Home/Shop by Brand/Google/,2752,0.18010291595197256,0.0,0.0,0.0,0.0,0.001393984327691403,Window-Shopper,100,1245.0,0.0,False
+GGOEGOCA121599,1511,295,0,0,0,Google Confetti Task Pad,Home/Shop by Brand/Google/,1806,0.19523494374586367,0.0,0.0,0.0,2.168404344971009e-19,0.0021226166975054613,Window-Shopper,100,1245.0,0.0,False
+GGOEGOCA121699,2790,795,0,0,0,Google Confetti Slim Task Pad,Home/Stationery/Notebooks/,3585,0.2849462365591398,0.0,0.0,0.0,0.0,0.0010704289651568904,Window-Shopper,100,1245.0,0.0,False
+GGOEGOCA121799,1848,539,0,0,0,Google Campus Bike Grid Task Pad,Home/Shop by Brand/Google/,2387,0.2916666666666667,0.0,0.0,0.0,0.0,0.0016067982086308019,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBD142199,1285,264,0,0,0,Google Cork Passport Holder,Home/Eco-Friendly/,1549,0.20544747081712061,0.0,0.0,0.0,0.0,0.0024739162062634074,Window-Shopper,100,1245.0,0.0,False
+GGOEGOCB131799,3332,946,0,0,0,Google Black Cork Journal,Home/Stationery/Notebooks/,4278,0.28391356542617047,0.0,0.0,0.0,0.0,0.0008971840527683228,Window-Shopper,100,1245.0,0.0,False
+GGOEGOCD131699,276,74,0,0,0,Google Cork Journal,Notebooks,350,0.26811594202898553,0.0,0.0,0.0,0.0,0.010856835374924824,Low Priority,100,1245.0,0.0,False
+GGOEGOCJ093999,3334,951,0,0,0,Google Large Standard Journal Grey,Home/Stationery/Notebooks/,4285,0.28524295140971806,0.0,0.0,0.0,0.0,0.0008957197206816872,Window-Shopper,100,1245.0,0.0,False
+GGOEGOCK100599,270,44,0,0,0,Google Recycled Notebook Set Natural,Home/Stationery/Notebooks/,314,0.16296296296296298,0.0,0.0,0.0,0.0,0.01208652360169342,Low Priority,100,1245.0,0.0,False
+GGOEGOCL092999,10394,3096,0,0,0,Google Small Standard Journal Navy,Home/Sale/,13490,0.29786415239561287,0.0,0.0,0.0,0.0,0.00028469283350710146,Window-Shopper,100,1245.0,0.0,False
+GGOEGOCR132199,1647,491,0,0,0,Google ApPeel Journal Red,Home/Stationery/Notebooks/,2138,0.29811778992106863,0.0,0.0,0.0,0.0,0.001793596688009048,Window-Shopper,100,1245.0,0.0,False
+GGOEYXXX1207,5859,949,0,0,0,YouTube Standards Zip Hoodie Black,Home/Shop by Brand/YouTube/,6808,0.16197303294077486,0.0,0.0,0.0,0.0,0.0005639590914738828,Window-Shopper,100,1245.0,0.0,False
+GGOEYXXX1203,14664,2341,0,0,0,YouTube Icon Tee Grey,Home/Apparel/Men's / Unisex/,17005,0.15964266230223678,0.0,0.0,0.0,0.0,0.00022585900264953963,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAR013099,920,337,0,0,0,Google Stylus Pen w/ LED Light,Home/Stationery/Writing/,1257,0.36630434782608695,0.0,0.0,0.0,0.0,0.0030468537840122024,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAQ121299,960,207,0,0,0,Google Confetti Pen White,Home/Shop by Brand/Google/,1167,0.215625,0.0,0.0,0.0,0.0,0.003281058684624803,Low Priority,100,1245.0,0.0,False
+GGOEGOAQ101299,3174,1055,0,0,0,Google Pen White,Home/Stationery/Writing/,4229,0.3323881537492123,0.0,0.0,0.0,0.0,0.0009075699879721461,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAP123999,392,135,0,0,0,Google Pen Lilac,Office/,527,0.34438775510204084,0.0,0.0,0.0,0.0,0.00723681037808642,Low Priority,100,1245.0,0.0,False
+GGOEGCBD142099,1324,273,0,0,0,Google Cork Card Holder,Home/Eco-Friendly/,1597,0.20619335347432025,0.0,0.0,0.0,0.0,0.002399737737949838,Window-Shopper,100,1245.0,0.0,False
+GGOEGHGJ124999,572,120,0,0,0,Google Clear Framed Gray Shades,Sale,692,0.2097902097902098,0.0,0.0,0.0,0.0,0.0055207966870621135,Low Priority,100,1245.0,0.0,False
+GGOEGHGT124799,1643,233,0,0,0,Google Clear Framed Yellow Shades,Sale,1876,0.14181375532562385,0.0,0.0,0.0,0.0,0.002043576437504096,Window-Shopper,100,1245.0,0.0,False
+GGOEGHPB120910,7083,2675,0,0,0,Google Leather Strap Hat Black,Home/Apparel/Hats/,9758,0.37766483128617817,0.0,0.0,0.0,0.0,0.0003935323023475406,Window-Shopper,100,1245.0,0.0,False
+GGOEGHPC120810,8691,3187,0,0,0,Google Leather Strap Hat Blue,Home/Apparel/Hats/,11878,0.3667011851340467,0.0,0.0,0.0,0.0,0.0003233168838069681,Window-Shopper,100,1245.0,0.0,False
+GGOEGHPJ107510,1473,0,0,0,0,Google Tracking Hat,Home/Apparel/,1473,0.0,,0.0,0.0,0.0,0.002601226834347028,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAA101199,3134,1067,0,0,0,Google Clear Pen 4-Pack,Home/Stationery/Writing/,4201,0.3404594767070836,0.0,0.0,0.0,0.0,0.0009136134878422054,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAB131499,3063,598,0,0,0,Google Recycled Pen Black,Home/Eco-Friendly/,3661,0.1952334312765263,0.0,0.0,0.0,0.0,0.0010482308430465317,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAC089999,2337,882,0,0,0,Google Light Pen Blue,Home/Stationery/Writing/,3219,0.3774069319640565,0.0,0.0,0.0,0.0,0.0011919915642146358,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAC123799,1416,556,0,0,0,Google Pen Bright Blue,Home/Stationery/Writing/,1972,0.3926553672316384,0.0,0.0,0.0,0.0,0.0019442854123528927,Window-Shopper,100,1245.0,0.0,False
+GGOEGGCX056299,43,9,0,0,0,Gift Card - $25.00,Home/Gift Cards/,52,0.20930232558139536,0.0,0.0,0.0,0.0,0.06879459041288215,Not Enough Data,100,1245.0,0.0,False
+GGOEGOAH090199,1232,466,0,0,0,Google Light Pen Green,Home/Stationery/Writing/,1698,0.3782467532467532,0.0,0.0,0.0,0.0,0.0022573193650924973,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAH124099,1074,437,0,0,0,Google Pen Grass Green,Home/Stationery/Writing/,1511,0.4068901303538175,0.0,0.0,0.0,0.0,0.0025359747184128026,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAH124199,1947,626,0,0,0,Google Pen Citron,Home/Stationery/Writing/,2573,0.32152028762198254,0.0,0.0,0.0,0.0,0.0014908172857811671,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAH131599,1462,333,0,0,0,Google Recycled Pen Green,Home/Eco-Friendly/,1795,0.22777017783857728,0.0,0.0,0.0,0.0,0.0021355965972768252,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAJ101399,1120,459,0,0,0,Google Pen Grey,Home/Stationery/Writing/,1579,0.40982142857142856,0.0,0.0,0.0,0.0,0.00242702744229113,Window-Shopper,100,1245.0,0.0,False
+GGOEGOAN123899,328,136,0,0,0,Google Pen Neon Coral,Home/Stationery/,464,0.4146341463414634,0.0,0.0,0.0,0.0,0.00821132622665449,Low Priority,100,1245.0,0.0,False
+GGOEGOAD131399,849,223,0,0,0,Google Recycled Writing Set,Sale,1072,0.2626619552414605,0.0,0.0,0.0,0.0,0.00357078588520838,Low Priority,100,1245.0,0.0,False
+GGOEGDWM145899,334,160,0,0,0,Google LA Campus Mug,Home/Campus Collection/,494,0.47904191616766467,0.0,0.0,0.0,0.0,0.0077165106331009686,Low Priority,100,1245.0,0.0,False
+GGOEGGCX056199,14,0,0,0,0,Gift Card- $100.00,Home/Gift Cards/,14,0.0,,0.0,0.0,0.0,0.21531701192718142,Not Enough Data,100,1245.0,0.0,False
+GGOEGDHJ140999,213,73,0,0,0,Google Chicago Campus Bottle,Home/Campus Collection/,286,0.3427230046948357,0.0,0.0,0.0,0.0,0.013254136052243707,Low Priority,100,1245.0,0.0,False
+GGOEGDHJ142599,227,72,0,0,0,Google Austin Campus Bottle,Home/Campus Collection/,299,0.31718061674008813,0.0,0.0,0.0,0.0,0.012685179314862951,Low Priority,100,1245.0,0.0,False
+GGOEGDHJ143899,147,48,0,0,0,Google Boulder Campus Bottle,Home/Campus Collection/,195,0.32653061224489793,0.0,0.0,0.0,0.0,0.019319900865814796,Low Priority,100,1245.0,0.0,False
+GGOEGCKH152299,952,390,0,0,0,Google Mountain View Campus Sticker,Home/Sale/,1342,0.4096638655462185,0.0,0.0,0.0,0.0,0.002854422095438274,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKH148999,783,333,0,0,0,Google Seattle Campus Sticker,Home/Sale/,1116,0.42528735632183906,0.0,0.0,0.0,0.0,0.0034304851686167044,Low Priority,100,1245.0,0.0,False
+GGOEGDHJ145999,198,70,0,0,0,Google LA Campus Bottle,Home/Campus Collection/,268,0.35353535353535354,0.0,0.0,0.0,0.0,0.014131759083230822,Low Priority,100,1245.0,0.0,False
+GGOEGDHJ146899,344,119,0,0,0,Google SF Campus Bottle,Home/Campus Collection/,463,0.34593023255813954,0.0,0.0,0.0,0.0,0.008228915332309716,Low Priority,100,1245.0,0.0,False
+GGOEGDHJ147999,167,63,0,0,0,Google PNW Campus Bottle,Home/Campus Collection/,230,0.3772455089820359,0.0,0.0,0.0,0.0,0.01642821465470643,Low Priority,100,1245.0,0.0,False
+GGOEGCKH148399,800,333,0,0,0,Google PNW Campus Sticker,Home/Sale/,1133,0.41625,0.0,0.0,0.0,0.0,0.003379186687045935,Low Priority,100,1245.0,0.0,False
+GGOEGCKD141999,1194,265,0,0,0,Google Cork Key Ring,Home/Eco-Friendly/,1459,0.2219430485762144,0.0,0.0,0.0,0.0,0.0026261216525425585,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKC152399,922,379,0,0,0,Google Sunnyvale Campus Sticker,Home/Sale/,1301,0.41106290672451196,0.0,0.0,0.0,0.0,0.0029441121435735953,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKC146399,805,334,0,0,0,Google LA Campus Sticker,Home/Sale/,1139,0.41490683229813663,0.0,0.0,0.0,0.0,0.0033614457156617324,Low Priority,100,1245.0,0.0,False
+GGOEGCKC144299,764,318,0,0,0,Google Boulder Campus Sticker,Home/Sale/,1082,0.4162303664921466,0.0,0.0,0.0,0.0,0.0035379009240390125,Low Priority,100,1245.0,0.0,False
+GGOEGCKB140599,2886,863,0,0,0,Google NYC Campus Sticker,Home/Campus Collection/,3749,0.29902979902979904,0.0,0.0,0.0,0.0,0.0010236509848963516,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKA151899,2203,442,0,0,0,Google Decal,Home/Stationery/Stickers/,2645,0.20063549704947797,0.0,0.0,0.0,0.0,0.0014502943475366741,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHJ152899,67,3,0,0,0,Google Mountain View Campus Bottle,Home/Campus Collection/,70,0.04477611940298507,0.0,0.0,0.0,0.0,0.05202487486728348,Not Enough Data,100,1245.0,0.0,False
+GGOEGDHJ152999,392,114,0,0,0,Google Sunnyvale Campus Bottle,Home/Campus Collection/,506,0.29081632653061223,0.0,0.0,0.0,0.0,0.0075348892675685935,Low Priority,100,1245.0,0.0,False
+GGOEGDHL108599,63,0,0,0,0,Google Tudes Thermal Bottle,Water Bottles/,63,0.0,,0.0,0.0,0.0,0.057473190348525466,Not Enough Data,100,1245.0,0.0,False
+GGOEGDHJ141699,6,1,0,0,0,Google Tritan Bottle Gray,Drinkware,7,0.16666666666666666,0.0,0.0,0.0,0.0,0.35433884297520657,Not Enough Data,100,1245.0,0.0,False
+GGOEGDHJ140199,2653,749,0,0,0,Google NYC Campus Bottle,Home/Campus Collection/,3402,0.28232189973614774,0.0,0.0,0.0,0.0,0.0011279444117424603,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKA126299,1612,499,0,0,0,Google Pride Sticker,Home/Stationery/Stickers/,2111,0.30955334987593053,0.0,0.0,0.0,0.0,0.0018164953819709236,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHJ136799,5150,1494,0,0,0,Google Cup Cap Tumbler Grey,Lifestyle/Drinkware/,6644,0.29009708737864076,0.0,0.0,0.0,0.0,0.0005778717711926228,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKR149499,696,284,0,0,0,Google Kirkland Campus Sticker,Home/Sale/,980,0.40804597701149425,0.0,0.0,0.0,0.0,0.0039046936010837517,Low Priority,100,1245.0,0.0,False
+GGOEGCVA125199,9,0,0,0,0,Google Inverted Umbrella,Lifestyle/,9,0.0,,0.0,0.0,0.0,0.2991527535509594,Not Enough Data,100,1245.0,0.0,False
+GGOEGCXD132499,550,131,0,0,0,Google Utensil Set,Eco-Friendly,681,0.2381818181818182,0.0,0.0,0.0,0.0,0.0056094723217748445,Low Priority,100,1245.0,0.0,False
+GGOEGDBD132099,4611,1320,0,0,0,Google Bottle Cleaner,Lifestyle/Drinkware/,5931,0.28627195836044245,0.0,0.0,0.0,0.0,0.0006472961300264525,Window-Shopper,100,1245.0,0.0,False
+GGOEGDBJ132299,5354,1502,0,0,0,Stainless Bent Straw/Cleaner,Mugs & Tumblers/,6856,0.2805379155771386,0.0,0.0,0.0,0.0,0.0005600129309108245,Window-Shopper,100,1245.0,0.0,False
+GGOEGDBJ132399,1110,296,0,0,0,Stainless Straight Straw/Cleaner,Mugs & Tumblers/,1406,0.26666666666666666,0.0,0.0,0.0,0.0,0.00272484511735219,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHB107099,2700,659,0,0,0,Google Canteen Bottle Black,Drinkware,3359,0.24407407407407408,0.0,0.0,0.0,0.0,0.0011423672170583353,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHB137399,4962,1442,0,0,0,Google Woodtop Bottle Black,Lifestyle/Drinkware/,6404,0.290608625554212,0.0,0.0,0.0,0.0,0.0005995154437026033,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKR133899,2945,887,0,0,0,Google Cambridge Campus Sticker,Home/Campus Collection/,3832,0.30118845500848895,0.0,0.0,0.0,0.0,0.0010015012090175985,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHB163199,2237,474,0,0,0,Google Chrome Dino Light Up Water Bottle,Home/Shop by Brand/Google/,2711,0.21189092534644613,0.0,0.0,0.0,0.0,0.0014150365163109332,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHC098299,2180,538,0,0,0,Google 24oz Ring Bottle Blue,Water Bottles/,2718,0.2467889908256881,0.0,0.0,0.0,0.0,0.0014113973421524602,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHC098799,745,116,0,0,0,Google 16 oz Tumbler Blue,Lifestyle/Drinkware/,861,0.15570469798657718,0.0,0.0,0.0,0.0,0.004441969488979253,Low Priority,100,1245.0,0.0,False
+GGOEGDHG133099,1455,214,0,0,0,Google KeepCup,Mugs & Tumblers/,1669,0.1470790378006873,0.0,0.0,0.0,0.0,0.002296451738168156,Window-Shopper,100,1245.0,0.0,False
+GGOEGCKJ132999,133,27,0,0,0,Google Felt Strap Keyring,Eco-Friendly,160,0.20300751879699247,0.0,0.0,0.0,0.0,0.02344703665003271,Low Priority,100,1245.0,0.0,False
+GGOEGDHG162299,8574,1655,0,0,0,Google Land & Sea Nalgene Water Bottle,Home/Eco-Friendly/,10229,0.19302542570562164,0.0,0.0,0.0,0.0,0.00037541869112876715,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHJ116899,6206,1740,0,0,0,Google Glass Bottle,Lifestyle/Drinkware/,7946,0.2803738317757009,0.0,0.0,0.0,0.0,0.0004832297539110716,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHJ133499,2423,663,0,0,0,Google Cambridge Campus Bottle,Home/Campus Collection/,3086,0.27362773421378456,0.0,0.0,0.0,0.0,0.001243299980167268,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHL116999,5949,1524,0,0,0,Google Campus Bike Bottle,Lifestyle/Drinkware/,7473,0.2561775088250126,0.0,0.0,0.0,0.0,0.0005137998376212758,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBT136699,190,48,0,0,0,Google Yellow YoYo,Accessories/,238,0.25263157894736843,0.0,0.0,0.0,0.0,0.015884777474181447,Low Priority,100,1245.0,0.0,False
+GGOEGFSR022099,2639,445,0,0,0,Google Mini Kick Ball,Small Goods,3084,0.16862447896930655,0.0,0.0,0.0,0.0,0.0012441052675759014,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBR133299,244,14,0,0,0,Google Cambridge Campus Lapel Pin,Home/Campus Collection/,258,0.05737704918032787,0.0,0.0,0.0,0.0,0.01467146549669724,Low Priority,100,1245.0,0.0,False
+GGOEGDWM142499,401,166,0,0,0,Google Austin Campus Mug,Sale,567,0.4139650872817955,0.0,0.0,0.0,0.0,0.006729712760948046,Low Priority,100,1245.0,0.0,False
+GGOEGDWM143799,241,107,0,0,0,Google Boulder Campus Mug,Home/Campus Collection/,348,0.44398340248962653,0.0,0.0,0.0,0.0,0.010918549711006314,Low Priority,100,1245.0,0.0,False
+GGOEGDWM147899,286,153,0,0,0,Google PNW Campus Mug,Sale,439,0.534965034965035,0.0,0.0,0.0,0.0,0.008674885105644998,Low Priority,100,1245.0,0.0,False
+GGOEGDWQ123399,3154,598,0,0,0,Google Perk Thermal Tumbler,Mugs & Tumblers/,3752,0.1896005072923272,0.0,0.0,0.0,0.0,0.0010228333378063655,Window-Shopper,100,1245.0,0.0,False
+GGOEGDWQ152699,109,0,0,0,0,Google Mountain View Campus Mug,Home/Campus Collection/,109,0.0,,0.0,0.0,0.0,0.03404418228738337,Low Priority,100,1245.0,0.0,False
+GGOEGDWR133399,2441,676,0,0,0,Google Cambridge Campus Mug,Home/Campus Collection/,3117,0.276935682097501,0.0,0.0,0.0,0.0,0.001230950010407449,Window-Shopper,100,1245.0,0.0,False
+GGOEGEBA101699,4041,869,0,0,0,Google See-No Hear-No Set,Lifestyle/Small Goods/,4910,0.21504578074733977,0.0,0.0,0.0,0.0,0.0007817915823741652,Window-Shopper,100,1245.0,0.0,False
+GGOEGEBA164399,2425,480,0,0,0,Google Bot (Multicolored),Home/Shop by Brand/Google/,2905,0.1979381443298969,0.0,0.0,0.0,0.0,0.0013206631808345974,Window-Shopper,100,1245.0,0.0,False
+GGOEGEBK094499,248,51,0,0,0,Google Bot,Small Goods,299,0.2056451612903226,0.0,0.0,0.0,0.0,0.012685179314862951,Low Priority,100,1245.0,0.0,False
+GGOEGEGC099099,4258,989,0,0,0,Google Small Cable Organizer Blue,Lifestyle/Small Goods/,5247,0.23226867073743543,0.0,0.0,0.0,0.0,0.0007316160517963444,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBM142399,106,39,0,0,0,Google Austin Campus Lapel Pin,Home/Campus Collection/,145,0.36792452830188677,0.0,0.0,0.0,0.0,0.02580998860533614,Low Priority,100,1245.0,0.0,False
+GGOEGCBH147799,113,45,0,0,0,Google PNW Campus Lapel Pin,Home/Campus Collection/,158,0.39823008849557523,0.0,0.0,0.0,0.0,0.023736789552253557,Low Priority,100,1245.0,0.0,False
+GGOEGFBQ156799,366,27,0,0,0,Mommy Works at Google Book,Small Goods,393,0.07377049180327869,0.0,0.0,0.0,0.0,0.009680436728407503,Low Priority,100,1245.0,0.0,False
+GGOEGFBQ156899,509,26,0,0,0,Daddy Works at Google Book,Small Goods,535,0.05108055009823183,0.0,0.0,0.0,0.0,0.007129367888448107,Low Priority,100,1245.0,0.0,False
+GGOEGFKA022299,5632,1492,0,0,0,Keyboard DOT Sticker,Home/Stationery/Stickers/,7124,0.2649147727272727,0.0,0.0,0.0,0.0,0.0005389569824335041,Window-Shopper,100,1245.0,0.0,False
+GGOEGFKA086699,2935,835,0,0,0,Google Emoji Sticker Pack,Home/Stationery/Stickers/,3770,0.28449744463373083,0.0,0.0,0.0,0.0,0.00101795475464577,Window-Shopper,100,1245.0,0.0,False
+GGOEGFKQ020399,3496,929,0,0,0,Google Laptop and Cell Phone Stickers,Home/Stationery/Stickers/,4425,0.26573226544622425,0.0,0.0,0.0,0.0,0.0008674051472059871,Window-Shopper,100,1245.0,0.0,False
+GGOEGDWJ146799,77,0,0,0,0,Google SF Campus Mug,Sale,77,0.0,,0.0,0.0,0.0,0.04752008866722084,Not Enough Data,100,1245.0,0.0,False
+GGOEGDWJ141799,2420,772,0,0,0,Google Camp Mug Gray,Home/Shop by Brand/Google/,3192,0.31900826446280994,0.0,0.0,0.0,0.0,0.0012020620796725342,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBR149099,62,22,0,0,0,Google Kirkland Campus Lapel Pin,Home/Campus Collection/,84,0.3548387096774194,0.0,0.0,0.0,0.0,0.043733265332143306,Not Enough Data,100,1245.0,0.0,False
+GGOEGCBR136499,148,55,0,0,0,Google Red YoYo,Small Goods,203,0.3716216216216216,0.0,0.0,0.0,0.0,0.018572666233484945,Low Priority,100,1245.0,0.0,False
+GGOEGCBR138899,220,45,0,0,0,Google Maps Pin,Accessories/,265,0.20454545454545456,0.0,0.0,0.0,0.0,0.014289455203361383,Low Priority,100,1245.0,0.0,False
+GGOEGDHQ127799,5204,1507,0,0,0,Google Mural Bottle,Lifestyle/Drinkware/,6711,0.28958493466564184,0.0,0.0,0.0,0.0,0.0005721058259959548,Window-Shopper,100,1245.0,0.0,False
+GGOEGDHR098199,493,84,0,0,0,Google 24 oz Ring Bottle Red,Lifestyle/Drinkware/,577,0.17038539553752535,0.0,0.0,0.0,0.0,0.006613851349490119,Low Priority,100,1245.0,0.0,False
+GGOEGDHR162799,2752,671,0,0,0,Google Aluminum Bottle Red,Home/Shop by Brand/Google/,3423,0.24382267441860464,0.0,0.0,0.0,0.0,0.0011210322648120062,Window-Shopper,100,1245.0,0.0,False
+GGOEGDNC147699,3085,553,0,0,0,Google Super G Tumbler (Blue Lid),Home/Eco-Friendly/,3638,0.17925445705024312,0.0,0.0,0.0,0.0,0.001054850930364462,Window-Shopper,100,1245.0,0.0,False
+GGOEGDNL108699,3297,649,0,0,0,Google Thermal Tumbler Navy,Mugs & Tumblers/,3946,0.19684561722778282,0.0,0.0,0.0,0.0,0.000972595964354621,Window-Shopper,100,1245.0,0.0,False
+GGOEGDNQ138099,5851,1583,0,0,0,Google Cork Base Tumbler,Lifestyle/Drinkware/,7434,0.27055204238591696,0.0,0.0,0.0,0.0,0.0005164939247966776,Window-Shopper,100,1245.0,0.0,False
+GGOEGDWB140099,2538,732,0,0,0,Google NYC Campus Mug,Home/Campus Collection/,3270,0.28841607565011823,0.0,0.0,0.0,0.0,0.0011734226848360654,Window-Shopper,100,1245.0,0.0,False
+GGOEGDWC122799,1088,243,0,0,0,Google Campus Bike Corkbase Mug Blue,Mugs & Tumblers/,1331,0.22334558823529413,0.0,0.0,0.0,0.0,0.002877944469216422,Window-Shopper,100,1245.0,0.0,False
+GGOEGDWC140899,315,127,0,0,0,Google Chicago Campus Mug,Sale,442,0.4031746031746032,0.0,0.0,0.0,0.0,0.00861651312932665,Low Priority,100,1245.0,0.0,False
+GGOEGDWC148699,325,162,0,0,0,Google Seattle Campus Mug,Sale,487,0.49846153846153846,0.0,0.0,0.0,0.0,0.007826557488199859,Low Priority,100,1245.0,0.0,False
+GGOEGDWC149199,196,85,0,0,0,Google Kirkland Campus Mug,Home/Sale/,281,0.4336734693877551,0.0,0.0,0.0,0.0,0.013486794063788433,Low Priority,100,1245.0,0.0,False
+GGOEGDWC152799,598,225,0,0,0,Google Sunnyvale Campus Mug,Sale,823,0.3762541806020067,0.0,0.0,0.0,0.0,0.004646113596606653,Low Priority,100,1245.0,0.0,False
+GGOEGDWD108799,3341,922,0,0,0,Google Camp Mug Ivory,Lifestyle/Drinkware/,4263,0.27596527985633046,0.0,0.0,0.0,0.0,0.0009003380861384683,Window-Shopper,100,1245.0,0.0,False
+GGOEGDWH127899,847,184,0,0,0,Google Mural Mug,Mugs & Tumblers/,1031,0.21723730814639905,0.0,0.0,0.0,0.0,0.0037122589582792185,Low Priority,100,1245.0,0.0,False
+GGOEGDWH162399,706,158,0,0,0,Google Land & Sea Mug,Home/New/,864,0.2237960339943343,0.0,0.0,0.0,0.0,0.004426614257717077,Low Priority,100,1245.0,0.0,False
+GGOEGDWJ132899,63,0,0,0,0,Google Felt Mason Jar,Mugs & Tumblers/,63,0.0,,0.0,0.0,0.0,0.057473190348525466,Not Enough Data,100,1245.0,0.0,False
+GGOEGDNR147599,3194,618,0,0,0,Google Super G Tumbler (Red Lid),Home/Eco-Friendly/,3812,0.19348778960551033,0.0,0.0,0.0,0.0,0.0010067503850264645,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX0963,5768,1311,0,0,0,Google Women's Microfleece Jacket Black,Home/Apparel/Women's/,7079,0.22728848821081832,0.0,0.0,0.0,0.0,0.0005423811821515251,Window-Shopper,100,1245.0,0.0,False
+GGOEYXXX1202,12131,2217,0,0,0,YouTube Icon Tee Charcoal,Home/Apparel/Men's / Unisex/,14348,0.18275492539774132,0.0,0.0,0.0,0.0,0.0002676729653983918,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1358,1889,585,0,0,0,Google Youth Badge Tee Navy,Home/Apparel/Kids/,2474,0.3096876654314452,0.0,0.0,0.0,0.0,0.0015503815901710585,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1360,2239,514,0,0,0,Google Youth Hero Tee Grey,Home/Apparel/Kids/,2753,0.22956677087985708,0.0,0.0,0.0,0.0,0.0013934786822717706,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1135,1718,330,0,0,0,Google Infant Charcoal Onesie,Home/Apparel/Kids/,2048,0.1920838183934808,0.0,0.0,0.0,0.0,0.0018722692823851506,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1136,2234,345,0,0,0,Google Toddler FC Zip Hoodie,Home/Apparel/Kids/,2579,0.15443151298119964,0.0,0.0,0.0,0.0,0.0014873540831927131,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1137,1270,163,0,0,0,Google Youth FC Zip Hoodie,Home/Apparel/Kids/,1433,0.1283464566929134,0.0,0.0,0.0,0.0,0.0026736419658228154,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1167,1027,142,0,0,0,Google Youth F/C Pullover Hoodie,Home/Apparel/Kids/,1169,0.1382667964946446,0.0,0.0,0.0,0.0,0.0032754636261196736,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1359,1856,554,0,0,0,Google Youth Badge Tee Olive,Home/Apparel/Kids/,2410,0.2984913793103448,0.0,0.0,0.0,0.0,0.0015914880247320288,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1357,1524,260,0,0,0,Google Toddler Hero Tee Olive,Home/Apparel/Kids/,1784,0.17060367454068243,0.0,0.0,0.0,0.0,0.002148736219137086,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1131,3167,723,0,0,0,Google Youth FC Longsleeve Charcoal,Home/Apparel/Kids/,3890,0.22829175876223556,0.0,0.0,0.0,0.0,0.000986583532314206,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1356,1994,554,0,0,0,Google Toddler Hero Tee Black,Home/Apparel/Kids/,2548,0.2778335005015045,0.0,0.0,0.0,0.0,0.0015054225936280688,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1353,515,72,0,0,0,Google Infant Hero Onesie Grey,Sale,587,0.13980582524271845,0.0,0.0,0.0,0.0,0.0065019118491318134,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1352,12310,2357,0,0,0,Google Sherpa Zip Hoodie Charcoal,Home/Apparel/Men's / Unisex/,14667,0.19147034930950446,0.0,0.0,0.0,0.0,0.00026185273515597085,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1350,1028,158,0,0,0,Google Raincoat Navy,Home/Apparel/Men's / Unisex/,1186,0.15369649805447472,0.0,0.0,0.0,0.0,0.00322866505928184,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1347,7198,931,0,0,0,Google Sherpa Zip Hoodie Navy,Home/Apparel/Men's / Unisex/,8129,0.12934148374548485,0.0,0.0,0.0,0.0,0.000472356427057426,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1175,3722,907,0,0,0,Google Pocket Tee Grey,Home/Apparel/Men's / Unisex/,4629,0.24368619022031165,0.0,0.0,0.0,0.0,0.0008292103058304431,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1133,3651,744,0,0,0,Google Toddler FC Tee Charcoal,Home/Apparel/Kids/,4395,0.2037797863599014,0.0,0.0,0.0,0.0,0.0008733208306477777,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1130,3291,787,0,0,0,Google Youth FC Tee Charcoal,Home/Apparel/Kids/,4078,0.23913704041324826,0.0,0.0,0.0,0.0,0.0009411438209655171,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1180,588,136,0,0,0,Google Youth Jumbo Print Tee White,Home/Sale/,724,0.23129251700680273,0.0,0.0,0.0,0.0,0.005278071492478584,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1378,3206,453,0,0,0,Google Cotopaxi Shell,Men's / Unisex,3659,0.1412975670617592,0.0,0.0,0.0,0.0,0.0010488032024098448,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1383,4440,846,0,0,0,Google Men's Puff Jacket Black,Home/Apparel/Men's / Unisex/,5286,0.19054054054054054,0.0,0.0,0.0,0.0,0.0007262221235509207,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1382,524,78,0,0,0,Google Women's Softshell Moss,Home/Apparel/Women's/,602,0.14885496183206107,0.0,0.0,0.0,0.0,0.006340931358955872,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1043,1295,285,0,0,0,Google Tonal Tee Coral,Sale,1580,0.22007722007722008,0.0,0.0,0.0,0.0,0.0024254950747600017,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1078,4724,1151,0,0,0,Google Women's Grid Zip-Up,Home/Apparel/Women's/,5875,0.24364944961896698,0.0,0.0,0.0,0.0,0.0006534620698064054,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1081,837,136,0,0,0,Google Men's Discovery Lt. Rain Shell,Sale,973,0.16248506571087215,0.0,0.0,0.0,0.0,0.003932674447935059,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1381,1539,302,0,0,0,Google Men's Softshell Moss,Home/Apparel/Men's / Unisex/,1841,0.19623131903833657,0.0,0.0,0.0,0.0,0.0020823467987712333,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1372,1178,250,0,0,0,Google Women's Tech Fleece Vest Charcoal,Home/Sale/,1428,0.21222410865874364,0.0,0.0,0.0,0.0,0.0026829783406209177,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1109,18031,4303,0,0,0,Google Zip Hoodie F/C,Home/Apparel/,22334,0.23864455659697187,0.0,0.0,0.0,0.0,0.00017197722451393871,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1371,1973,398,0,0,0,Google Men's Tech Fleece Vest Charcoal,Home/Apparel/Men's / Unisex/,2371,0.2017232640648758,0.0,0.0,0.0,0.0,0.001617623676459095,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1369,3257,877,0,0,0,Google Split Seam Tee Olive,Men's / Unisex,4134,0.2692661958857845,0.0,0.0,0.0,0.0,0.0009284067326308479,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1361,1896,451,0,0,0,Google Youth Hero Tee Maroon,Home/Apparel/Kids/,2347,0.2378691983122363,0.0,0.0,0.0,0.0,0.0016341381741755805,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1082,533,90,0,0,0,Google Women's Discovery Lt. Rain Shell,Home/Sale/,623,0.16885553470919323,0.0,0.0,0.0,0.0,0.00612850200114351,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1084,494,67,0,0,0,Google Women's Kirkland Pullover,Sale,561,0.13562753036437247,0.0,0.0,0.0,4.336808689942018e-19,0.006801198778560218,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1100,1508,449,0,0,0,Google Tee F/C Black,Sale,1957,0.29774535809018565,0.0,0.0,0.0,0.0,0.0019591587612176322,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1176,725,161,0,0,0,Google Jumbo Print Tee White,Sale,886,0.22206896551724137,0.0,0.0,0.0,0.0,0.004317172854134938,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1346,2487,540,0,0,0,Google Toddler Tee White,Home/Apparel/Kids/,3027,0.21712907117008443,0.0,0.0,0.0,0.0,0.0012675027292749312,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1385,5688,1746,0,0,0,Google Men's Tech Fleece Grey,Home/Apparel/Men's / Unisex/,7434,0.3069620253164557,0.0,0.0,0.0,0.0,0.0005164939247966776,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1254,413,90,0,0,0,Google Women's Pride Eco-Tee Black,Sale,503,0.2179176755447942,0.0,0.0,0.0,0.0,0.007579488345076647,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1189,9423,1640,0,0,0,Google Eco Tee Black,Home/Apparel/Men's / Unisex/,11063,0.17404223707948635,0.0,0.0,0.0,0.0,0.0003471270430038504,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1190,2620,644,0,0,0,Google Women's Eco Tee Black,Women's,3264,0.24580152671755726,0.0,0.0,0.0,0.0,0.0011755771760785466,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1193,15890,3947,0,0,0,Google Campus Bike Eco Tee Navy,Home/Apparel/Women's/,19837,0.2483952171176841,0.0,0.0,0.0,0.0,0.00019362081898783968,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBB139999,2407,665,0,0,0,Google NYC Campus Lapel Pin,Home/Campus Collection/,3072,0.27627752388865806,0.0,0.0,0.0,0.0,0.0012489589841037328,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1265,6422,1487,0,0,0,Google Beekeepers Tee Mint,Home/Apparel/Men's / Unisex/,7909,0.23154780442229836,0.0,0.0,0.0,0.0,0.00048548930892285266,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1264,7904,1558,0,0,0,Android Garden Tee Orange,Home/Apparel/Men's / Unisex/,9462,0.1971153846153846,0.0,0.0,0.0,0.0,0.00040583818770007727,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1253,3365,664,0,0,0,Google Unisex Pride Eco-Tee Black,Home/Apparel/Men's / Unisex/,4029,0.19732540861812778,0.0,0.0,0.0,0.0,0.000952578945823213,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1267,6190,1478,0,0,0,Stan and Friends Tee Green,Home/Apparel/Men's / Unisex/,7668,0.23877221324717285,0.0,0.0,0.0,0.0,0.0005007402655445857,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1200,312,101,0,0,0,Google Women's Ringer Tee,Home/Apparel/Women's/,413,0.32371794871794873,0.0,0.0,0.0,0.0,0.009215970766833252,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1198,1814,410,0,0,0,Google Tee Dark Blue,Home/Sale/,2224,0.22601984564498345,0.0,0.0,0.0,0.0,0.0017243595774493123,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1197,586,86,0,0,0,Google Tee Mint Green,Sale,672,0.14675767918088736,0.0,0.0,0.0,0.0,0.005684172149213662,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1194,5368,1035,0,0,0,Google Dino Game Tee,Home/Apparel/Men's / Unisex/,6403,0.19280923994038748,0.0,0.0,0.0,0.0,0.0005996090179598009,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1195,200,27,0,0,0,Google Mountain View Tee Red,Sale,227,0.135,0.0,0.0,0.0,0.0,0.016641714491668746,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1196,1876,349,0,0,0,Google Mountain View Tee Blue,Men's T-Shirts/,2225,0.18603411513859275,0.0,0.0,0.0,0.0,0.0017235859201479367,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1266,1994,426,0,0,0,Flamingo and Friends Tee Blue,Home/Apparel/Men's / Unisex/,2420,0.2136409227683049,0.0,0.0,0.0,0.0,0.0015849220510119142,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1268,1098,192,0,0,0,Stan and Friends Onesie Green,Home/Apparel/,1290,0.17486338797814208,0.0,0.0,0.0,0.0,0.0029691424359828897,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1345,7748,2198,0,0,0,Google Red Speckled Tee,Home/Apparel/Men's / Unisex/,9946,0.28368611254517295,0.0,0.0,0.0,0.0,0.0003860965987639441,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1182,1033,200,0,0,0,Google Lightweight Crew Sweatshirt Grey,Sale,1233,0.1936108422071636,0.0,0.0,0.0,0.0,0.003105975736909237,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1344,19985,4681,0,0,0,Google Navy Speckled Tee,Home/Apparel/Women's/,24666,0.23422566925193897,0.0,0.0,0.0,0.0,0.0001557204972082188,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1343,12581,2261,0,0,0,Google Heather Green Speckled Tee,Home/Apparel/Women's/,14842,0.17971544392337652,0.0,0.0,0.0,0.0,0.0002587660641616976,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1342,10013,2957,0,0,0,Google Crewneck Sweatshirt Green,Home/Apparel/Men's / Unisex/,12970,0.29531608908419055,0.0,0.0,0.0,0.0,0.00029610350722950095,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1340,12104,3217,0,0,0,Google Badge Heavyweight Pullover Black,Home/Apparel/Men's / Unisex/,15321,0.2657799074686054,0.0,0.0,0.0,0.0,0.0002506779580677689,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1337,2748,725,0,0,0,Google Cambridge Campus Zip Hoodie,Home/Campus Collection/,3473,0.2638282387190684,0.0,0.0,0.0,0.0,0.0011049108478223453,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1181,12939,3745,0,0,0,Google Women's Striped L/S,Home/Apparel/Women's/,16684,0.2894350413478631,0.0,0.0,0.0,0.0,0.00023020352733932946,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1183,819,203,0,0,0,Google Kids Playful Tee,Kids,1022,0.24786324786324787,0.0,0.0,0.0,0.0,0.003744827661502516,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1269,369,78,0,0,0,Stan and Friends Youth Tee Green,Home/Apparel/,447,0.21138211382113822,0.0,0.0,0.0,0.0,0.008520952813582418,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1336,2389,648,0,0,0,Google Cambridge Campus Ladies Tee,Home/Campus Collection/,3037,0.2712431979907911,0.0,0.0,0.0,0.0,0.0012633344663529988,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1335,2397,650,0,0,0,Google Cambridge Campus Unisex Tee,Home/Campus Collection/,3047,0.2711722987067167,0.0,0.0,0.0,0.0,0.001259193528762686,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1273,372,78,0,0,0,Google Beekeepers Onesie Pink,Home/Sale/,450,0.20967741935483872,0.0,0.0,0.0,8.673617379884035e-19,0.008464627306090936,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1272,287,64,0,0,0,Google Beekeepers Toddler Tee Pink,Home/Apparel/,351,0.2229965156794425,0.0,0.0,0.0,0.0,0.010826239088088881,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1271,173,44,0,0,0,Google Beekeepers Youth Tee Pink,Home/Sale/,217,0.2543352601156069,0.0,0.0,0.0,0.0,0.017395273354295564,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1270,259,47,0,0,0,Stan and Friends Toddler Tee Green,Sale,306,0.18146718146718147,0.0,0.0,0.0,0.0,0.012398593345761188,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1384,5003,1200,0,0,0,Google Women's Puff Jacket Black,Home/Apparel/Women's/,6203,0.23985608634819108,0.0,0.0,0.0,0.0,0.0006189299240373718,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1386,664,125,0,0,0,Google Women's Tech Fleece Grey,Women's,789,0.18825301204819278,0.0,0.0,0.0,0.0,0.00484535624770446,Low Priority,100,1245.0,0.0,False
+GGOEYOLB151999,7484,1560,0,0,0,YouTube Jotter Task Pad,Home/Eco-Friendly/,9044,0.2084446819882416,0.0,0.0,0.0,0.0,0.0004245874507794212,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX0904,1834,438,0,0,0,Google Tee Red,Home/Sale/,2272,0.23882224645583425,0.0,0.0,0.0,0.0,0.0016879909392639627,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1614,26,0,0,0,0,BLM Unisex Pullover Hoodie,Home/Black Lives Matter/,26,0.0,,0.0,0.0,0.0,0.12873304380462175,Not Enough Data,100,1245.0,0.0,False
+GGOEGPJC019099,1093,133,0,0,0,Google Frisbee,Small Goods,1226,0.12168344007319305,0.0,0.0,0.0,0.0,0.003123654298244587,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1613,20463,4028,0,0,0,Super G Unisex Joggers,Home/Apparel/,24491,0.1968430826369545,0.0,0.0,0.0,0.0,0.0001568330207124099,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1535,750,177,0,0,0,Google Sunnyvale Campus Zip Hoodie,Home/Shop by Brand/Google/,927,0.236,0.0,0.0,0.0,0.0,0.004127017958802013,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1534,851,177,0,0,0,Google Mountain View Campus Zip Hoodie,Home/Shop by Brand/Google/,1028,0.20799059929494712,0.0,0.0,0.0,0.0,0.0037230520653557674,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1533,410,112,0,0,0,Google Sunnyvale Campus Ladies Tee,Home/Shop by Brand/Google/,522,0.2731707317073171,0.0,0.0,0.0,0.0,0.007305622073263127,Low Priority,100,1245.0,0.0,False
+GGOEGXXX0905,9259,2547,0,0,0,Google Tee Yellow,Home/Sale/,11806,0.27508370234366564,0.0,0.0,0.0,0.0,0.00032528802079784036,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1616,167,30,0,0,0,Google Land & Sea Unisex Tee,Home/Apparel/Men's / Unisex/,197,0.17964071856287425,0.0,0.0,0.0,1.734723475976807e-18,0.01912751143189459,Low Priority,100,1245.0,0.0,False
+GGOEGXXX0906,8404,2242,0,0,0,Google Tee Green,Home/Sale/,10646,0.26677772489290813,0.0,0.0,0.0,0.0,0.00036071898008323424,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1532,419,111,0,0,0,Google Mountain View Campus Ladies Tee,Home/Shop by Brand/Google/,530,0.2649164677804296,0.0,0.0,0.0,0.0,0.007196142076600999,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1531,502,135,0,0,0,Google Sunnyvale Campus Unisex Tee,Home/Shop by Brand/Google/,637,0.2689243027888446,0.0,0.0,0.0,0.0,0.005994617078541717,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1530,1308,348,0,0,0,Google Mountain View Campus Unisex Tee,Home/Shop by Brand/Google/,1656,0.26605504587155965,0.0,0.0,0.0,0.0,0.0023144377150205175,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1493,80,28,0,0,0,Google Kirkland Campus Ladies Tee,Home/Campus Collection/,108,0.35,0.0,0.0,0.0,0.0,0.03434857870416732,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1492,110,31,0,0,0,Google Kirkland Campus Unisex Tee,Sale,141,0.2818181818181818,0.0,0.0,0.0,0.0,0.026522766939884673,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1615,722,150,0,0,0,Google Land & Sea French Terry Sweatshirt,Home/Apparel/Men's / Unisex/,872,0.2077562326869806,0.0,0.0,0.0,0.0,0.004386181245558557,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1625,3,0,0,0,0,Google 5K Run 2020 Unisex Tee,Uncategorized,3,0.0,,0.0,0.0,0.0,0.5615060804490177,Not Enough Data,100,1245.0,0.0,False
+GGOEGXXX1487,180,49,0,0,0,Google Seattle Campus Unisex Tee,Campus Collection,229,0.2722222222222222,0.0,0.0,0.0,0.0,0.016498769979247693,Low Priority,100,1245.0,0.0,False
+GGOEGOLA127599,842,125,0,0,0,Google Mural Notebook,Home/Stationery/Notebooks/,967,0.14845605700712589,0.0,0.0,0.0,0.0,0.003956979181773834,Low Priority,100,1245.0,0.0,False
+GGOEYOCR125599,5613,988,0,0,0,YouTube Transmission Journal Red,Home/Shop by Brand/YouTube/,6601,0.17601995367895956,0.0,0.0,0.0,0.0,0.0005816339335072017,Window-Shopper,100,1245.0,0.0,False
+GGOEYHPB121110,11443,3438,0,0,0,YouTube Leather Strap Hat Black,Home/Apparel/Hats/,14881,0.3004456873197588,0.0,0.0,0.0,0.0,0.0002580880672589758,Window-Shopper,100,1245.0,0.0,False
+GGOEYHBB102199,10053,1172,0,0,0,YouTube Twill Sandwich Cap Black,Home/Apparel/Hats/,11225,0.11658211479160449,0.0,0.0,0.0,0.0,0.0003421189947144681,Window-Shopper,100,1245.0,0.0,False
+GGOEGOLA127499,1191,385,0,0,0,Google Mural Sticky Note Pad,Home/Stationery/Notebooks/,1576,0.3232577665827036,0.0,0.0,0.0,2.168404344971009e-19,0.0024316361842858167,Window-Shopper,100,1245.0,0.0,False
+GGOEYFKQ105899,6241,1224,0,0,0,YouTube Small Sticker Sheet,Home/Shop by Brand/YouTube/,7465,0.1961224162794424,0.0,0.0,0.0,0.0,0.0005143501771412585,Window-Shopper,100,1245.0,0.0,False
+GGOEYDWB123299,5188,851,0,0,0,YouTube Play Mug,Home/Shop by Brand/YouTube/,6039,0.16403238242097148,0.0,0.0,0.0,0.0,0.0006357274034785223,Window-Shopper,100,1245.0,0.0,False
+GGOEYDHB098499,3237,412,0,0,0,YouTube 25 oz Gear Cap Bottle Black,Home/Shop by Brand/YouTube/,3649,0.12727834414581402,0.0,0.0,0.0,0.0,0.001051674400554352,Window-Shopper,100,1245.0,0.0,False
+GGOEGOLR152199,4512,977,0,0,0,Google Jotter Task Pad,Home/Eco-Friendly/,5489,0.21653368794326242,0.0,0.0,0.0,0.0,0.0006993829933126053,Window-Shopper,100,1245.0,0.0,False
+GGOEGOLC014299,3383,995,0,0,0,Google Metallic Notebook Set,Home/Stationery/Notebooks/,4378,0.29411764705882354,0.0,0.0,0.0,0.0,0.0008767090074638938,Window-Shopper,100,1245.0,0.0,False
+GGOEGOLJ137999,702,71,0,0,0,Google Felt Refillable Journal,Notebooks,773,0.10113960113960115,0.0,0.0,0.0,0.0,0.004945152267849713,Low Priority,100,1245.0,0.0,False
+GGOEYCBR138999,4928,772,0,0,0,YouTube Iconic Play Pin,Home/Shop by Brand/YouTube/,5700,0.15665584415584416,0.0,0.0,0.0,0.0,0.0006735109895057394,Window-Shopper,100,1245.0,0.0,False
+GGOEYAEA105610,5333,988,0,0,0,YouTube Crew Socks,Home/Apparel/Socks/,6321,0.18526157884867805,0.0,0.0,0.0,0.0,0.0006073827999107518,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1634,32,7,0,0,0,Google Grey Women's Tee,Home/New/,39,0.21875,0.0,0.0,0.0,0.0,0.08966985360023902,Not Enough Data,100,1245.0,0.0,False
+GGOEGXXX1633,35,8,0,0,0,Google Charcoal Unisex Badge Tee,Home/New/,43,0.22857142857142856,0.0,0.0,0.0,0.0,0.08201257002322722,Not Enough Data,100,1245.0,0.0,False
+GGOEGXXX1488,122,50,0,0,0,Google Seattle Campus Ladies Tee,Home/Campus Collection/,172,0.4098360655737705,0.0,0.0,0.0,0.0,0.021846934968744597,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1482,221,78,0,0,0,Google PNW Campus Unisex Tee,Sale,299,0.35294117647058826,0.0,0.0,0.0,0.0,0.012685179314862951,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1387,656,85,0,0,0,Google Sherpa Vest Black,Women's,741,0.12957317073170732,0.0,0.0,0.0,0.0,0.005157606664289427,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1038,12465,3106,0,0,0,Google F/C Long Sleeve Tee Charcoal,Men's T-Shirts/,15571,0.2491776975531488,0.0,0.0,0.0,0.0,0.0002466541939020426,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1023,3688,745,0,0,0,Google Black Tee,Men's T-Shirts/,4433,0.20200650759219088,0.0,0.0,0.0,0.0,0.0008658411424919925,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1025,604,180,0,0,0,Google Women's Black Tee,Sale,784,0.2980132450331126,0.0,0.0,0.0,0.0,0.004876107075330879,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1426,336,91,0,0,0,Google Austin Campus Unisex Tee,Home/Campus Collection/,427,0.2708333333333333,0.0,0.0,0.0,0.0,0.008916502027659352,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1412,575,134,0,0,0,Google Chicago Campus Zip Hoodie,Home/Sale/,709,0.23304347826086957,0.0,0.0,0.0,0.0,0.0053891355386666544,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1411,168,48,0,0,0,Google Chicago Campus Ladies Tee,Home/Campus Collection/,216,0.2857142857142857,0.0,0.0,0.0,0.0,0.017474399749637923,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1030,1496,288,0,0,0,Google Tee Grey,Sale,1784,0.1925133689839572,0.0,0.0,0.0,0.0,0.002148736219137086,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1410,248,72,0,0,0,Google Chicago Campus Unisex Tee,Home/Campus Collection/,320,0.2903225806451613,0.0,0.0,0.0,0.0,0.011862589611711402,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1428,602,139,0,0,0,Google Austin Campus Zip Hoodie,Home/Sale/,741,0.23089700996677742,0.0,0.0,0.0,0.0,0.005157606664289427,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1039,10337,2954,0,0,0,Google F/C Long Sleeve Tee Ash,Men's T-Shirts/,13291,0.28576956563799943,0.0,0.0,0.0,0.0,0.00028895417603170236,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1040,4798,1272,0,0,0,Google Tudes Recycled Tee,Home/Apparel/Men's / Unisex/,6070,0.26511046269278865,0.0,0.0,0.0,0.0,0.0006324827437054006,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1042,1271,55,0,0,0,Google Tonal Tee Spearmint,Home/Sale/,1326,0.043273013375295044,0.0,0.0,0.0,0.0,0.0028887650980387444,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1404,931,229,0,0,0,Google NYC Campus Zip Hoodie,Home/Sale/,1160,0.24597207303974222,0.0,0.0,0.0,0.0,0.003300792822665902,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1403,581,176,0,0,0,Google NYC Campus Ladies Tee,Home/Campus Collection/,757,0.3029259896729776,0.0,0.0,0.0,0.0,0.0050491455777391765,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1402,750,229,0,0,0,Google NYC Campus Unisex Tee,Home/Campus Collection/,979,0.30533333333333335,0.0,0.0,0.0,0.0,0.003908666462632432,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1427,220,71,0,0,0,Google Austin Campus Ladies Tee,Home/Campus Collection/,291,0.32272727272727275,0.0,0.0,0.0,0.0,0.013029368989993271,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1439,186,54,0,0,0,Google Boulder Campus Unisex Tee,Home/Campus Collection/,240,0.2903225806451613,0.0,0.0,0.0,0.0,0.015754489799935698,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1481,55,18,0,0,0,Google PNW Campus Ladies Tee,Campus Collection,73,0.32727272727272727,0.0,0.0,0.0,0.0,0.04999375338358388,Not Enough Data,100,1245.0,0.0,False
+GGOEGXXX1460,243,90,0,0,0,Google LA Campus Unisex Tee,Home/Campus Collection/,333,0.37037037037037035,0.0,0.0,0.0,0.0,0.01140476710715066,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1480,278,75,0,0,0,Google PNW Campus Zip Hoodie,Sale,353,0.2697841726618705,0.0,0.0,0.0,0.0,0.010765560965986028,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1471,626,134,0,0,0,Google SF Campus Zip Hoodie,Home/Sale/,760,0.21405750798722045,0.0,0.0,0.0,0.0,0.005029314978393426,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1470,256,70,0,0,0,Google SF Campus Ladies Tee,Home/Campus Collection/,326,0.2734375,0.0,0.0,0.0,0.0,0.01164680258645362,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1469,419,120,0,0,0,Google SF Campus Unisex Tee,Sale,539,0.2863961813842482,0.0,0.0,0.0,0.0,0.00707683419988446,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1462,478,116,0,0,0,Google LA Campus Zip Hoodie,Home/Sale/,594,0.24267782426778242,0.0,0.0,0.0,0.0,0.006425782347698788,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1461,143,51,0,0,0,Google LA Campus Ladies Tee,Home/Campus Collection/,194,0.35664335664335667,0.0,0.0,0.0,0.0,0.019417554245416534,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1445,2603,595,0,0,0,Google Infant Hero Tee Olive,Home/Apparel/Kids/,3198,0.228582404917403,0.0,0.0,0.0,0.0,0.0011998095096272096,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX1440,121,40,0,0,0,Google Boulder Campus Ladies Tee,Home/Campus Collection/,161,0.3305785123966942,0.0,0.0,0.0,0.0,0.023304796847397745,Low Priority,100,1245.0,0.0,False
+GGOEGXXX1441,488,111,0,0,0,Google Boulder Campus Zip Hoodie,Home/Sale/,599,0.22745901639344263,0.0,0.0,0.0,0.0,0.006372486570269868,Low Priority,100,1245.0,0.0,False
+GGOEGXXX0907,2001,457,0,0,0,Google Tee Blue,Sale,2458,0.2283858070964518,0.0,0.0,0.0,0.0,0.0015604578296182824,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX0913,11451,3467,0,0,0,Google Crewneck Sweatshirt Navy,Home/Apparel/Men's / Unisex/,14918,0.3027683171775391,0.0,0.0,0.0,0.0,0.0002574481155194678,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX0919,8316,2243,0,0,0,YouTube Women's Favorite Tee White,Home/Sale/,10559,0.2697210197210197,0.0,0.0,0.0,0.0,0.00036369001311162323,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX0962,1107,156,0,0,0,Google Mens Microfleece Jacket Black,Sale,1263,0.14092140921409213,0.0,0.0,0.0,0.0,0.0030324233116436968,Window-Shopper,100,1245.0,0.0,False
+GGOEGXXX0964,3494,1099,0,0,0,Google Crewneck Sweatshirt Grey,Home/Apparel/Men's / Unisex/,4593,0.31453921007441327,0.0,0.0,0.0,0.0,0.0008357042365784368,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBC136599,117,52,0,0,0,Google Blue YoYo,Small Goods,169,0.4444444444444444,0.0,0.0,0.0,0.0,0.022226130746301812,Low Priority,100,1245.0,0.0,False
+(not set),9,137,409,85647,0,(not set),(not set),146,15.222222222222221,2.9854014598540144,2.8013698630136985,45.44444444444444,,,Hidden Gem,100,1245.0,0.0,True
+GGOEGCBA150999,5198,784,0,0,0,Mural Food Container,Home/Eco-Friendly/,5982,0.15082724124663333,0.0,0.0,0.0,0.0,0.000641781098918488,Window-Shopper,100,1245.0,0.0,False
+9196797,0,77,0,0,0,Android Iconic Crewneck Sweatshirt,Home/Apparel/Men's / Unisex/,77,,0.0,0.0,,0.0,0.04752008866722084,Not Enough Data,100,1245.0,0.0,False
+9196789,0,3,0,0,0,Android Pocket Tee Green,Home/Apparel/,3,,0.0,0.0,,0.0,0.5615060804490177,Not Enough Data,100,1245.0,0.0,False
+9196790,0,22,0,0,0,Android Pocket Tee Navy,Home/Shop by Brand/Android/,22,,0.0,0.0,,1.3877787807814457e-17,0.14865952572596125,Not Enough Data,100,1245.0,0.0,False
+9196792,0,36,0,0,0,Android Pocket Toddler Tee Navy,Home/Apparel/Kids/,36,,0.0,0.0,,0.0,0.09642183044857634,Not Enough Data,100,1245.0,0.0,False
+9196794,0,111,0,0,0,Android Pocket Onesie Navy,Home/Apparel/Kids/,111,,0.0,0.0,,0.0,0.03345129291127953,Low Priority,100,1245.0,0.0,False
+9196795,0,8,0,0,0,Android Pocket Youth Tee Green,Home/Apparel/Kids/,8,,0.0,0.0,,0.0,0.3244156195108769,Not Enough Data,100,1245.0,0.0,False
+9196796,0,10,0,0,0,Android Pocket Youth Tee Navy,Home/Apparel/Kids/,10,,0.0,0.0,,0.0,0.2775401687666165,Not Enough Data,100,1245.0,0.0,False
+9196897,0,53,0,0,0,#IamRemarkable Unisex T-Shirt,Home/Apparel/Men's / Unisex/,53,,0.0,0.0,,0.0,0.06758430445307662,Not Enough Data,100,1245.0,0.0,False
+9196600,0,5,0,0,0,Google Women's Tech Fleece Grey,Home/Apparel/Women's/,5,,0.0,0.0,,0.0,0.43449149475208104,Not Enough Data,100,1245.0,0.0,False
+9196898,0,68,0,0,0,#IamRemarkable Ladies T-Shirt,Home/Apparel/Women's/,68,,0.0,0.0,,0.0,0.05347319658804926,Not Enough Data,100,1245.0,0.0,False
+9196899,0,55,0,0,0,#IamRemarkable Unisex Hoodie,Home/Apparel/Women's/,55,,0.0,0.0,,0.0,0.06528714378942788,Not Enough Data,100,1245.0,0.0,False
+9196945,0,27,0,0,0,Google Cambridge Campus Unisex Tee,Home/Campus Collection/,27,,0.0,0.0,,0.0,0.12455903714463581,Not Enough Data,100,1245.0,0.0,False
+9196946,0,12,0,0,0,Google Cambridge Campus Ladies Tee,Home/Campus Collection/,12,,0.0,0.0,,0.0,0.2425007574992425,Not Enough Data,100,1245.0,0.0,False
+9196947,0,26,0,0,0,Google Cambridge Campus Zip Hoodie,Home/Campus Collection/,26,,0.0,0.0,,0.0,0.12873304380462175,Not Enough Data,100,1245.0,0.0,False
+9196973,0,23,0,0,0,Google NYC Campus Unisex Tee,Home/Campus Collection/,23,,0.0,0.0,,0.0,0.14312112541726274,Not Enough Data,100,1245.0,0.0,False
+9196601,0,6,0,0,0,Google Sherpa Vest Black,Home/Apparel/,6,,0.0,0.0,,0.0,0.3903430336530645,Not Enough Data,100,1245.0,0.0,False
+9196599,0,110,0,0,0,Google Men's Tech Fleece Grey,Home/Apparel/Men's / Unisex/,110,,0.0,0.0,,0.0,0.03374513358912735,Low Priority,100,1245.0,0.0,False
+9196580,0,113,0,0,0,Google Sherpa Zip Hoodie Navy,Home/Apparel/Men's / Unisex/,113,,0.0,0.0,,0.0,0.03287870073672391,Low Priority,100,1245.0,0.0,False
+9196590,0,17,0,0,0,Google Youth Hero Tee Maroon,Home/Apparel/Kids/,17,,0.0,0.0,,0.0,0.18432366037156456,Not Enough Data,100,1245.0,0.0,False
+9196582,0,164,0,0,0,Google Sherpa Zip Hoodie Charcoal,Home/Apparel/Men's / Unisex/,164,,0.0,0.0,,0.0,0.022888247013851153,Low Priority,100,1245.0,0.0,False
+9196583,0,20,0,0,0,Google Infant Hero Onesie Grey,Home/Sale/,20,,0.0,0.0,,0.0,0.1611301254949332,Not Enough Data,100,1245.0,0.0,False
+9196586,0,13,0,0,0,Google Toddler Hero Tee Olive,Home/Apparel/Kids/,13,,0.0,0.0,,0.0,0.22810184305529166,Not Enough Data,100,1245.0,0.0,False
+9196587,0,47,0,0,0,Google Youth Badge Tee Navy,Home/Apparel/Kids/,47,,0.0,0.0,,6.938893903907228e-18,0.0755601711983887,Not Enough Data,100,1245.0,0.0,False
+9196588,0,33,0,0,0,Google Youth Badge Tee Olive,Home/Apparel/Kids/,33,,0.0,0.0,,0.0,0.10427343003561192,Not Enough Data,100,1245.0,0.0,False
+9196589,0,36,0,0,0,Google Youth Hero Tee Grey,Home/Apparel/Kids/,36,,0.0,0.0,,0.0,0.09642183044857634,Not Enough Data,100,1245.0,0.0,False
+9196591,0,41,0,0,0,Google Split Seam Tee Olive,Home/Apparel/Men's / Unisex/,41,,0.0,0.0,,0.0,0.08567044886890744,Not Enough Data,100,1245.0,0.0,False
+9196598,0,71,0,0,0,Google Women's Puff Jacket Black,Home/Apparel/Women's/,71,,0.0,0.0,,0.0,0.05132974174790491,Not Enough Data,100,1245.0,0.0,False
+9196592,0,16,0,0,0,Google Men's Tech Fleece Vest Charcoal,Home/Apparel/Men's / Unisex/,16,,0.0,0.0,,0.0,0.19361341827271994,Not Enough Data,100,1245.0,0.0,False
+9196593,0,14,0,0,0,Google Women's Tech Fleece Vest Charcoal,Home/Apparel/Women's/,14,,0.0,0.0,,0.0,0.21531701192718142,Not Enough Data,100,1245.0,0.0,False
+9196594,0,12,0,0,0,Google Cotopaxi Shell,Home/Sale/,12,,0.0,0.0,,0.0,0.2425007574992425,Not Enough Data,100,1245.0,0.0,False
+9196595,0,8,0,0,0,Google Men's Softshell Moss,Home/Apparel/Men's / Unisex/,8,,0.0,0.0,,0.0,0.3244156195108769,Not Enough Data,100,1245.0,0.0,False
+9196596,0,4,0,0,0,Google Women's Softshell Moss,Home/Apparel/Women's/,4,,0.0,0.0,,0.0,0.48990002040399916,Not Enough Data,100,1245.0,0.0,False
+9196597,0,30,0,0,0,Google Men's Puff Jacket Black,Home/Apparel/Men's / Unisex/,30,,0.0,0.0,,0.0,0.113517091390478,Not Enough Data,100,1245.0,0.0,False
+9196974,0,13,0,0,0,Google NYC Campus Ladies Tee,Home/Campus Collection/,13,,0.0,0.0,,0.0,0.22810184305529166,Not Enough Data,100,1245.0,0.0,False
+9196975,0,29,0,0,0,Google NYC Campus Zip Hoodie,Home/Sale/,29,,0.0,0.0,,0.0,0.11697359446555587,Not Enough Data,100,1245.0,0.0,False
+9197000,0,13,0,0,0,Google Chicago Campus Unisex Tee,Home/Campus Collection/,13,,0.0,0.0,,0.0,0.22810184305529166,Not Enough Data,100,1245.0,0.0,False
+9197941,0,18,0,0,0,Google Sunnyvale Campus Unisex Tee,Home/Campus Collection/,18,,0.0,0.0,,0.0,0.1758845505823749,Not Enough Data,100,1245.0,0.0,False
+9197571,0,6,0,0,0,Google Seattle Campus Ladies Tee,Home/Campus Collection/,6,,0.0,0.0,,0.0,0.3903430336530645,Not Enough Data,100,1245.0,0.0,False
+9197587,0,7,0,0,0,Google Kirkland Campus Unisex Tee,Home/Sale/,7,,0.0,0.0,,0.0,0.35433884297520657,Not Enough Data,100,1245.0,0.0,False
+9197588,0,3,0,0,0,Google Kirkland Campus Ladies Tee,Home/Campus Collection/,3,,0.0,0.0,,0.0,0.5615060804490177,Not Enough Data,100,1245.0,0.0,False
+9197702,0,9,0,0,0,Google PNW Campus Zip Hoodie,Home/Campus Collection/,9,,0.0,0.0,,0.0,0.2991527535509594,Not Enough Data,100,1245.0,0.0,False
+9197703,0,12,0,0,0,Google PNW Campus Unisex Tee,Home/Campus Collection/,12,,0.0,0.0,,0.0,0.2425007574992425,Not Enough Data,100,1245.0,0.0,False
+9197940,0,29,0,0,0,Google Mountain View Campus Unisex Tee,Home/Campus Collection/,29,,0.0,0.0,,0.0,0.11697359446555587,Not Enough Data,100,1245.0,0.0,False
+9197942,0,4,0,0,0,Google Mountain View Campus Ladies Tee,Home/Campus Collection/,4,,0.0,0.0,,0.0,0.48990002040399916,Not Enough Data,100,1245.0,0.0,False
+9197001,0,2,0,0,0,Google Chicago Campus Ladies Tee,Home/Campus Collection/,2,,0.0,0.0,,0.0,0.6576280471103807,Not Enough Data,100,1245.0,0.0,False
+9197943,0,5,0,0,0,Google Sunnyvale Campus Ladies Tee,Home/Campus Collection/,5,,0.0,0.0,,0.0,0.43449149475208104,Not Enough Data,100,1245.0,0.0,False
+9197944,0,14,0,0,0,Google Mountain View Campus Zip Hoodie,Home/Campus Collection/,14,,0.0,0.0,,0.0,0.21531701192718142,Not Enough Data,100,1245.0,0.0,False
+9197945,0,9,0,0,0,Google Sunnyvale Campus Zip Hoodie,Home/Campus Collection/,9,,0.0,0.0,,0.0,0.2991527535509594,Not Enough Data,100,1245.0,0.0,False
+9199068,0,65,0,0,0,Google Land & Sea Unisex Tee,Home/New/,65,,0.0,0.0,,0.0,0.055803467670710726,Not Enough Data,100,1245.0,0.0,False
+9199069,0,59,0,0,0,Google Land & Sea Women's Eco Tee,Home/New/,59,,0.0,0.0,,0.0,0.06113147978409207,Not Enough Data,100,1245.0,0.0,False
+9199117,1,164,0,0,0,Google Land & Sea French Terry Sweatshirt,Home/Eco-Friendly/,165,164.0,0.0,0.0,0.0,0.0,0.02275268654170536,Low Priority,100,1245.0,0.0,False
+9197570,0,11,0,0,0,Google Seattle Campus Unisex Tee,Home/Campus Collection/,11,,0.0,0.0,,2.7755575615628914e-17,0.2588400172488141,Not Enough Data,100,1245.0,0.0,False
+9197544,0,3,0,0,0,Google PNW Campus Ladies Tee,Home/Campus Collection/,3,,0.0,0.0,,0.0,0.5615060804490177,Not Enough Data,100,1245.0,0.0,False
+9197403,0,20,0,0,0,Google SF Campus Zip Hoodie,Home/Campus Collection/,20,,0.0,0.0,,0.0,0.1611301254949332,Not Enough Data,100,1245.0,0.0,False
+9197402,0,7,0,0,0,Google SF Campus Ladies Tee,Home/Campus Collection/,7,,0.0,0.0,,0.0,0.35433884297520657,Not Enough Data,100,1245.0,0.0,False
+9197401,0,20,0,0,0,Google SF Campus Unisex Tee,Home/Campus Collection/,20,,0.0,0.0,,0.0,0.1611301254949332,Not Enough Data,100,1245.0,0.0,False
+9197376,0,13,0,0,0,Google LA Campus Zip Hoodie,Home/Campus Collection/,13,,0.0,0.0,,0.0,0.22810184305529166,Not Enough Data,100,1245.0,0.0,False
+9197375,0,4,0,0,0,Google LA Campus Ladies Tee,Home/Campus Collection/,4,,0.0,0.0,,0.0,0.48990002040399916,Not Enough Data,100,1245.0,0.0,False
+9197374,0,13,0,0,0,Google LA Campus Unisex Tee,Home/Campus Collection/,13,,0.0,0.0,,0.0,0.22810184305529166,Not Enough Data,100,1245.0,0.0,False
+9197369,0,59,0,0,0,Google Infant Hero Tee Olive,Home/Apparel/Kids/,59,,0.0,0.0,,0.0,0.06113147978409207,Not Enough Data,100,1245.0,0.0,False
+9197344,0,10,0,0,0,Google Boulder Campus Zip Hoodie,Home/Campus Collection/,10,,0.0,0.0,,0.0,0.2775401687666165,Not Enough Data,100,1245.0,0.0,False
+9197343,0,1,0,0,0,Google Boulder Campus Ladies Tee,Home/Campus Collection/,1,,0.0,0.0,,0.0,0.7934567085261071,Not Enough Data,100,1245.0,0.0,False
+9197342,0,9,0,0,0,Google Boulder Campus Unisex Tee,Home/Campus Collection/,9,,0.0,0.0,,0.0,0.2991527535509594,Not Enough Data,100,1245.0,0.0,False
+9197038,0,41,0,0,0,Google Toddler Hero Tee Black,Home/Apparel/Kids/,41,,0.0,0.0,,0.0,0.08567044886890744,Not Enough Data,100,1245.0,0.0,False
+9197029,0,14,0,0,0,Google Austin Campus Zip Hoodie,Home/Campus Collection/,14,,0.0,0.0,,0.0,0.21531701192718142,Not Enough Data,100,1245.0,0.0,False
+9197028,0,4,0,0,0,Google Austin Campus Ladies Tee,Home/Campus Collection/,4,,0.0,0.0,,0.0,0.48990002040399916,Not Enough Data,100,1245.0,0.0,False
+9197027,0,14,0,0,0,Google Austin Campus Unisex Tee,Home/Campus Collection/,14,,0.0,0.0,,0.0,0.21531701192718142,Not Enough Data,100,1245.0,0.0,False
+9197002,0,6,0,0,0,Google Chicago Campus Zip Hoodie,Home/Campus Collection/,6,,0.0,0.0,,0.0,0.3903430336530645,Not Enough Data,100,1245.0,0.0,False
+9196581,0,6,0,0,0,Google Raincoat Navy,Home/Apparel/Men's / Unisex/,6,,0.0,0.0,,0.0,0.3903430336530645,Not Enough Data,100,1245.0,0.0,False
+9196579,0,48,0,0,0,Google Toddler Tee White,Home/Apparel/Kids/,48,,0.0,0.0,,0.0,0.0741026511527422,Not Enough Data,100,1245.0,0.0,False
+9199161,0,3,0,0,0,BLM Unisex Pullover Hoodie,Home/Black Lives Matter/,3,,0.0,0.0,,0.0,0.5615060804490177,Not Enough Data,100,1245.0,0.0,False
+9195183,0,46,0,0,0,Google Tudes Recycled Tee,Home/Apparel/Men's / Unisex/,46,,0.0,0.0,,0.0,0.07707617732978073,Not Enough Data,100,1245.0,0.0,False
+9194961,0,4,0,0,0,Google Women's Discovery Lt. Rain Shell,Home/Sale/,4,,0.0,0.0,,0.0,0.48990002040399916,Not Enough Data,100,1245.0,0.0,False
+9194963,0,7,0,0,0,Google Women's Kirkland Pullover,Home/Sale/,7,,0.0,0.0,,0.0,0.35433884297520657,Not Enough Data,100,1245.0,0.0,False
+9194970,0,53,0,0,0,Google Tee F/C Black,Home/Sale/,53,,0.0,0.0,,0.0,0.06758430445307662,Not Enough Data,100,1245.0,0.0,False
+9194978,0,635,0,0,0,Google Zip Hoodie F/C,Home/Apparel/Men's / Unisex/,635,,0.0,0.0,,0.0,0.0060133842254480605,Low Priority,100,1245.0,0.0,False
+9195181,0,358,0,0,0,Google F/C Long Sleeve Tee Charcoal,Men's T-Shirts/,358,,0.0,0.0,,0.0,0.010616800279459297,Low Priority,100,1245.0,0.0,False
+9195182,0,270,0,0,0,Google F/C Long Sleeve Tee Ash,Home/Apparel/Men's / Unisex/,270,,0.0,0.0,,8.673617379884035e-19,0.014028547890459302,Low Priority,100,1245.0,0.0,False
+9195187,0,74,0,0,0,Google Youth FC Tee Charcoal,Home/Apparel/Kids/,74,,0.0,0.0,,0.0,0.049351503566216516,Not Enough Data,100,1245.0,0.0,False
+9194957,0,88,0,0,0,Google Women's Grid Zip-Up,Home/Apparel/Women's/,88,,0.0,0.0,,3.469446951953614e-18,0.04182853957248131,Not Enough Data,100,1245.0,0.0,False
+9195188,0,44,0,0,0,Google Youth FC Longsleeve Charcoal,Home/Apparel/Kids/,44,,0.0,0.0,,6.938893903907228e-18,0.08029831778201396,Not Enough Data,100,1245.0,0.0,False
+9195190,0,106,0,0,0,Google Toddler FC Tee Charcoal,Home/Apparel/Kids/,106,,0.0,0.0,,0.0,0.034973998922084165,Low Priority,100,1245.0,0.0,False
+9195192,0,182,0,0,0,Google Infant Charcoal Onesie,Home/Apparel/Kids/,182,,0.0,0.0,,0.0,0.020671367444102935,Low Priority,100,1245.0,0.0,False
+9195193,0,104,0,0,0,Google Toddler FC Zip Hoodie,Home/Apparel/Kids/,104,,0.0,0.0,,0.0,0.03562261687512055,Low Priority,100,1245.0,0.0,False
+9195194,0,18,0,0,0,Google Youth FC Zip Hoodie,Home/Apparel/Kids/,18,,0.0,0.0,,0.0,0.1758845505823749,Not Enough Data,100,1245.0,0.0,False
+9195387,0,18,0,0,0,Google Youth F/C Pullover Hoodie,Home/Apparel/Kids/,18,,0.0,0.0,,0.0,0.1758845505823749,Not Enough Data,100,1245.0,0.0,False
+9194960,0,19,0,0,0,Google Men's Discovery Lt. Rain Shell,Home/Sale/,19,,0.0,0.0,,0.0,0.16818436536845052,Not Enough Data,100,1245.0,0.0,False
+9188340,0,23,0,0,0,Google Tonal Tee Coral,Home/Sale/,23,,0.0,0.0,,0.0,0.14312112541726274,Not Enough Data,100,1245.0,0.0,False
+9196578,0,120,0,0,0,Google Red Speckled Tee,Home/Apparel/Men's / Unisex/,120,,0.0,0.0,,0.0,0.031020271055929513,Low Priority,100,1245.0,0.0,False
+9184911,0,424,0,0,0,Google Crewneck Sweatshirt Navy,Home/Apparel/Men's / Unisex/,424,,0.0,0.0,,0.0,0.008979024012625233,Low Priority,100,1245.0,0.0,False
+9180829,0,44,0,0,0,Google Sunglasses,Lifestyle/,44,,0.0,0.0,,6.938893903907228e-18,0.08029831778201396,Not Enough Data,100,1245.0,0.0,False
+9182653,0,16,0,0,0,Google Women's Short Sleeve Hero Dark Grey,Home/Apparel/Women's/,16,,0.0,0.0,,0.0,0.19361341827271994,Not Enough Data,100,1245.0,0.0,False
+9184841,0,51,0,0,0,Google Tee Red,Home/Sale/,51,,0.0,0.0,,0.0,0.07004901388726806,Not Enough Data,100,1245.0,0.0,False
+9184849,0,259,0,0,0,Google Tee Yellow,Home/Sale/,259,,0.0,0.0,,0.0,0.014615646838247825,Low Priority,100,1245.0,0.0,False
+9184857,0,151,0,0,0,Google Tee Green,Home/Sale/,151,,0.0,0.0,,0.0,0.02480987021575597,Low Priority,100,1245.0,0.0,False
+9184865,0,48,0,0,0,Google Tee Blue,Home/Sale/,48,,0.0,0.0,,0.0,0.0741026511527422,Not Enough Data,100,1245.0,0.0,False
+9184955,0,47,0,0,0,YouTube Women's Favorite Tee White,Home/Sale/,47,,0.0,0.0,,6.938893903907228e-18,0.0755601711983887,Not Enough Data,100,1245.0,0.0,False
+9188332,0,47,0,0,0,Google Tonal Tee Spearmint,Home/Sale/,47,,0.0,0.0,,6.938893903907228e-18,0.0755601711983887,Not Enough Data,100,1245.0,0.0,False
+9185141,0,20,0,0,0,Google Mens Microfleece Jacket Black,Home/Sale/,20,,0.0,0.0,,0.0,0.1611301254949332,Not Enough Data,100,1245.0,0.0,False
+9185147,0,113,0,0,0,Google Women's Microfleece Jacket Black,Home/Apparel/Women's/,113,,0.0,0.0,,0.0,0.03287870073672391,Low Priority,100,1245.0,0.0,False
+9185154,0,114,0,0,0,Google Crewneck Sweatshirt Grey,Home/Apparel/Men's / Unisex/,114,,0.0,0.0,,0.0,0.03259969314741144,Low Priority,100,1245.0,0.0,False
+9188235,0,150,0,0,0,Google Black Tee,Men's T-Shirts/,150,,0.0,0.0,,0.0,0.02497113914571871,Low Priority,100,1245.0,0.0,False
+9188251,0,10,0,0,0,Google Women's Black Tee,Home/Sale/,10,,0.0,0.0,,0.0,0.2775401687666165,Not Enough Data,100,1245.0,0.0,False
+9188263,0,21,0,0,0,Google Tee Grey,Home/Sale/,21,,0.0,0.0,,0.0,0.15464382326420195,Not Enough Data,100,1245.0,0.0,False
+9195556,0,794,0,0,0,Google Eco Tee Black,Home/Apparel/Men's / Unisex/,794,,0.0,0.0,,0.0,0.004814990845300621,Low Priority,100,1245.0,0.0,False
+9195690,0,50,0,0,0,Google Women's Eco Tee Black,Home/Apparel/Women's/,50,,0.0,0.0,,0.0,0.07135003417431873,Not Enough Data,100,1245.0,0.0,False
+9195693,0,313,0,0,0,Google Campus Bike Eco Tee Navy,Home/Apparel/Women's/,313,,0.0,0.0,,0.0,0.012124670497813418,Low Priority,100,1245.0,0.0,False
+9196400,0,11,0,0,0,Stan and Friends Toddler Tee Green,Home/Sale/,11,,0.0,0.0,,2.7755575615628914e-17,0.2588400172488141,Not Enough Data,100,1245.0,0.0,False
+9196394,0,26,0,0,0,Android Garden Tee Orange,Home/Apparel/Women's/,26,,0.0,0.0,,0.0,0.12873304380462175,Not Enough Data,100,1245.0,0.0,False
+9196395,0,27,0,0,0,Google Beekeepers Tee Mint,Home/Apparel/Women's/,27,,0.0,0.0,,0.0,0.12455903714463581,Not Enough Data,100,1245.0,0.0,False
+9196396,0,17,0,0,0,Flamingo and Friends Tee Blue,Home/Apparel/Men's / Unisex/,17,,0.0,0.0,,0.0,0.18432366037156456,Not Enough Data,100,1245.0,0.0,False
+9196397,0,26,0,0,0,Stan and Friends Tee Green,Home/Apparel/Women's/,26,,0.0,0.0,,0.0,0.12873304380462175,Not Enough Data,100,1245.0,0.0,False
+9196398,0,9,0,0,0,Stan and Friends Onesie Green,Home/Sale/,9,,0.0,0.0,,0.0,0.2991527535509594,Not Enough Data,100,1245.0,0.0,False
+9196399,0,9,0,0,0,Stan and Friends Youth Tee Green,Home/Sale/,9,,0.0,0.0,,0.0,0.2991527535509594,Not Enough Data,100,1245.0,0.0,False
+9196401,0,4,0,0,0,Google Beekeepers Youth Tee Pink,Home/Sale/,4,,0.0,0.0,,0.0,0.48990002040399916,Not Enough Data,100,1245.0,0.0,False
+9195694,0,39,0,0,0,Google Dino Game Tee,Home/Apparel/Men's / Unisex/,39,,0.0,0.0,,0.0,0.08966985360023902,Not Enough Data,100,1245.0,0.0,False
+9196402,0,4,0,0,0,Google Beekeepers Toddler Tee Pink,Home/Sale/,4,,0.0,0.0,,0.0,0.48990002040399916,Not Enough Data,100,1245.0,0.0,False
+9196403,0,10,0,0,0,Google Beekeepers Onesie Pink,Home/Sale/,10,,0.0,0.0,,0.0,0.2775401687666165,Not Enough Data,100,1245.0,0.0,False
+9196573,0,375,0,0,0,Google Badge Heavyweight Pullover Black,Home/Apparel/Men's / Unisex/,375,,0.0,0.0,,0.0,0.010140385849917222,Low Priority,100,1245.0,0.0,False
+9196575,0,342,0,0,0,Google Crewneck Sweatshirt Green,Home/Apparel/Men's / Unisex/,342,,0.0,0.0,,0.0,0.011107975443093023,Low Priority,100,1245.0,0.0,False
+9196576,0,129,0,0,0,Google Heather Green Speckled Tee,Home/Apparel/Women's/,129,,0.0,0.0,,0.0,0.028918651988533713,Low Priority,100,1245.0,0.0,False
+9196577,0,500,0,0,0,Google Navy Speckled Tee,Home/Apparel/Men's / Unisex/,500,,0.0,0.0,,0.0,0.007624618530903363,Low Priority,100,1245.0,0.0,False
+9196273,0,8,0,0,0,Google Women's Pride Eco-Tee Black,Home/Sale/,8,,0.0,0.0,,0.0,0.3244156195108769,Not Enough Data,100,1245.0,0.0,False
+9196272,0,36,0,0,0,Google Unisex Pride Eco-Tee Black,Men's T-Shirts/,36,,0.0,0.0,,0.0,0.09642183044857634,Not Enough Data,100,1245.0,0.0,False
+9195960,0,23,0,0,0,Google Kids Playful Tee,Home/Apparel/Kids/,23,,0.0,0.0,,0.0,0.14312112541726274,Not Enough Data,100,1245.0,0.0,False
+9195944,0,2,0,0,0,Google Color Block Tote White,Lifestyle/Bags/,2,,0.0,0.0,,0.0,0.6576280471103807,Not Enough Data,100,1245.0,0.0,False
+9195943,0,2,0,0,0,Google Confetti Tote White,Home/Shop by Brand/Google/,2,,0.0,0.0,,0.0,0.6576280471103807,Not Enough Data,100,1245.0,0.0,False
+9195863,0,23,0,0,0,Google Lightweight Crew Sweatshirt Grey,Home/Sale/,23,,0.0,0.0,,0.0,0.14312112541726274,Not Enough Data,100,1245.0,0.0,False
+9195862,0,155,0,0,0,Google Women's Striped L/S,Home/Sale/,155,,0.0,0.0,,0.0,0.024185100124904303,Low Priority,100,1245.0,0.0,False
+9195861,0,12,0,0,0,Google Youth Jumbo Print Tee White,Home/Sale/,12,,0.0,0.0,,0.0,0.2425007574992425,Not Enough Data,100,1245.0,0.0,False
+9195857,0,6,0,0,0,Google Jumbo Print Tee White,Home/Sale/,6,,0.0,0.0,,0.0,0.3903430336530645,Not Enough Data,100,1245.0,0.0,False
+9195856,0,67,0,0,0,Google Pocket Tee Grey,Men's T-Shirts/,67,,0.0,0.0,,0.0,0.05422802421176257,Not Enough Data,100,1245.0,0.0,False
+9195707,0,120,0,0,0,YouTube Standards Zip Hoodie Black,Home/Shop by Brand/YouTube/,120,,0.0,0.0,,0.0,0.031020271055929513,Low Priority,100,1245.0,0.0,False
+9195703,0,108,0,0,0,YouTube Icon Tee Grey,Home/Shop by Brand/YouTube/,108,,0.0,0.0,,0.0,0.03434857870416732,Low Priority,100,1245.0,0.0,False
+9195702,0,182,0,0,0,YouTube Icon Tee Charcoal,Home/Shop by Brand/YouTube/,182,,0.0,0.0,,0.0,0.020671367444102935,Low Priority,100,1245.0,0.0,False
+9195700,0,9,0,0,0,Google Women's Ringer Tee,Home/Apparel/Women's/,9,,0.0,0.0,,0.0,0.2991527535509594,Not Enough Data,100,1245.0,0.0,False
+9195698,0,35,0,0,0,Google Tee Dark Blue,Home/Sale/,35,,0.0,0.0,,0.0,0.09890426758938868,Not Enough Data,100,1245.0,0.0,False
+9195697,0,1,0,0,0,Google Tee Mint Green,Uncategorized,1,,0.0,0.0,,0.0,0.7934567085261071,Not Enough Data,100,1245.0,0.0,False
+9195696,0,3,0,0,0,Google Mountain View Tee Blue,Men's T-Shirts/,3,,0.0,0.0,,0.0,0.5615060804490177,Not Enough Data,100,1245.0,0.0,False
+9199128,0,965,0,0,0,Super G Unisex Joggers,Home/Apparel/Men's / Unisex/,965,,0.0,0.0,,0.0,0.0039651476567480175,Low Priority,100,1245.0,0.0,False
+9199227,0,1,0,0,0,Google Land & Sea Unisex Tee,Home/Apparel/Men's / Unisex/,1,,0.0,0.0,,0.0,0.7934567085261071,Not Enough Data,100,1245.0,0.0,False
+GGOEGCBA150799,68,6,0,0,0,Google Large Pet Leash (Red/Yellow),Small Goods,74,0.08823529411764706,0.0,0.0,0.0,0.0,0.049351503566216516,Not Enough Data,100,1245.0,0.0,False
+GGOEGBJD122199,118,30,0,0,0,Google Confetti Tote White,Home/Shop by Brand/Google/,148,0.2542372881355932,0.0,0.0,0.0,0.0,0.02530004952529478,Low Priority,100,1245.0,0.0,False
+GGOEGBGJ132699,5114,1162,0,0,0,Google Tech Taco,Home/Eco-Friendly/,6276,0.22721939773171684,0.0,0.0,0.0,0.0,0.000611735174976388,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJA127699,226,34,0,0,0,Google Mural Tote,Bags,260,0.1504424778761062,0.0,0.0,0.0,0.0,0.014560251302296528,Low Priority,100,1245.0,0.0,False
+GGOEGBJB099799,1063,104,0,0,0,Google Packable Bag Black,Lifestyle/Bags/,1167,0.09783631232361242,0.0,0.0,0.0,0.0,0.003281058684624803,Low Priority,100,1245.0,0.0,False
+GGOEGBJC100199,4835,850,0,0,0,Google Mesh Bag Blue,Lifestyle/Bags/,5685,0.17580144777662876,0.0,0.0,0.0,0.0,0.0006752868633220513,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJC122399,5719,931,0,0,0,Google Campus Bike Tote Navy,Lifestyle/Bags/,6650,0.16279069767441862,0.0,0.0,0.0,0.0,0.0005773506841521445,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJC137099,239,14,0,0,0,Google Totepak,Bags,253,0.058577405857740586,0.0,0.0,0.0,0.0,0.014957078604089055,Low Priority,100,1245.0,0.0,False
+GGOEGBJD122299,272,63,0,0,0,Google Color Block Tote White,Lifestyle/Bags/,335,0.23161764705882354,0.0,0.0,0.0,0.0,0.011337450891508009,Low Priority,100,1245.0,0.0,False
+GGOEGBBJ131999,1314,284,0,0,0,Google Cork Pencil Pouch,Home/Eco-Friendly/,1598,0.2161339421613394,0.0,0.0,0.0,0.0,0.0023982396261902545,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJD124399,677,109,0,0,0,Essential Canvas Tote,Sale,786,0.16100443131462333,0.0,0.0,0.0,0.0,0.004863760024794845,Low Priority,100,1245.0,0.0,False
+GGOEGBJD128499,1494,258,0,0,0,Supernatural Paper Tote,Home/Eco-Friendly/,1752,0.17269076305220885,0.0,0.0,0.0,0.0,0.0021878966758732674,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJD133999,2361,647,0,0,0,Google Cambridge Campus Tote,Home/Campus Collection/,3008,0.2740364252435409,0.0,0.0,0.0,1.0842021724855044e-19,0.0012754986849242006,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJD141499,143,50,0,0,0,Google Chicago Campus Tote,Home/Campus Collection/,193,0.34965034965034963,0.0,0.0,0.0,0.0,0.019516199827678698,Low Priority,100,1245.0,0.0,False
+GGOEGBJD143099,170,56,0,0,0,Google Austin Campus Tote,Home/Campus Collection/,226,0.32941176470588235,0.0,0.0,0.0,0.0,0.01671411963717621,Low Priority,100,1245.0,0.0,False
+GGOEGBJD144399,36,12,0,0,0,Google Boulder Campus Tote,Sale,48,0.3333333333333333,0.0,0.0,0.0,0.0,0.0741026511527422,Not Enough Data,100,1245.0,0.0,False
+GGOEGBBJ132799,1367,290,0,0,0,Google Felt Luggage Tag,Home/Eco-Friendly/,1657,0.2121433796634967,0.0,0.0,0.0,0.0,0.0023130441819376388,Window-Shopper,100,1245.0,0.0,False
+GGOEGBBD132599,548,82,0,0,0,Google Sustainable Pencil Pouch,Home/Eco-Friendly/,630,0.14963503649635038,0.0,0.0,0.0,0.0,0.00606082024278621,Low Priority,100,1245.0,0.0,False
+GGOEGABJ099599,8668,1731,0,0,0,Google Laptop Sleeve Charcoal,Lifestyle/Bags/,10399,0.19970004614674666,0.0,0.0,0.0,0.0,0.0003692837157109073,Window-Shopper,100,1245.0,0.0,False
+GGOEGAEJ135510,6845,2649,0,0,0,Google Speckled Beanie Grey,Home/Apparel/Hats/,9494,0.38699780861943023,0.0,0.0,0.0,0.0,0.0004044708431439833,Window-Shopper,100,1245.0,0.0,False
+GGOEGABK101099,4823,1103,0,0,0,Google Phone Stand Bamboo,Lifestyle/Small Goods/,5926,0.22869583246941738,0.0,0.0,0.0,0.0,0.0006478419254908934,Window-Shopper,100,1245.0,0.0,False
+GGOEGABL100799,4654,1157,0,0,0,Google Mouse Pad Navy,Lifestyle/Small Goods/,5811,0.24860335195530725,0.0,0.0,0.0,0.0,0.0006606542816230797,Window-Shopper,100,1245.0,0.0,False
+GGOEGAEA125610,535,53,0,0,0,Google Soft Modal Scarf,Men's / Unisex,588,0.09906542056074766,0.0,0.0,0.0,0.0,0.006490925950457014,Low Priority,100,1245.0,0.0,False
+GGOEGAEB105210,5058,906,0,0,0,Google Crew Socks,Home/Apparel/,5964,0.17912218268090155,0.0,0.0,0.0,0.0,0.0006437168171487661,Window-Shopper,100,1245.0,0.0,False
+GGOEGAEC134910,10218,3278,0,0,0,Google Speckled Beanie Navy,Home/Apparel/Hats/,13496,0.32080642004306126,0.0,0.0,0.0,0.0,0.00028456630187423827,Window-Shopper,100,1245.0,0.0,False
+GGOEGAED134810,9640,3132,0,0,0,Google Heathered Pom Beanie,Home/Apparel/Hats/,12772,0.324896265560166,0.0,0.0,0.0,0.0,0.00030069251954407446,Window-Shopper,100,1245.0,0.0,False
+GGOEGAKA126399,1991,613,0,0,0,Google Mural Sticker Sheet,Home/Stationery/Stickers/,2604,0.3078854846810648,0.0,0.0,0.0,0.0,0.0014730956051931987,Window-Shopper,100,1245.0,0.0,False
+GGOEGBBD122099,5112,914,0,0,0,Google Confetti Accessory Pouch,Lifestyle/Bags/,6026,0.17879499217527386,0.0,0.0,0.0,0.0,0.000637097996073396,Window-Shopper,100,1245.0,0.0,False
+GGOEGAPH161899,12916,3984,0,0,0,Google Land & Sea Cotton Cap,Home/New/,16900,0.3084546299163828,0.0,0.0,0.0,0.0,0.0002272619497333671,Window-Shopper,100,1245.0,0.0,False
+GGOEGAXA123510,1556,432,0,0,0,Google Crew Striped Athletic Sock,Home/Apparel/Socks/,1988,0.2776349614395887,0.0,0.0,0.0,0.0,0.001928667420140236,Window-Shopper,100,1245.0,0.0,False
+GGOEGAXA123610,2312,585,0,0,0,Google Crew Combed Cotton Sock,Home/Apparel/Socks/,2897,0.2530276816608997,0.0,0.0,0.0,0.0,0.0013243053326317438,Window-Shopper,100,1245.0,0.0,False
+GGOEGAXN139410,1230,346,0,0,0,Google Mural Socks,Home/Apparel/Socks/,1576,0.2813008130081301,0.0,0.0,0.0,2.168404344971009e-19,0.0024316361842858167,Window-Shopper,100,1245.0,0.0,False
+GGOEGBBC122499,4841,857,0,0,0,Google Campus Bike Carry Pouch,Lifestyle/Bags/,5698,0.1770295393513737,0.0,0.0,0.0,0.0,0.0006737472328238652,Window-Shopper,100,1245.0,0.0,False
+GGOEGBBD121999,905,245,0,0,0,Google Striped Penny Pouch,Home/Shop by Brand/Google/,1150,0.27071823204419887,0.0,0.0,0.0,0.0,0.003329399806697903,Low Priority,100,1245.0,0.0,False
+GGOEGBJD146499,101,23,0,0,0,Google LA Campus Tote,Sale,124,0.22772277227722773,0.0,0.0,0.0,0.0,0.030049686487027695,Low Priority,100,1245.0,0.0,False
+GGOEGBJD147399,170,60,0,0,0,Google SF Campus Tote,Sale,230,0.35294117647058826,0.0,0.0,0.0,0.0,0.01642821465470643,Low Priority,100,1245.0,0.0,False
+GGOEGBJD148499,115,49,0,0,0,Google PNW Campus Tote,Home/Campus Collection/,164,0.4260869565217391,0.0,0.0,0.0,0.0,0.022888247013851153,Low Priority,100,1245.0,0.0,False
+GGOEGCBA139299,228,70,0,0,0,Google Lapel Pin,Small Goods,298,0.30701754385964913,0.0,0.0,0.0,0.0,0.012727205262627815,Low Priority,100,1245.0,0.0,False
+GGOEGBTQ126033,142,32,0,0,0,Google Small White Gift Bag 5/PK,Lifestyle/Bags/,174,0.22535211267605634,0.0,0.0,0.0,0.0,0.021601245152990077,Low Priority,100,1245.0,0.0,False
+GGOEGBTQ126133,149,40,0,0,0,Google Large White Gift Bag 5/PK,Lifestyle/Bags/,189,0.2684563758389262,0.0,0.0,0.0,0.0,0.019921012893483563,Low Priority,100,1245.0,0.0,False
+GGOEGCBA096099,2113,144,0,0,0,Google Campus Bike,Lifestyle,2257,0.06814955040227165,0.0,0.0,0.0,0.0,0.0016991902484455343,Window-Shopper,100,1245.0,0.0,False
+GGOEGCBA105099,702,223,0,0,0,Google Magnet,Small Goods,925,0.3176638176638177,0.0,0.0,0.0,0.0,0.004135904335034089,Low Priority,100,1245.0,0.0,False
+GGOEGCBA139099,137,45,0,0,0,Google Emoji Magnet Set,Small Goods,182,0.3284671532846715,0.0,0.0,0.0,0.0,0.020671367444102935,Low Priority,100,1245.0,0.0,False
+GGOEGCBA139199,285,119,0,0,0,Google Keychain,Small Goods,404,0.41754385964912283,0.0,0.0,0.0,0.0,0.009419343195985891,Low Priority,100,1245.0,0.0,False
+GGOEGCBA139599,115,13,0,0,0,Google Medium Pet Collar (Blue/Green),Small Goods,128,0.11304347826086956,0.0,0.0,0.0,0.0,0.02913799589810803,Low Priority,100,1245.0,0.0,False
+GGOEGBJD152499,45,0,0,0,0,Google Mountain View Campus Tote,Home/Campus Collection/,45,0.0,,0.0,0.0,0.0,0.07865426194064076,Not Enough Data,100,1245.0,0.0,False
+GGOEGCBA139699,99,13,0,0,0,Google Large Pet Collar (Blue/Green),Small Goods,112,0.13131313131313133,0.0,0.0,0.0,0.0,0.03316252537948371,Low Priority,100,1245.0,0.0,False
+GGOEGCBA139799,91,12,0,0,0,Google Medium Pet Leash (Blue/Green),Small Goods,103,0.13186813186813187,0.0,0.0,0.0,0.0,0.03595603210734395,Low Priority,100,1245.0,0.0,False
+GGOEGCBA139899,94,15,0,0,0,Google Large Pet Leash (Blue/Green),Small Goods,109,0.1595744680851064,0.0,0.0,0.0,0.0,0.03404418228738337,Low Priority,100,1245.0,0.0,False
+GGOEGCBA150499,95,13,0,0,0,Google Medium Pet Collar (Red/Yellow),Small Goods,108,0.1368421052631579,0.0,0.0,0.0,0.0,0.03434857870416732,Low Priority,100,1245.0,0.0,False
+GGOEGCBA150599,70,12,0,0,0,Google Large Pet Collar (Red/Yellow),Small Goods,82,0.17142857142857143,0.0,0.0,0.0,0.0,0.044752194740079396,Not Enough Data,100,1245.0,0.0,False
+GGOEGCBA150699,82,12,0,0,0,Google Medium Pet Leash (Red/Yellow),Small Goods,94,0.14634146341463414,0.0,0.0,0.0,3.469446951953614e-18,0.03926346257624569,Not Enough Data,100,1245.0,0.0,False
+GGOEGBRL124699,887,68,0,0,0,Google Campus Bike Mini Backpack,Backpacks/,955,0.07666290868094701,0.0,0.0,0.0,0.0,0.004006501178088226,Low Priority,100,1245.0,0.0,False
+GGOEGBRJ128599,2096,324,0,0,0,Supernatural Paper Backpack,Home/Eco-Friendly/,2420,0.15458015267175573,0.0,0.0,0.0,0.0,0.0015849220510119142,Window-Shopper,100,1245.0,0.0,False
+GGOEGBRJ114199,5614,894,0,0,0,Google Utility BackPack,Lifestyle/Bags/,6508,0.15924474527965798,0.0,0.0,0.0,0.0,0.0005899406398337453,Window-Shopper,100,1245.0,0.0,False
+GGOEGBRD128399,1676,272,0,0,0,Supernatural Paper Lunch Sack,Home/Eco-Friendly/,1948,0.162291169451074,0.0,0.0,0.0,0.0,0.0019681925008668733,Window-Shopper,100,1245.0,0.0,False
+GGOEGBRC128299,799,43,0,0,0,Google Incognito Dopp Kit V2,Bags,842,0.05381727158948686,0.0,0.0,0.0,0.0,0.004541748715125858,Low Priority,100,1245.0,0.0,False
+GGOEGBRC128199,482,44,0,0,0,Google Incognito Laptop Organizer,Bags,526,0.0912863070539419,0.0,0.0,0.0,0.0,0.007250468819360351,Low Priority,100,1245.0,0.0,False
+GGOEGBRC128099,1566,149,0,0,0,Google Incognito Zip Pack,Backpacks/,1715,0.09514687100893997,0.0,0.0,0.0,0.0,0.002234993614303959,Window-Shopper,100,1245.0,0.0,False
+GGOEGBRC127999,767,63,0,0,0,Google Incognito Techpack V2,Bags,830,0.08213820078226858,0.0,0.0,0.0,0.0,0.004607110031449617,Low Priority,100,1245.0,0.0,False
+GGOEGBJR100099,5058,924,0,0,0,Google Mesh Bag Red,Lifestyle/Bags/,5982,0.1826809015421115,0.0,0.0,0.0,0.0,0.000641781098918488,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJQ125099,6430,1279,0,0,0,Google Large Tote White,Lifestyle/Bags/,7709,0.19891135303265942,0.0,0.0,0.0,0.0,0.0004980784254664326,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJJ103799,4851,841,0,0,0,Google Incognito Messenger Bag,Lifestyle/Bags/,5692,0.17336631622345908,0.0,0.0,0.0,0.0,0.0006744569582131639,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJJ103599,985,59,0,0,0,Google Incognito Flap Pack,Backpacks/,1044,0.05989847715736041,0.0,0.0,0.0,0.0,0.0036662029833516817,Low Priority,100,1245.0,0.0,False
+GGOEGBJJ099699,5645,1043,0,0,0,Google Flat Front Bag Grey,Lifestyle/Bags/,6688,0.18476527900797166,0.0,0.0,0.0,0.0,0.0005740721657249029,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJJ099499,10001,2141,0,0,0,Google Utility Bag Grey,Lifestyle/Bags/,12142,0.21407859214078592,0.0,0.0,0.0,0.0,0.0003162893216061701,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJH131899,1960,424,0,0,0,Google Hemp Tote,Home/Eco-Friendly/,2384,0.2163265306122449,0.0,0.0,0.0,0.0,0.0016088169332505137,Window-Shopper,100,1245.0,0.0,False
+GGOEGBJH124599,507,78,0,0,0,Google Seaport Tote,Bags,585,0.15384615384615385,0.0,0.0,0.0,0.0,0.006523995587268291,Low Priority,100,1245.0,0.0,False
+GGOEGBJD152599,311,109,0,0,0,Google Sunnyvale Campus Tote,Home/Campus Collection/,420,0.3504823151125402,0.0,0.0,0.0,0.0,0.00906376344370161,Low Priority,100,1245.0,0.0,False
+GGOEGABJ125299,656,77,0,0,0,Google Chrome Dinosaur Collectible,Small Goods,733,0.1173780487804878,0.0,0.0,0.0,0.0,0.005213603575042451,Low Priority,100,1245.0,0.0,False
+GGOEGABJ099299,25,2,0,0,0,Google Separating Keyring,Small Goods,27,0.08,0.0,0.0,0.0,0.0,0.12455903714463581,Not Enough Data,100,1245.0,0.0,False
+9199229,0,3,0,0,0,Google Land & Sea French Terry Sweatshirt,Home/New/,3,,0.0,0.0,,0.0,0.5615060804490177,Not Enough Data,100,1245.0,0.0,False
+GGOEACBA104899,316,80,0,0,0,Android Geek Pin,Home/Shop by Brand/Android/,396,0.25316455696202533,0.0,0.0,0.0,0.0,0.0096078046906575,Low Priority,100,1245.0,0.0,False
+GGCOGXXX1570,7700,1412,0,0,0,Google Land & Sea Women's Eco Tee,Home/Eco-Friendly/,9112,0.1833766233766234,0.0,0.0,0.0,0.0,0.0004214202230104568,Window-Shopper,100,1245.0,0.0,False
+GGCOGXXX1609,13176,2138,0,0,0,Google Land & Sea French Terry Sweatshirt,Home/Eco-Friendly/,15314,0.16226472374013357,0.0,0.0,0.0,0.0,0.000250792513744234,Window-Shopper,100,1245.0,0.0,False
+GGOEAAKQ137410,1226,376,0,0,0,Android Iconic Socks,Home/Apparel/Socks/,1602,0.3066884176182708,0.0,0.0,0.0,0.0,0.002392265837427552,Window-Shopper,100,1245.0,0.0,False
+GGOEABRB130499,672,35,0,0,0,Android Iconic Backpack,Backpacks/,707,0.052083333333333336,0.0,0.0,0.0,0.0,0.005404298229028801,Low Priority,100,1245.0,0.0,False
+GGOEACBA104599,12579,3479,0,0,0,Android SM S/F18 Sticker Sheet,Home/Sale/,16058,0.27657206455203115,0.0,0.0,0.0,1.3552527156068805e-20,0.00023917556253325273,Window-Shopper,100,1245.0,0.0,False
+GGOEACBA104699,562,150,0,0,0,Android Lumberjack Pin,Home/Shop by Brand/Android/,712,0.2669039145907473,0.0,0.0,0.0,0.0,0.005366550365332219,Low Priority,100,1245.0,0.0,False
+GGOEACBA104999,420,94,0,0,0,Android Hipster Pin,Home/Shop by Brand/Android/,514,0.22380952380952382,0.0,0.0,0.0,0.0,0.007418484725831218,Low Priority,100,1245.0,0.0,False
+GGCOGXXX1008,2668,454,0,0,0,#IamRemarkable Unisex Hoodie,Home/Apparel/,3122,0.1701649175412294,0.0,0.0,0.0,0.0,0.001228981020663363,Window-Shopper,100,1245.0,0.0,False
+GGOEACBA116699,6559,1372,0,0,0,Noogler Android Figure,Home/Shop by Brand/Android/,7931,0.20917822838847386,0.0,0.0,0.0,0.0,0.0004841432499421286,Window-Shopper,100,1245.0,0.0,False
+GGOEACBA129599,3774,812,0,0,0,Android Iconic Pin,Lifestyle/Small Goods/,4586,0.21515633280339164,0.0,0.0,0.0,0.0,0.0008369787750409513,Window-Shopper,100,1245.0,0.0,False
+GGOEADHB129299,898,275,0,0,0,Android Iconic Bottle Black,Lifestyle/Drinkware/,1173,0.3062360801781737,0.0,0.0,0.0,0.0,0.0032643305607143727,Low Priority,100,1245.0,0.0,False
+GGOEADHH117199,2479,370,0,0,0,Android Buoy Bottle,Home/Shop by Brand/Android/,2849,0.14925373134328357,0.0,0.0,0.0,0.0,0.0013465872062437675,Window-Shopper,100,1245.0,0.0,False
+GGOEADHH129499,5554,1579,0,0,0,Android Iconic Glass Bottle Green,Lifestyle/Drinkware/,7133,0.2842996038890889,0.0,0.0,0.0,0.0,0.0005382773242438223,Window-Shopper,100,1245.0,0.0,False
+GGOEADWJ129399,5060,1447,0,0,0,Android Iconic Mug Gray,Lifestyle/Drinkware/,6507,0.28596837944664033,0.0,0.0,0.0,0.0,0.0005900312488019982,Window-Shopper,100,1245.0,0.0,False
+GGCOGXXX1569,6726,1299,0,0,0,Google Land & Sea Unisex Tee,Men's / Unisex,8025,0.19313113291703835,0.0,0.0,0.0,0.0,0.000478475001923067,Window-Shopper,100,1245.0,0.0,False
+GGCOGXXX1007,4553,1126,0,0,0,#IamRemarkable Ladies T-Shirt,Home/Apparel/Women's/,5679,0.24730946628596528,0.0,0.0,0.0,0.0,0.0006759998378276107,Window-Shopper,100,1245.0,0.0,False
+GGOEGABB137799,3672,781,0,0,0,Google LoveHandle Black,Lifestyle/Small Goods/,4453,0.21269063180827888,0.0,0.0,0.0,0.0,0.0008619556952618643,Window-Shopper,100,1245.0,0.0,False
+GGCOGCBC101399,512,121,0,0,0,#IamRemarkable Lapel Pin,Home/Shop by Brand/#IamRemarkable/,633,0.236328125,0.0,0.0,0.0,0.0,0.006032269248742545,Low Priority,100,1245.0,0.0,False
+9199740,0,2,0,0,0,Google 5K Run 2020 Unisex Tee,Uncategorized,2,,0.0,0.0,,0.0,0.6576280471103807,Not Enough Data,100,1245.0,0.0,False
+9200317,0,123,0,0,0,Google Cloud  Unisex Zip Hoodie,Home/Apparel/Men's / Unisex/,123,,0.0,0.0,,0.0,0.03028659367273828,Low Priority,100,1245.0,0.0,False
+GGCOGBJC100999,266,57,0,0,0,#IamRemarkable Tote,Lifestyle/Bags/,323,0.21428571428571427,0.0,0.0,0.0,0.0,0.011753705770624056,Low Priority,100,1245.0,0.0,False
+GGCOGBJD157199,6008,1123,0,0,0,Google Land & Sea Tote Bag,Home/New/,7131,0.18691744340878827,0.0,0.0,0.0,0.0,0.0005384282112163499,Window-Shopper,100,1245.0,0.0,False
+GGCOGCBA161199,7906,1617,0,0,0,Google Land & Sea Tech Taco,Home/New/,9523,0.20452820642549963,0.0,0.0,0.0,0.0,0.00040323962140821146,Window-Shopper,100,1245.0,0.0,False
+GGCOGCBA164499,1292,183,0,0,0,Google Knit Blanket,Home/New/,1475,0.141640866873065,0.0,0.0,0.0,0.0,0.0025977089094599446,Window-Shopper,100,1245.0,0.0,False
+GGCOGCBD162999,2268,595,0,0,0,Google Bear Baby Blanket Beige,Home/Shop by Brand/Google/,2863,0.2623456790123457,0.0,0.0,0.0,0.0,0.0013400112514064255,Window-Shopper,100,1245.0,0.0,False
+GGCOGXXX1006,3272,762,0,0,0,#IamRemarkable Unisex T-Shirt,Home/Apparel/,4034,0.23288508557457213,0.0,0.0,0.0,0.0,0.0009513993812932136,Window-Shopper,100,1245.0,0.0,False
+GGCOGDHC101099,5334,1537,0,0,0,#IamRemarkable Water Bottle,Lifestyle/Drinkware/,6871,0.2881514810648669,0.0,0.0,0.0,0.0,0.0005587910563641205,Window-Shopper,100,1245.0,0.0,False
+GGCOGDHC161299,8872,1670,0,0,0,Google Blue Stojo Cup,Home/New/,10542,0.1882326420198377,0.0,0.0,0.0,0.0,0.00036427628497663,Window-Shopper,100,1245.0,0.0,False
+GGCOGDWH161099,7321,1514,0,0,0,Google Land & Sea Mug,Home/New/,8835,0.20680234940581887,0.0,0.0,0.0,0.0,0.000434627089595089,Window-Shopper,100,1245.0,0.0,False
+GGCOGOAC101259,995,368,0,0,0,#IamRemarkable Pen,Home/Stationery/Writing/,1363,0.3698492462311558,0.0,0.0,0.0,0.0,0.002810567076682477,Window-Shopper,100,1245.0,0.0,False
+GGCOGOCA157331,10469,2327,0,0,0,Google Land & Sea Journal Set,Home/Eco-Friendly/,12796,0.22227528894832363,0.0,0.0,0.0,0.0,0.0003001287140928369,Window-Shopper,100,1245.0,0.0,False
+GGCOGOCC101199,1983,650,0,0,0,#IamRemarkable Journal,Home/Stationery/Notebooks/,2633,0.32778618255168934,0.0,0.0,0.0,0.0,0.0014568944907422576,Window-Shopper,100,1245.0,0.0,False
+GGOEAFBA115299,2684,330,0,0,0,Candy Cane Android Cardboard Sculpture,Home/Sale/,3014,0.12295081967213115,0.0,0.0,0.0,0.0,0.0012729627691526286,Window-Shopper,100,1245.0,0.0,False
+GGOEAFBA115399,2999,662,0,0,0,Snowflake Android Cardboard Sculpture,Home/Shop by Brand/,3661,0.22074024674891632,0.0,0.0,0.0,0.0,0.0010482308430465317,Window-Shopper,100,1245.0,0.0,False
+GGOEAFBA115499,9297,2551,0,0,0,Android Techie 3D Framed Art,Home/Sale/,11848,0.2743895880391524,0.0,0.0,0.0,2.710505431213761e-20,0.0003241352803770174,Window-Shopper,100,1245.0,0.0,False
+GGOEAXXX1308,7741,1812,0,0,0,Android Iconic Crewneck Sweatshirt,Home/Apparel/Men's / Unisex/,9553,0.23407828445937218,0.0,0.0,0.0,0.0,0.0004019738069112708,Window-Shopper,100,1245.0,0.0,False
+GGOEAXXX1298,787,68,0,0,0,Android Pocket Toddler Tee White,Home/Apparel/Kids/,855,0.08640406607369759,0.0,0.0,0.0,0.0,0.004473001773551724,Low Priority,100,1245.0,0.0,False
+GGOEAXXX1299,1805,552,0,0,0,Android Pocket Toddler Tee Navy,Home/Apparel/Kids/,2357,0.30581717451523543,0.0,0.0,0.0,0.0,0.0016272163282788645,Window-Shopper,100,1245.0,0.0,False
+GGOEAXXX1300,1085,100,0,0,0,Android Pocket Onesie White,Home/Apparel/Kids/,1185,0.09216589861751152,0.0,0.0,0.0,0.0,0.0032313808668875646,Low Priority,100,1245.0,0.0,False
+GGOEAXXX1301,3026,780,0,0,0,Android Pocket Onesie Navy,Home/Apparel/Kids/,3806,0.25776602775941837,0.0,0.0,0.0,0.0,0.0010083358846205048,Window-Shopper,100,1245.0,0.0,False
+GGOEAXXX1302,752,177,0,0,0,Android Pocket Youth Tee Green,Home/Apparel/Kids/,929,0.23537234042553193,0.0,0.0,0.0,0.0,0.004118169687115154,Low Priority,100,1245.0,0.0,False
+GGOEAXXX1303,655,144,0,0,0,Android Pocket Youth Tee Navy,Home/Apparel/Kids/,799,0.2198473282442748,0.0,0.0,0.0,0.0,0.004785003666974905,Low Priority,100,1245.0,0.0,False
+GGOECDHQ163999,2971,719,0,0,0,White Google Shoreline Bottle,Home/Shop by Brand/Google/,3690,0.24200605856613935,0.0,0.0,0.0,0.0,0.0010400012821340254,Window-Shopper,100,1245.0,0.0,False
+GGOEAFBA115599,9806,2483,0,0,0,Android Super Hero 3D Framed Art,Home/Sale/,12289,0.2532123189883745,0.0,0.0,0.0,0.0,0.0003125070772895992,Window-Shopper,100,1245.0,0.0,False
+GGOECDNQ163899,37,5,0,0,0,White Google Cloud Tumbler,Home/New/,42,0.13513513513513514,0.0,0.0,0.0,0.0,0.08380161250916197,Not Enough Data,100,1245.0,0.0,False
+GGOECOAQ163799,3317,828,0,0,0,Google Cloud Pen,Home/Shop by Brand/Google/,4145,0.24962315345191438,0.0,0.0,0.0,5.421010862427522e-20,0.0009259452084167299,Window-Shopper,100,1245.0,0.0,False
+GGOECXXX1630,5161,1351,0,0,0,Google Cloud  Unisex Zip Hoodie,Home/Shop by Brand/Google/,6512,0.26177097461732224,0.0,0.0,0.0,0.0,0.0005895784820797362,Window-Shopper,100,1245.0,0.0,False
+GGOEGAAX0037,2184,322,0,0,0,Google Sunglasses,Lifestyle/,2506,0.14743589743589744,0.0,0.0,0.0,0.0,0.0015306145216494936,Window-Shopper,100,1245.0,0.0,False
+GGOEGAAX0289,245,72,0,0,0,Google Women's Short Sleeve Hero Dark Grey,Home/Apparel/Women's/,317,0.2938775510204082,0.0,0.0,0.0,0.0,0.011973509669569032,Low Priority,100,1245.0,0.0,False
+GGOEGABB100999,1391,366,0,0,0,Google Cloth & Pouch Black,Lifestyle/Small Goods/,1757,0.2631200575125809,0.0,0.0,0.0,0.0,0.0021816840310905873,Window-Shopper,100,1245.0,0.0,False
+GGOEAXXX1297,1157,321,0,0,0,Android Pocket Tee Navy,Men's / Unisex,1478,0.27744165946413135,0.0,0.0,0.0,0.0,0.002592449827295981,Window-Shopper,100,1245.0,0.0,False
+GGOEAXXX1296,282,70,0,0,0,Android Pocket Tee Green,Men's / Unisex,352,0.24822695035460993,0.0,0.0,0.0,8.673617379884035e-19,0.010795814767019931,Low Priority,100,1245.0,0.0,False
+GGOEAOLL130799,546,166,0,0,0,Android Iconic Notebook,Home/Stationery/Notebooks/,712,0.304029304029304,0.0,0.0,0.0,0.0,0.005366550365332219,Low Priority,100,1245.0,0.0,False
+GGOEAOLC152099,3947,752,0,0,0,Android Jotter Task Pad,Home/Eco-Friendly/,4699,0.19052444894856854,0.0,0.0,0.0,0.0,0.000816867827315298,Window-Shopper,100,1245.0,0.0,False
+GGOEAOCQ100399,57,21,0,0,0,Android Flex Journal White,Home/Sale/,78,0.3684210526315789,0.0,0.0,0.0,0.0,0.04693945377411976,Not Enough Data,100,1245.0,0.0,False
+GGOEAOCB092899,9057,2459,0,0,0,Android Small Trace Journal Black,Home/Sale/,11516,0.27150270508998564,0.0,0.0,0.0,0.0,0.00033347680752832565,Window-Shopper,100,1245.0,0.0,False
+GGOEAOCB092799,9825,2764,0,0,0,Android Large Trace Journal Black,Home/Sale/,12589,0.281323155216285,0.0,0.0,0.0,0.0,0.00030506220295822666,Window-Shopper,100,1245.0,0.0,False
+GGOEAOAL129199,800,168,0,0,0,Android Iconic Pen,Home/Shop by Brand/Android/,968,0.21,0.0,0.0,0.0,0.0,0.0039529075520125904,Low Priority,100,1245.0,0.0,False
+GGOEAHPL131010,6373,2577,0,0,0,Android Iconic Hat White,Home/Apparel/Hats/,8950,0.4043621528322611,0.0,0.0,0.0,0.0,0.0004290448917479174,Window-Shopper,100,1245.0,0.0,False
+GGOEAHPL130910,7321,2707,0,0,0,Android Iconic Hat Green,Home/Apparel/Hats/,10028,0.36975822975003414,0.0,0.0,0.0,0.0,0.00038294065568180417,Window-Shopper,100,1245.0,0.0,False
+GGOEAHPJ131210,6612,2629,0,0,0,Android Iconic Beanie,Home/Apparel/Hats/,9241,0.39761040532365394,0.0,0.0,0.0,0.0,0.0004155398400768705,Window-Shopper,100,1245.0,0.0,False
+GGOEAHPB131110,8083,2722,0,0,0,Android Iconic Hat Black,Home/Apparel/Hats/,10805,0.33675615489298527,0.0,0.0,0.0,0.0,0.00035541273914126007,Window-Shopper,100,1245.0,0.0,False
+GGOEAFKQ130699,1855,587,0,0,0,Android Iconic Sticker Sheet,Home/Stationery/Stickers/,2442,0.3164420485175202,0.0,0.0,0.0,0.0,0.0015706659008498341,Window-Shopper,100,1245.0,0.0,False
+GGOEAFKQ130599,1935,594,0,0,0,Android Iconic 4&quot; Decal,Home/Stationery/Stickers/,2529,0.30697674418604654,0.0,0.0,0.0,0.0,0.0015167154550841235,Window-Shopper,100,1245.0,0.0,False
+GGOEAFKA087599,12458,3409,0,0,0,Android Large Removable Sticker Sheet,Home/Sale/,15867,0.27363942847969175,0.0,0.0,0.0,1.3552527156068805e-20,0.00024205395635729863,Window-Shopper,100,1245.0,0.0,False
+GGOEAFDH105799,35,5,0,0,0,Android Cardboard Sculpture,Home/Shop by Brand/Android/,40,0.14285714285714285,0.0,0.0,0.0,0.0,0.08762453925039232,Not Enough Data,100,1245.0,0.0,False
+GGOEAFBH111099,522,67,0,0,0,Android Puzzlebot v2,Small Goods,589,0.12835249042145594,0.0,0.0,0.0,0.0,0.006479977113616857,Low Priority,100,1245.0,0.0,False
+fall_campaign,0,0,0,12506,0,(not set),(not set),0,,,,,0.0,0.0,Not Enough Data,100,1245.0,0.0,False
