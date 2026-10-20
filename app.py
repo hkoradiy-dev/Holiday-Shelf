@@ -191,10 +191,16 @@ elif page == "Opportunity Finder":
         if opportunities.empty:
             st.info("No products currently meet the Opportunity criteria.")
         else:
-            opportunities["opportunity_reason"] = (
-                "Above-median purchase rate with below-median exposure; "
-                "tracked exposure meets the minimum threshold."
-            )
+            if median_rate == 0:
+                opportunities["opportunity_reason"] = (
+                    "Positive observed purchase rate (the eligible-set median is 0%); "
+                    "below-median exposure; meets minimum exposure and data-quality rules."
+                )
+            else:
+                opportunities["opportunity_reason"] = (
+                    "Above-median purchase rate with below-median exposure; "
+                    "meets the minimum exposure and data-quality rules."
+                )
             opportunities["rate_vs_median"] = (
                 opportunities["exposure_to_buy_rate"] / median_rate
                 if median_rate > 0
@@ -219,8 +225,36 @@ elif page == "Opportunity Finder":
             st.markdown(
                 "A product appears here when it has **at least the minimum exposure floor**, "
                 "**below-median exposure**, an **above-median exposure-to-purchase rate**, "
-                "and **no exposure-undercount warning**. The score ranks eligible products; "
-                "it is a transparent heuristic, not a forecast or causal estimate."
+                "and **no exposure-undercount warning**. The rules identify candidates for "
+                "further investigation; they do not prove that increasing exposure will cause more sales."
+            )
+
+            if median_rate == 0:
+                zero_rate_count = int((eligible["exposure_to_buy_rate"] == 0).sum())
+                zero_rate_pct = zero_rate_count / len(eligible)
+                st.info(
+                    f"**Why is the median purchase rate 0.0%?** "
+                    f"{zero_rate_count:,} of {len(eligible):,} eligible products "
+                    f"({zero_rate_pct:.1%}) have a 0% observed rate. Because the rates are "
+                    f"zero-heavy, the median is 0%. In this dataset, ‘above median’ therefore "
+                    f"means a **positive observed purchase rate**, not beating a strong positive benchmark. "
+                    f"Treat these results as candidates to investigate, not guaranteed winners."
+                )
+            else:
+                st.caption(
+                    f"The median purchase-rate threshold is {median_rate:.1%}; products must "
+                    "be strictly above this threshold to qualify."
+                )
+
+            st.markdown("### How the priority score works")
+            st.markdown(
+                "`Priority score = purchase rate × [1 + ln(1 + max(revenue, 0))]`"
+            )
+            st.caption(
+                "The purchase rate is used as a decimal (for example, 25% = 0.25). "
+                "Revenue is clipped at zero before applying the natural logarithm. "
+                "A higher score ranks a product higher; the score is a heuristic, not a probability, "
+                "forecast, causal effect, or expected incremental revenue."
             )
 
             cat_options = sorted(opportunities["item_category"].dropna().unique().tolist())
@@ -278,10 +312,31 @@ elif page == "Opportunity Finder":
                     "sessions_purchased": "Purchases",
                     "exposure_to_buy_rate": "Purchase rate",
                     "revenue": "Revenue",
-                    "opportunity_score": "Priority score",
+                    "opportunity_score": "Priority score (heuristic)",
                     "opportunity_reason": "Why selected",
                 })
-                st.dataframe(display, use_container_width=True, hide_index=True)
+                # Keep the on-screen table focused so the score is easy to see;
+                # include the full rationale in the downloadable CSV.
+                screen_columns = [
+                    "Product", "Category", "Estimated exposure", "Purchase rate",
+                    "Revenue", "Priority score (heuristic)"
+                ]
+                screen_display = display[screen_columns].copy()
+                screen_display["Purchase rate"] = screen_display["Purchase rate"].map(
+                    lambda value: f"{value:.1%}"
+                )
+                st.dataframe(
+                    screen_display, use_container_width=True, hide_index=True,
+                    column_config={
+                        "Revenue": st.column_config.NumberColumn(format="$%.0f"),
+                        "Priority score (heuristic)": st.column_config.NumberColumn(format="%.2f"),
+                    },
+                )
+                with st.expander("View selection rationale for each product"):
+                    st.dataframe(
+                        display[["Product", "Purchases", "Why selected"]],
+                        use_container_width=True, hide_index=True,
+                    )
 
                 csv_data = display.to_csv(index=False).encode("utf-8")
                 st.download_button(
