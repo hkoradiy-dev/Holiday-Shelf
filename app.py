@@ -8,6 +8,7 @@ Expects data/product_summary.csv, data/weekly.csv, data/promo_check.csv
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import math
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent / "data"
@@ -33,7 +34,7 @@ def load_promo_check():
 st.sidebar.title("Holiday Shelf")
 page = st.sidebar.radio(
     "Go to",
-    ["Shelf Scorecard", "Promo Check", "Season Playbook", "Shortlist Builder"],
+    ["Shelf Scorecard", "Opportunity Finder", "Promo Check", "Season Playbook", "Shortlist Builder"],
 )
 
 LABEL_COLORS = {
@@ -153,6 +154,147 @@ if page == "Shelf Scorecard":
             ].sort_values("revenue", ascending=False),
             use_container_width=True,
         )
+
+# ---------------------------------------------------------------------------
+# OPPORTUNITY FINDER — PHASE 2
+# ---------------------------------------------------------------------------
+elif page == "Opportunity Finder":
+    st.title("Opportunity Finder")
+    st.caption(
+        "Find products that convert relatively well despite having lower exposure. "
+        "This is a rule-based shortlist, not an AI-generated prediction."
+    )
+
+    df = load_product_summary().copy()
+
+    # Use products with enough exposure and avoid products whose rate is likely
+    # unreliable because purchases exceed the estimated exposure measure.
+    eligible = df[
+        (df["sessions_exposed"] >= int(df["min_views_floor"].iloc[0]))
+        & (~df["exposure_likely_undercounted"].astype(bool))
+        & df["exposure_to_buy_rate"].notna()
+    ].copy()
+
+    if eligible.empty:
+        st.warning("No products meet the current data-quality rules.")
+    else:
+        median_exposure = float(eligible["sessions_exposed"].median())
+        median_rate = float(eligible["exposure_to_buy_rate"].median())
+
+        # Phase 2 opportunity definition: low relative exposure, above-median
+        # purchase rate, adequate exposure, and no undercount warning.
+        opportunities = eligible[
+            (eligible["sessions_exposed"] < median_exposure)
+            & (eligible["exposure_to_buy_rate"] > median_rate)
+        ].copy()
+
+        if opportunities.empty:
+            st.info("No products currently meet the Opportunity criteria.")
+        else:
+            opportunities["opportunity_reason"] = (
+                "Above-median purchase rate with below-median exposure; "
+                "tracked exposure meets the minimum threshold."
+            )
+            opportunities["rate_vs_median"] = (
+                opportunities["exposure_to_buy_rate"] / median_rate
+                if median_rate > 0
+                else float("nan")
+            )
+            # Transparent prioritization score: reward stronger conversion
+            # and meaningful revenue without presenting it as an AI prediction.
+            opportunities["opportunity_score"] = (
+                opportunities["exposure_to_buy_rate"]
+                * (1 + opportunities["revenue"].clip(lower=0).apply(math.log1p))
+            )
+            opportunities = opportunities.sort_values(
+                ["opportunity_score", "revenue"], ascending=False
+            )
+
+            c1, c2, c3 = st.columns(3)
+            c1.metric("Qualified opportunities", f"{len(opportunities):,}")
+            c2.metric("Median exposure threshold", f"{median_exposure:,.0f}")
+            c3.metric("Median purchase-rate threshold", f"{median_rate:.1%}")
+
+            st.markdown("### How an opportunity is identified")
+            st.markdown(
+                "A product appears here when it has **at least the minimum exposure floor**, "
+                "**below-median exposure**, an **above-median exposure-to-purchase rate**, "
+                "and **no exposure-undercount warning**. The score ranks eligible products; "
+                "it is a transparent heuristic, not a forecast or causal estimate."
+            )
+
+            cat_options = sorted(opportunities["item_category"].dropna().unique().tolist())
+            selected_cats = st.multiselect(
+                "Filter opportunities by category", cat_options, default=[],
+                key="opportunity_categories"
+            )
+            max_results = st.slider(
+                "Number of opportunities to display", min_value=5,
+                max_value=min(50, len(opportunities)), value=min(15, len(opportunities)),
+                key="opportunity_count"
+            )
+
+            view = opportunities.copy()
+            if selected_cats:
+                view = view[view["item_category"].isin(selected_cats)]
+            view = view.head(max_results)
+
+            if view.empty:
+                st.warning("No opportunities match this category filter.")
+            else:
+                fig = px.scatter(
+                    view,
+                    x="sessions_exposed",
+                    y="exposure_to_buy_rate",
+                    size="revenue",
+                    color="item_category",
+                    hover_name="item_name",
+                    hover_data={
+                        "sessions_exposed": ":,",
+                        "sessions_purchased": ":,",
+                        "exposure_to_buy_rate": ":.1%",
+                        "revenue": ":$,.0f",
+                        "opportunity_score": ":.2f",
+                    },
+                    labels={
+                        "sessions_exposed": "Estimated sessions exposed",
+                        "exposure_to_buy_rate": "Exposure-to-purchase rate",
+                        "item_category": "Category",
+                    },
+                    size_max=42,
+                )
+                fig.update_layout(height=480)
+                st.plotly_chart(fig, use_container_width=True)
+
+                st.markdown("### Recommended opportunity shortlist")
+                display = view[[
+                    "item_name", "item_category", "sessions_exposed",
+                    "sessions_purchased", "exposure_to_buy_rate", "revenue",
+                    "opportunity_score", "opportunity_reason"
+                ]].rename(columns={
+                    "item_name": "Product",
+                    "item_category": "Category",
+                    "sessions_exposed": "Estimated exposure",
+                    "sessions_purchased": "Purchases",
+                    "exposure_to_buy_rate": "Purchase rate",
+                    "revenue": "Revenue",
+                    "opportunity_score": "Priority score",
+                    "opportunity_reason": "Why selected",
+                })
+                st.dataframe(display, use_container_width=True, hide_index=True)
+
+                csv_data = display.to_csv(index=False).encode("utf-8")
+                st.download_button(
+                    "Download opportunity shortlist (CSV)",
+                    data=csv_data,
+                    file_name="holiday_shelf_opportunities.csv",
+                    mime="text/csv",
+                )
+
+            st.caption(
+                "Caution: the data covers a historical holiday season. These are candidates for "
+                "merchandising tests, not guarantees of future performance."
+            )
 
 # ---------------------------------------------------------------------------
 # PROMO CHECK (placeholder — built next)
