@@ -1,8 +1,8 @@
 
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import math
 from pathlib import Path
 
 DATA_DIR = Path(__file__).parent / "data"
@@ -25,11 +25,34 @@ def load_promo_check():
     return pd.read_csv(DATA_DIR / "promo_check.csv")
 
 
+if "shortlist" not in st.session_state:
+    st.session_state.shortlist = {}  # item_name -> row dict
+
+
+def add_to_shortlist(row: dict):
+    st.session_state.shortlist[row["item_name"]] = row
+
+
+def remove_from_shortlist(item_name: str):
+    st.session_state.shortlist.pop(item_name, None)
+
+
 st.sidebar.title("Holiday Shelf")
 page = st.sidebar.radio(
     "Go to",
     ["Shelf Scorecard", "Opportunity Finder", "Promo Check", "Season Playbook", "Shortlist Builder"],
 )
+
+st.sidebar.markdown("---")
+st.sidebar.markdown(f"**Shortlist: {len(st.session_state.shortlist)} products**")
+if st.session_state.shortlist:
+    with st.sidebar.expander("View shortlist"):
+        for name in list(st.session_state.shortlist.keys()):
+            c1, c2 = st.columns([4, 1])
+            c1.caption(name)
+            if c2.button("✕", key=f"remove_{name}"):
+                remove_from_shortlist(name)
+                st.rerun()
 
 LABEL_COLORS = {
     "Star": "#2ecc71",
@@ -45,35 +68,29 @@ LABEL_COLORS = {
 if page == "Shelf Scorecard":
     st.title("Shelf Scorecard")
     st.caption(
-        "Each bubble is a product. X-axis: sessions exposed (viewed or added to cart). "
-        "Y-axis: share of those sessions that converted to a purchase. "
-        "Bubble size: revenue (zero-revenue products get a small visible floor size, "
-        "see note below). Color: quadrant label."
+        "Each bubble is a product. X-axis: sessions that viewed the product (log scale — "
+        "traffic varies by orders of magnitude, so a linear axis crams almost every product "
+        "into one corner). Y-axis: share of those viewing sessions that converted to a "
+        "purchase. Bubble size: revenue. Color: quadrant label."
     )
 
     df = load_product_summary()
 
     with st.expander("⚠️ Known data limitations — read before trusting this chart", expanded=False):
-        n_zero_rev = int((df["revenue"] <= 0).sum())
+        n_flagged = int(df["views_likely_insufficient"].sum())
         st.markdown(
             f"""
-- **"Exposure" ≠ pure page views.** This dataset's `view_item` event doesn't fire for a large share of
-  real purchases (confirmed directly in BigQuery — many high-purchase products, including ordinary merch,
-  show zero `view_item` events but healthy `add_to_cart` and `purchase` counts). We define exposure as
-  **sessions that viewed OR added to cart**, which is the best available proxy, not a true distinct count.
-- **{int(df['exposure_likely_undercounted'].sum())} of {len(df)} products ({df['exposure_likely_undercounted'].mean():.0%})**
-  have purchases that exceed their tracked exposure — meaning even view+cart misses some purchase paths
-  (e.g. reorders). These products are flagged below and their conversion rate should not be read literally.
-- **Minimum exposure floor is {int(df['min_views_floor'].iloc[0])} sessions.** Below that, a product is
-  labeled "Not Enough Data" regardless of its rate — small samples are not shown as Stars or Gems.
-- **{n_zero_rev} of {len(df)} products ({n_zero_rev/len(df):.0%}) have $0 revenue** — mostly Window-Shopper
-  and Low Priority products that were exposed but never purchased in this window. Because bubble size is
-  tied to revenue, these would normally be invisible on the chart. We give every bubble a small minimum
-  size so these products still show up as visible dots instead of disappearing.
-- **This is one holiday season (Nov 2020 – Jan 2021).** Treat quadrant placement as a starting hypothesis
-  to test this year, not a guarantee.
-- **Promo attribution (on the Promo Check page) is correlational**, not causal — products chosen for
-  promotion may have already been strong sellers.
+- **Products are now matched by name, not by GA4's item_id.** We found that `view_item`
+  events and `add_to_cart`/`purchase` events use two different ID systems for the same
+  product. Joining by ID made it look like ~49% of products had zero views; joining by
+  name instead drops that to {n_flagged} of {len(df)} products ({n_flagged/len(df):.1%}).
+- **{n_flagged} products still show purchases exceeding their view count** — these are
+  flagged `views_likely_insufficient` and should be read cautiously; everything else now
+  uses real, trustworthy view counts.
+- **Minimum view floor is {int(df['min_views_floor'].iloc[0])} sessions.** Below that, a
+  product is labeled "Not Enough Data" regardless of its rate.
+- **This is one historical holiday season (Nov 2020 – Jan 2021).** Quadrant placement is a
+  starting hypothesis to test this year, not a guarantee.
             """
         )
 
@@ -82,9 +99,9 @@ if page == "Shelf Scorecard":
     with col1:
         selected_categories = st.multiselect("Category", categories, default=[])
     with col2:
-        min_exposure = st.number_input("Minimum sessions exposed", min_value=0, value=0, step=50)
+        min_views = st.number_input("Minimum sessions viewed", min_value=0, value=0, step=50)
     with col3:
-        hide_undercounted = st.checkbox("Hide undercounted-rate products", value=False)
+        hide_flagged = st.checkbox("Hide insufficient-view products", value=False)
     show_labels = st.multiselect(
         "Show quadrants",
         ["Star", "Hidden Gem", "Window-Shopper", "Low Priority", "Not Enough Data"],
@@ -94,77 +111,77 @@ if page == "Shelf Scorecard":
     plot_df = df.copy()
     if selected_categories:
         plot_df = plot_df[plot_df["item_category"].isin(selected_categories)]
-    if min_exposure > 0:
-        plot_df = plot_df[plot_df["sessions_exposed"] >= min_exposure]
-    if hide_undercounted:
-        plot_df = plot_df[~plot_df["exposure_likely_undercounted"]]
+    if min_views > 0:
+        plot_df = plot_df[plot_df["sessions_viewed"] >= min_views]
+    if hide_flagged:
+        plot_df = plot_df[~plot_df["views_likely_insufficient"]]
     plot_df = plot_df[plot_df["label"].isin(show_labels)]
-    # cap displayed rate at 100% visually for undercounted products so the chart
-    # never silently shows an impossible >100% conversion rate
-    plot_df["display_rate"] = plot_df["exposure_to_buy_rate"].clip(upper=1.0)
 
-    # FIX: bubble size is tied to revenue, so a $0-revenue product (the majority of
-    # Window-Shopper / Low Priority) renders as an invisible dot. Give every bubble
-    # a floor size equal to roughly 3% of the max revenue in the current view, so
-    # zero-revenue products are still visibly present instead of vanishing when you
-    # filter down to a single quadrant.
-    if len(plot_df) > 0:
-        max_rev = max(plot_df["revenue"].max(), 1)
-        size_floor = max_rev * 0.03
-        plot_df["display_size"] = plot_df["revenue"].clip(lower=size_floor)
-    else:
-        plot_df["display_size"] = plot_df.get("revenue", pd.Series(dtype=float))
+    # Log scale needs a strictly positive x; a product with 0 views can't sit on a log
+    # axis, so give it a 1-session floor for display only (doesn't affect the real data).
+    plot_df["display_views"] = plot_df["sessions_viewed"].clip(lower=1)
+    # Still guard the rare >100% case for display, without hiding it from the table.
+    plot_df["display_rate"] = plot_df["view_to_buy_rate"].clip(upper=1.0)
 
     if len(plot_df) == 0:
         st.warning("No products match the current filters.")
     else:
         fig = px.scatter(
             plot_df,
-            x="sessions_exposed",
+            x="display_views",
             y="display_rate",
-            size="display_size",
+            size="revenue",
             color="label",
             color_discrete_map=LABEL_COLORS,
+            log_x=True,
             hover_name="item_name",
             hover_data={
                 "item_category": True,
-                "sessions_exposed": True,
+                "sessions_viewed": True,
                 "sessions_purchased": True,
                 "revenue": ":$.0f",
-                "exposure_likely_undercounted": True,
+                "views_likely_insufficient": True,
+                "display_views": False,
                 "display_rate": False,
-                "display_size": False,
             },
             size_max=45,
             labels={
-                "sessions_exposed": "Sessions Exposed (viewed or added to cart)",
-                "display_rate": "Exposure → Purchase rate (capped at 100%)",
+                "display_views": "Sessions Viewed (log scale)",
+                "display_rate": "View → Purchase rate",
             },
         )
         fig.update_layout(height=600, legend_title_text="Quadrant")
         st.plotly_chart(fig, use_container_width=True)
 
-        n_zero_shown = int((plot_df["revenue"] <= 0).sum())
+        n_flagged_shown = int(plot_df["views_likely_insufficient"].sum())
         st.caption(
             f"Showing {len(plot_df):,} of {len(df):,} products. "
-            f"{int(plot_df['exposure_likely_undercounted'].sum())} shown here have an undercounted rate. "
-            f"{n_zero_shown} have $0 revenue and are shown at a minimum visible bubble size, not true scale."
+            f"{n_flagged_shown} shown here have insufficient view data."
         )
 
-    with st.expander("View as table"):
+    st.markdown("### Add products to your shortlist")
+    pick_df = plot_df.sort_values("revenue", ascending=False).head(30)
+    for _, row in pick_df.iterrows():
+        c1, c2, c3, c4, c5 = st.columns([3, 1.3, 1.3, 1.3, 1])
+        c1.write(row["item_name"])
+        c2.write(f"{row['sessions_viewed']:,} views")
+        c3.write(f"{row['view_to_buy_rate']:.1%} rate")
+        c4.write(row["label"])
+        key = f"add_scorecard_{row['item_name']}"
+        if row["item_name"] in st.session_state.shortlist:
+            c5.button("✓ Added", key=key, disabled=True)
+        else:
+            if c5.button("+ Add", key=key):
+                add_to_shortlist(row.to_dict())
+                st.rerun()
+
+    with st.expander("View full table"):
         st.dataframe(
             plot_df[
                 [
-                    "item_name",
-                    "item_category",
-                    "sessions_exposed",
-                    "sessions_purchased",
-                    "exposure_to_buy_rate",
-                    "exposure_to_buy_ci_low",
-                    "exposure_to_buy_ci_high",
-                    "revenue",
-                    "label",
-                    "exposure_likely_undercounted",
+                    "item_name", "item_category", "sessions_viewed", "sessions_purchased",
+                    "view_to_buy_rate", "view_to_buy_ci_low", "view_to_buy_ci_high",
+                    "revenue", "label", "views_likely_insufficient",
                 ]
             ].sort_values("revenue", ascending=False),
             use_container_width=True,
@@ -176,113 +193,67 @@ if page == "Shelf Scorecard":
 elif page == "Opportunity Finder":
     st.title("Opportunity Finder")
     st.caption(
-        "Find products that convert relatively well despite having lower exposure. "
-        "This is a rule-based shortlist, not an AI-generated prediction."
+        "Products worth featuring: ranked by the cautious (lower-bound) end of their "
+        "confidence interval — 'we're fairly confident at least X% of viewers buy' — "
+        "not a single point estimate that could be a lucky fluke."
     )
 
     df = load_product_summary().copy()
 
-<<<<<<< Updated upstream
-    # Use products with enough exposure and avoid products whose rate is likely
-    # unreliable because purchases exceed the estimated exposure measure.
-=======
->>>>>>> Stashed changes
     eligible = df[
-        (df["sessions_exposed"] >= int(df["min_views_floor"].iloc[0]))
-        & (~df["exposure_likely_undercounted"].astype(bool))
-        & df["exposure_to_buy_rate"].notna()
+        (df["sessions_viewed"] >= int(df["min_views_floor"].iloc[0]))
+        & (~df["views_likely_insufficient"].astype(bool))
+        & df["view_to_buy_rate"].notna()
     ].copy()
 
     if eligible.empty:
         st.warning("No products meet the current data-quality rules.")
     else:
-        median_exposure = float(eligible["sessions_exposed"].median())
-        median_rate = float(eligible["exposure_to_buy_rate"].median())
+        median_views = float(eligible["sessions_viewed"].median())
+        median_rate = float(eligible["view_to_buy_rate"].median())
 
-<<<<<<< Updated upstream
-        # Phase 2 opportunity definition: low relative exposure, above-median
-        # purchase rate, adequate exposure, and no undercount warning.
-=======
->>>>>>> Stashed changes
         opportunities = eligible[
-            (eligible["sessions_exposed"] < median_exposure)
-            & (eligible["exposure_to_buy_rate"] > median_rate)
+            (eligible["sessions_viewed"] < median_views)
+            & (eligible["view_to_buy_rate"] > median_rate)
         ].copy()
 
         if opportunities.empty:
             st.info("No products currently meet the Opportunity criteria.")
         else:
-            if median_rate == 0:
-                opportunities["opportunity_reason"] = (
-                    "Positive observed purchase rate (the eligible-set median is 0%); "
-                    "below-median exposure; meets minimum exposure and data-quality rules."
-                )
-            else:
-                opportunities["opportunity_reason"] = (
-                    "Above-median purchase rate with below-median exposure; "
-                    "meets the minimum exposure and data-quality rules."
-                )
-            opportunities["rate_vs_median"] = (
-                opportunities["exposure_to_buy_rate"] / median_rate
-                if median_rate > 0
-                else float("nan")
-            )
-<<<<<<< Updated upstream
-            # Transparent prioritization score: reward stronger conversion
-            # and meaningful revenue without presenting it as an AI prediction.
-=======
->>>>>>> Stashed changes
-            opportunities["opportunity_score"] = (
-                opportunities["exposure_to_buy_rate"]
-                * (1 + opportunities["revenue"].clip(lower=0).apply(math.log1p))
-            )
+            # Rank by the CONSERVATIVE end of the confidence interval, not a made-up
+            # score. "At least X% of viewers buy, even in the worst plausible case"
+            # is a number the merchandiser can actually defend in a room.
             opportunities = opportunities.sort_values(
-                ["opportunity_score", "revenue"], ascending=False
+                ["view_to_buy_ci_low", "revenue"], ascending=False
             )
+
+            # Pair each opportunity with the weakest same-category product it could
+            # replace: a Window-Shopper or Low Priority item in the same category
+            # with the lowest conversion rate, so the suggestion is concrete, not
+            # just "this is good" with no action attached.
+            replace_candidates = df[df["label"].isin(["Window-Shopper", "Low Priority"])]
+
+            def find_replacement(category):
+                same_cat = replace_candidates[replace_candidates["item_category"] == category]
+                if same_cat.empty:
+                    return None
+                weakest = same_cat.sort_values("view_to_buy_rate", ascending=True).iloc[0]
+                return weakest["item_name"]
+
+            opportunities["replaces"] = opportunities["item_category"].apply(find_replacement)
 
             c1, c2, c3 = st.columns(3)
             c1.metric("Qualified opportunities", f"{len(opportunities):,}")
-            c2.metric("Median exposure threshold", f"{median_exposure:,.0f}")
+            c2.metric("Median views threshold", f"{median_views:,.0f}")
             c3.metric("Median purchase-rate threshold", f"{median_rate:.1%}")
 
             st.markdown("### How an opportunity is identified")
             st.markdown(
-                "A product appears here when it has **at least the minimum exposure floor**, "
-                "**below-median exposure**, an **above-median exposure-to-purchase rate**, "
-                "and **no exposure-undercount warning**. The rules identify candidates for "
-                "further investigation; they do not prove that increasing exposure will cause more sales."
-            )
-
-            if median_rate == 0:
-                zero_rate_count = int((eligible["exposure_to_buy_rate"] == 0).sum())
-                zero_rate_pct = zero_rate_count / len(eligible)
-                st.info(
-                    f"**Why is the median purchase rate 0.0%?** "
-                    f"{zero_rate_count:,} of {len(eligible):,} eligible products "
-                    f"({zero_rate_pct:.1%}) have a 0% observed rate. Because the rates are "
-<<<<<<< Updated upstream
-                    f"zero-heavy, the median is 0%. In this dataset, ‘above median’ therefore "
-=======
-                    f"zero-heavy, the median is 0%. In this dataset, 'above median' therefore "
->>>>>>> Stashed changes
-                    f"means a **positive observed purchase rate**, not beating a strong positive benchmark. "
-                    f"Treat these results as candidates to investigate, not guaranteed winners."
-                )
-            else:
-                st.caption(
-                    f"The median purchase-rate threshold is {median_rate:.1%}; products must "
-                    "be strictly above this threshold to qualify."
-                )
-
-            st.markdown("### How the priority score works")
-            st.markdown(
-                "`Priority score = purchase rate × [1 + ln(1 + max(revenue, 0))]`"
-            )
-            st.caption(
-                "The purchase rate is used as a decimal (for example, 25% = 0.25). "
-                "Revenue is clipped at zero before applying the natural logarithm. "
-                "A higher score ranks a product higher; the score is a heuristic, not a probability, "
-                "forecast, causal effect, or expected incremental revenue."
+                "A product qualifies when it has **at least the minimum view floor**, "
+                "**below-median views**, an **above-median view-to-purchase rate**, and "
+                "**sufficient view data** (not flagged). Ranking uses the lower bound of "
+                "each product's confidence interval, so a product with a thin sample and "
+                "a lucky high rate won't outrank a product with a smaller but more certain edge."
             )
 
             cat_options = sorted(opportunities["item_category"].dropna().unique().tolist())
@@ -306,21 +277,21 @@ elif page == "Opportunity Finder":
             else:
                 fig = px.scatter(
                     view,
-                    x="sessions_exposed",
-                    y="exposure_to_buy_rate",
+                    x="sessions_viewed",
+                    y="view_to_buy_rate",
                     size="revenue",
                     color="item_category",
                     hover_name="item_name",
                     hover_data={
-                        "sessions_exposed": ":,",
+                        "sessions_viewed": ":,",
                         "sessions_purchased": ":,",
-                        "exposure_to_buy_rate": ":.1%",
+                        "view_to_buy_rate": ":.1%",
+                        "view_to_buy_ci_low": ":.1%",
                         "revenue": ":$,.0f",
-                        "opportunity_score": ":.2f",
                     },
                     labels={
-                        "sessions_exposed": "Estimated sessions exposed",
-                        "exposure_to_buy_rate": "Exposure-to-purchase rate",
+                        "sessions_viewed": "Sessions viewed",
+                        "view_to_buy_rate": "View-to-purchase rate",
                         "item_category": "Category",
                     },
                     size_max=42,
@@ -329,47 +300,32 @@ elif page == "Opportunity Finder":
                 st.plotly_chart(fig, use_container_width=True)
 
                 st.markdown("### Recommended opportunity shortlist")
-                display = view[[
-                    "item_name", "item_category", "sessions_exposed",
-                    "sessions_purchased", "exposure_to_buy_rate", "revenue",
-                    "opportunity_score", "opportunity_reason"
-                ]].rename(columns={
-                    "item_name": "Product",
-                    "item_category": "Category",
-                    "sessions_exposed": "Estimated exposure",
-                    "sessions_purchased": "Purchases",
-                    "exposure_to_buy_rate": "Purchase rate",
-                    "revenue": "Revenue",
-                    "opportunity_score": "Priority score (heuristic)",
-                    "opportunity_reason": "Why selected",
-                })
-<<<<<<< Updated upstream
-                # Keep the on-screen table focused so the score is easy to see;
-                # include the full rationale in the downloadable CSV.
-=======
->>>>>>> Stashed changes
-                screen_columns = [
-                    "Product", "Category", "Estimated exposure", "Purchase rate",
-                    "Revenue", "Priority score (heuristic)"
-                ]
-                screen_display = display[screen_columns].copy()
-                screen_display["Purchase rate"] = screen_display["Purchase rate"].map(
-                    lambda value: f"{value:.1%}"
-                )
-                st.dataframe(
-                    screen_display, use_container_width=True, hide_index=True,
-                    column_config={
-                        "Revenue": st.column_config.NumberColumn(format="$%.0f"),
-                        "Priority score (heuristic)": st.column_config.NumberColumn(format="%.2f"),
-                    },
-                )
-                with st.expander("View selection rationale for each product"):
-                    st.dataframe(
-                        display[["Product", "Purchases", "Why selected"]],
-                        use_container_width=True, hide_index=True,
-                    )
+                for _, row in view.iterrows():
+                    with st.container(border=True):
+                        c1, c2 = st.columns([3, 1])
+                        c1.markdown(f"**{row['item_name']}**  ·  {row['item_category']}")
+                        c1.caption(
+                            f"{row['sessions_viewed']:,} views · "
+                            f"{row['view_to_buy_rate']:.1%} observed rate "
+                            f"(at least {row['view_to_buy_ci_low']:.1%} with 95% confidence) · "
+                            f"${row['revenue']:,.0f} revenue"
+                        )
+                        if pd.notna(row["replaces"]):
+                            c1.caption(f"🔁 Suggested swap: replace **{row['replaces']}** (same category, weaker conversion)")
+                        else:
+                            c1.caption("🔁 No same-category replacement candidate found")
+                        key = f"add_opp_{row['item_name']}"
+                        if row["item_name"] in st.session_state.shortlist:
+                            c2.button("✓ Added", key=key, disabled=True)
+                        else:
+                            if c2.button("+ Add to shortlist", key=key):
+                                add_to_shortlist(row.to_dict())
+                                st.rerun()
 
-                csv_data = display.to_csv(index=False).encode("utf-8")
+                csv_data = view[[
+                    "item_name", "item_category", "sessions_viewed", "sessions_purchased",
+                    "view_to_buy_rate", "view_to_buy_ci_low", "revenue", "replaces",
+                ]].to_csv(index=False).encode("utf-8")
                 st.download_button(
                     "Download opportunity shortlist (CSV)",
                     data=csv_data,
@@ -383,26 +339,37 @@ elif page == "Opportunity Finder":
             )
 
 # ---------------------------------------------------------------------------
-# PROMO CHECK (placeholder — built next)
+# PROMO CHECK (placeholder — Person B's B4, not tonight's scope)
 # ---------------------------------------------------------------------------
 elif page == "Promo Check":
     st.title("Promo Check")
-    st.info("Coming next: promo-exposed vs. non-promo-exposed conversion comparison, with the correlational caveat front and center.")
+    st.info("Becoming Banner Performance (B4) — not tonight's scope. Raw data below.")
     df = load_promo_check()
     st.dataframe(df.head(20), use_container_width=True)
 
 # ---------------------------------------------------------------------------
-# SEASON PLAYBOOK (placeholder — built next)
+# SEASON PLAYBOOK (placeholder — Person A's A2, not tonight's scope)
 # ---------------------------------------------------------------------------
 elif page == "Season Playbook":
     st.title("Season Playbook")
-    st.info("Coming next: top products by week, split into Early Nov / Black Friday / Mid-Dec / Post-Christmas phases.")
+    st.info("Person A's build (A2) — not tonight's scope. Raw data below.")
     df = load_weekly()
     st.dataframe(df.head(20), use_container_width=True)
 
 # ---------------------------------------------------------------------------
-# SHORTLIST BUILDER (placeholder — built next)
+# SHORTLIST BUILDER (placeholder — Person A's A1, not tonight's scope)
 # ---------------------------------------------------------------------------
 elif page == "Shortlist Builder":
     st.title("Shortlist Builder")
-    st.info("Coming next: tick 10-15 products, generate a summary table with reasoning, export as CSV.")
+    st.info("Person A's main deliverable (A1) — not tonight's scope.")
+    if st.session_state.shortlist:
+        st.markdown(f"**{len(st.session_state.shortlist)} products added so far from Scorecard / Opportunity Finder:**")
+        st.dataframe(
+            pd.DataFrame(st.session_state.shortlist.values())[
+                ["item_name", "item_category", "sessions_viewed", "view_to_buy_rate", "revenue", "label"]
+            ],
+            use_container_width=True,
+        )
+        st.caption("This list carries over once Person A builds the real Shortlist Builder (phase assignment, slot, replaces, test plan, export).")
+    else:
+        st.caption("No products added yet — use the '+ Add' buttons on Scorecard or Opportunity Finder.")
