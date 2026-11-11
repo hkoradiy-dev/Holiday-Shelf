@@ -1,0 +1,15 @@
+purchase_name,cart_name,candidate_rank,sessions_together,purchase_sessions_total,share_of_purchase_sessions,purchase_price,cart_price,price_match
+Google F/C Longsleeve Ash,Google Navy Speckled Tee,1,69,124,0.55645161290322576,24.0,30.0,false
+Google F/C Longsleeve Ash,Google Campus Bike Eco Tee Navy,2,67,124,0.54032258064516125,24.0,25.0,false
+Google F/C Longsleeve Charcoal,Google F/C Long Sleeve Tee Charcoal,1,40,121,0.33057851239669422,24.0,30.0,false
+Google F/C Longsleeve Charcoal,Google Navy Speckled Tee,2,39,121,0.32231404958677684,24.0,30.0,false
+Google Summer19 Crew Grey,Android Large Removable Sticker Sheet,1,8,21,0.38095238095238093,35.0,3.0,false
+Google Summer19 Crew Grey,Android SM S/F18 Sticker Sheet,2,8,21,0.38095238095238093,35.0,3.0,false
+Google Unisex Eco Tee Black,Google Navy Speckled Tee,1,28,130,0.2153846153846154,18.0,30.0,false
+Google Unisex Eco Tee Black,Google Zip Hoodie F/C,2,27,130,0.2076923076923077,18.0,60.0,false
+Unisex Google Pocket Tee Grey,Google Pocket Tee Grey,1,19,45,0.42222222222222222,16.0,29.0,false
+Unisex Google Pocket Tee Grey,Google Navy Speckled Tee,2,16,45,0.35555555555555557,16.0,30.0,false
+Womens Google Striped LS,Google Women's Striped L/S,1,46,81,0.5679012345679012,16.0,29.0,false
+Womens Google Striped LS,Google Campus Bike Eco Tee Navy,2,36,81,0.44444444444444442,16.0,25.0,false
+Youth Jumbo Print Tee White,Android Large Removable Sticker Sheet,1,7,12,0.58333333333333337,14.0,3.0,false
+Youth Jumbo Print Tee White,Android Large Trace Journal Black,2,7,12,0.58333333333333337,14.0,16.0,false

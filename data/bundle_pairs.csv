@@ -1,0 +1,644 @@
+anchor,addon,anchor_category,addon_category,anchor_price,addon_price,orders_together,anchor_orders,addon_orders,addon_attach_rate,lift,same_family,price_ratio
+Google Light Pen Red,Google Light Pen Blue,Writing Instruments,Writing Instruments,2.0,2.0,39,65,83,0.6,32.17590361445783,True,1.0
+Google Light Pen Red,Google Light Pen Green,Writing Instruments,Writing Instruments,2.0,2.0,38,65,56,0.5846153846153846,46.466483516483514,True,1.0
+Google Light Pen Green,Google Light Pen Blue,Writing Instruments,Writing Instruments,2.0,2.0,35,56,83,0.625,33.51656626506024,True,1.0
+Android SM S/F18 Sticker Sheet,Android Large Removable Sticker Sheet,Accessories,Accessories,2.0,2.0,27,97,47,0.27835051546391754,26.360386049572273,False,1.0
+Google Crew Combed Cotton Sock,Google Crew Socks,Apparel,Apparel,14.0,13.0,26,80,127,0.325,11.39035433070866,False,1.0769230769230769
+Google Metallic Notebook Set,Google Clear Pen 4-Pack,Office,Office,5.0,3.0,24,120,126,0.2,7.065079365079365,False,1.6666666666666667
+Google Clear Framed Yellow Shades,Google Clear Framed Blue Shades,Accessories,Accessories,3.0,3.0,23,38,48,0.6052631578947368,56.125548245614034,True,1.0
+Google Speckled Beanie Navy,Google Heathered Pom Beanie,New,New,16.0,12.0,23,85,170,0.27058823529411763,7.084636678200692,False,1.3333333333333333
+Google Pen Grass Green,Google Pen Bright Blue,Stationery,Stationery,1.0,1.0,22,27,46,0.8148148148148148,78.84219001610306,False,1.0
+Google Seattle Campus Mug,Google PNW Campus Mug,Campus Collection,Campus Collection,7.0,7.0,21,58,55,0.3620689655172414,29.3012539184953,True,1.0
+Google NYC Campus Mug,Google Cambridge Campus Mug,Campus Collection,Campus Collection,7.0,7.0,20,82,41,0.24390243902439024,26.478286734086854,True,1.0
+Google Camp Mug Ivory,Google Camp Mug Gray,Drinkware,Shop by Brand,10.0,10.0,19,189,102,0.10052910052910052,4.386813984853201,True,1.0
+Google Pen Neon Coral,Google Pen Bright Blue,Stationery,Stationery,2.0,1.0,18,30,46,0.6,58.05652173913043,False,2.0
+Google Pen White,Google Pen Bright Blue,Office,Stationery,1.0,1.0,18,98,46,0.1836734693877551,17.77240461401952,False,1.0
+Google Speckled Beanie Grey,Google Heathered Pom Beanie,New,New,16.0,12.0,18,57,170,0.3157894736842105,8.26811145510836,False,1.3333333333333333
+Google F/C Longsleeve Charcoal,Google F/C Longsleeve Ash,Apparel,Apparel,24.0,24.0,18,118,123,0.15254237288135594,5.520049607275734,False,1.0
+Google Flat Front Bag Grey,Google Camp Mug Ivory,Bags,Drinkware,24.0,10.0,18,81,189,0.2222222222222222,5.233392122281011,False,2.4
+Google Crew Socks,Google Mural Socks,Apparel,New,13.0,12.0,17,127,43,0.13385826771653545,13.855887200146494,False,1.0833333333333333
+Google Laptop and Cell Phone Stickers,Google Pen White,Google,Office,2.0,1.0,17,127,98,0.13385826771653545,6.079623975574481,False,2.0
+Google Crewneck Sweatshirt Navy,Google Crewneck Sweatshirt Grey,Uncategorized Items,Uncategorized Items,44.0,44.0,17,196,74,0.08673469387755102,5.216974627688914,True,1.0
+Google Clear Framed Yellow Shades,Google Clear Framed Gray Shades,Accessories,Accessories,3.0,3.0,16,38,36,0.42105263157894735,52.058479532163744,True,1.0
+Google Pen Lilac,Google Pen Bright Blue,Stationery,Stationery,1.0,1.0,16,31,46,0.5161290322580645,49.94109396914446,False,1.0
+Google Pen Citron,Google Pen Bright Blue,Clearance,Stationery,1.0,1.0,16,48,46,0.3333333333333333,32.2536231884058,False,1.0
+Google Crew Striped Athletic Sock,Google Crew Socks,Apparel,Apparel,14.0,13.0,16,55,127,0.2909090909090909,10.195561918396564,False,1.0769230769230769
+Google Metallic Notebook Set,Google Light Pen Blue,Office,Writing Instruments,5.0,2.0,16,120,83,0.13333333333333333,7.150200803212852,False,2.5
+Google Metallic Notebook Set,Google Laptop and Cell Phone Stickers,Office,Google,5.0,2.0,16,120,127,0.13333333333333333,4.672965879265091,False,2.5
+Google Clear Pen 4-Pack,Google Laptop and Cell Phone Stickers,Office,Google,3.0,2.0,16,126,127,0.12698412698412698,4.4504436945381824,False,1.5
+Google Badge Heavyweight Pullover Black,Google Crewneck Sweatshirt Navy,Apparel,Uncategorized Items,46.0,44.0,16,150,196,0.10666666666666667,2.422312925170068,False,1.0454545454545454
+Google Pen Neon Coral,Google Pen Lilac,Stationery,Stationery,2.0,1.0,15,30,31,0.5,71.79032258064517,False,2.0
+Google Seattle Campus Mug,Google Kirkland Campus Mug,Campus Collection,Campus Collection,7.0,7.0,15,58,18,0.25862068965517243,63.951149425287355,True,1.0
+Google Pen Grass Green,Google Pen Citron,Stationery,Clearance,1.0,1.0,15,27,48,0.5555555555555556,51.5162037037037,False,1.0
+Google Pen White,Google Pen Grey,Office,Office,1.0,1.0,15,98,30,0.15306122448979592,22.709183673469386,True,1.0
+Google NYC Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,15,82,72,0.18292682926829268,11.308434959349594,True,1.0
+Google Red Speckled Tee,Google Navy Speckled Tee,Apparel,Apparel,24.0,24.0,15,138,123,0.10869565217391304,3.933368681512902,True,1.0
+Google Pen Red,Google Pen Bright Blue,Stationery,Stationery,1.0,1.0,14,27,46,0.5185185185185185,50.17230273752013,False,1.0
+Google NYC Campus Mug,Google LA Campus Mug,Campus Collection,Campus Collection,7.0,7.0,14,82,52,0.17073170731707318,14.613977485928705,True,1.0
+Google Cloud Pen,Google Pen White,Shop by Brand,Office,2.0,1.0,14,44,98,0.3181818181818182,14.4512987012987,False,2.0
+Google Magnet,Google Pen White,Accessories,Office,6.0,1.0,14,90,98,0.15555555555555556,7.065079365079365,False,6.0
+Google 24oz Ring Bottle Blue,Google 24 oz Ring Bottle Red,Google,Google,6.0,6.0,13,41,29,0.3170731707317073,48.665264928511355,False,1.0
+Google Clear Framed Gray Shades,Google Clear Framed Blue Shades,Accessories,Accessories,3.0,3.0,13,36,48,0.3611111111111111,33.485532407407405,True,1.0
+Google LA Campus Mug,Google LA Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,13,52,36,0.25,30.90972222222222,False,7.0
+Google Seattle Campus Mug,Google Cambridge Campus Mug,Campus Collection,Campus Collection,7.0,7.0,13,58,41,0.22413793103448276,24.332632464255678,True,1.0
+Google Seattle Campus Mug,Google NYC Campus Mug,Campus Collection,Campus Collection,7.0,7.0,13,58,82,0.22413793103448276,12.166316232127839,True,1.0
+Android Iconic Crewneck Sweatshirt,Google Land & Sea Journal Set,Apparel,Google,44.0,12.0,13,94,53,0.13829787234042554,11.614411882778,False,3.6666666666666665
+Google Land & Sea Journal Set,Android SM S/F18 Sticker Sheet,Google,Accessories,12.0,2.0,13,53,97,0.24528301886792453,11.255203267846722,False,6.0
+Google Campus Bike,Google Magnet,Accessories,Accessories,32.0,6.0,13,97,90,0.13402061855670103,6.628064146620848,False,5.333333333333333
+Google Magnet,Google Laptop and Cell Phone Stickers,Accessories,Google,6.0,2.0,13,90,127,0.14444444444444443,5.062379702537183,False,3.0
+Google Metallic Notebook Set,Google Pen White,Office,Office,5.0,1.0,13,120,98,0.10833333333333334,4.920323129251701,False,5.0
+Google Crewneck Sweatshirt Navy,Google Crewneck Sweatshirt Green,Uncategorized Items,Apparel,44.0,44.0,13,196,146,0.0663265306122449,2.0220506010623427,True,1.0
+Google Pen Red,Google Pen Grass Green,Stationery,Stationery,1.0,1.0,12,27,27,0.4444444444444444,73.26748971193416,False,1.0
+Google Pen Neon Coral,Google Pen Grass Green,Stationery,Stationery,2.0,1.0,12,30,27,0.4,65.94074074074074,False,2.0
+Google Pen Neon Coral,Google Pen Citron,Stationery,Clearance,2.0,1.0,12,30,48,0.4,37.09166666666667,False,2.0
+Google Pen White,Google Pen Grass Green,Office,Stationery,1.0,1.0,12,98,27,0.12244897959183673,20.1859410430839,False,1.0
+Google Pen Neon Coral,Google Pen White,Stationery,Office,2.0,1.0,12,30,98,0.4,18.16734693877551,False,2.0
+Google Cambridge Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,12,41,72,0.2926829268292683,18.09349593495935,True,1.0
+Google Black Cork Journal,Google Recycled Pen Black,New,New,10.0,2.0,12,73,42,0.1643835616438356,17.42074363992172,False,5.0
+Google NYC Campus Mug,Google NYC Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,12,82,39,0.14634146341463414,16.701688555347094,False,7.0
+YouTube Twill Sandwich Cap Black,YouTube Play Mug,Apparel,Lifestyle,10.0,10.0,12,80,51,0.15,13.091176470588236,False,1.0
+Google Speckled Beanie Navy,Google Speckled Beanie Grey,New,New,16.0,16.0,12,85,57,0.1411764705882353,11.024148606811146,True,1.0
+YouTube Icon Tee Charcoal,YouTube Twill Sandwich Cap Black,Apparel,Apparel,18.0,10.0,12,77,80,0.15584415584415584,8.67077922077922,False,1.8
+Google Navy Speckled Tee,Google Heather Green Speckled Tee,Apparel,Apparel,24.0,24.0,12,123,51,0.0975609756097561,8.51458632233381,False,1.0
+Google Clear Pen 4-Pack,YouTube Jotter Task Pad,Office,Shop by Brand,3.0,2.5,12,126,54,0.09523809523809523,7.850088183421517,False,1.2
+Keyboard DOT Sticker,Google Laptop and Cell Phone Stickers,Office,Google,2.0,2.0,12,59,127,0.2033898305084746,7.12825303616709,False,1.0
+Google Clear Pen 4-Pack,Google Light Pen Blue,Office,Writing Instruments,3.0,2.0,12,126,83,0.09523809523809523,5.107286288009179,False,1.5
+Noogler Android Figure,Google Laptop and Cell Phone Stickers,Accessories,Google,13.0,2.0,12,92,127,0.13043478260869565,4.571379664498459,False,6.5
+Google Canteen Bottle Black,Google Magnet,Drinkware,Accessories,19.0,6.0,12,130,90,0.09230769230769231,4.565128205128205,False,3.1666666666666665
+Google Laptop and Cell Phone Stickers,Android SM S/F18 Sticker Sheet,Google,Accessories,2.0,2.0,12,127,97,0.09448818897637795,4.335741537462456,False,1.0
+Google Austin Campus Mug,Google Austin Campus Tote,Campus Collection,Campus Collection,7.0,6.0,11,72,17,0.1527777777777778,40.00081699346405,False,1.1666666666666667
+Google Emoji Sticker Pack,Google Mural Sticker Sheet,Accessories,Small Goods,4.0,2.0,11,47,61,0.23404255319148937,17.077432856644577,False,2.0
+Google Campus Bike,Google See-No Hear-No Set,Accessories,Electronics Accessories,32.0,10.0,11,97,42,0.1134020618556701,12.01791850760923,False,3.2
+Google Crew Striped Athletic Sock,Google Crew Combed Cotton Sock,Apparel,Apparel,14.0,14.0,11,55,80,0.2,11.1275,False,1.0
+Google PNW Campus Mug,Google NYC Campus Mug,Campus Collection,Campus Collection,7.0,7.0,11,55,82,0.2,10.85609756097561,True,1.0
+Google Emoji Sticker Pack,Android SM S/F18 Sticker Sheet,Accessories,Accessories,4.0,2.0,11,47,97,0.23404255319148937,10.73941653871463,False,2.0
+YouTube Crew Socks,Google Crew Socks,Apparel,Apparel,13.0,13.0,11,38,127,0.2894736842105263,10.145254869457107,False,1.0
+Google NYC Campus Zip Hoodie,Google NYC Campus Mug,Campus Collection,Campus Collection,32.0,7.0,11,63,82,0.1746031746031746,9.477545489740612,False,4.571428571428571
+Google Laptop and Cell Phone Stickers,Google Pride Sticker,Google,Shop by Brand,2.0,1.0,11,127,43,0.08661417322834646,8.965574070683026,False,2.0
+Google Clear Pen 4-Pack,Maze Pen,Office,Office,3.0,1.0,11,126,44,0.0873015873015873,8.831349206349206,False,3.0
+Google Mural Sticker Sheet,Android SM S/F18 Sticker Sheet,Small Goods,Accessories,2.0,2.0,11,61,97,0.18032786885245902,8.274632415075207,False,1.0
+Google Emoji Sticker Pack,Google Laptop and Cell Phone Stickers,Accessories,Google,4.0,2.0,11,47,127,0.23404255319148937,8.202546490199364,False,2.0
+Google Light Pen Blue,Google Pen White,Writing Instruments,Office,2.0,1.0,11,83,98,0.13253012048192772,6.0193016965822475,False,2.0
+Google Large Tote White,Google Camp Mug Ivory,Bags,Drinkware,10.0,10.0,11,67,189,0.16417910447761194,3.8664613440732842,False,1.0
+Google Camp Mug Ivory,Google Magnet,Drinkware,Accessories,10.0,6.0,11,189,90,0.0582010582010582,2.878365667254556,False,1.6666666666666667
+Google Crewneck Sweatshirt Navy,Google Leather Strap Hat Blue,Uncategorized Items,Apparel,44.0,14.0,11,196,108,0.05612244897959184,2.312972411186697,False,3.142857142857143
+Google Heathered Pom Beanie,Google Clear Pen 4-Pack,New,Office,12.0,3.0,11,170,126,0.06470588235294118,2.2857609710550886,False,4.0
+Google Zip Hoodie F/C,Google Red Speckled Tee,Apparel,Apparel,48.0,24.0,11,187,138,0.058823529411764705,1.8972719522591646,False,2.0
+Google Zip Hoodie F/C,Super G Unisex Joggers,Apparel,Shop by Brand,48.0,30.0,11,187,221,0.058823529411764705,1.1847218525419216,False,1.6
+Google LA Campus Sticker,Google Boulder Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,10,36,21,0.2777777777777778,58.87566137566137,True,1.0
+Google Pen Neon Coral,Google Pen Red,Stationery,Stationery,2.0,1.0,10,30,27,0.3333333333333333,54.95061728395062,False,2.0
+Google Pen Lilac,Google Pen Grass Green,Stationery,Stationery,1.0,1.0,10,31,27,0.3225806451612903,53.178016726403825,False,1.0
+Android Techie 3D Framed Art,Android Super Hero 3D Framed Art,Accessories,Accessories,16.0,16.0,10,33,26,0.30303030303030304,51.87645687645688,False,1.0
+Google Pen Lilac,Google Pen Citron,Stationery,Clearance,1.0,1.0,10,31,48,0.3225806451612903,29.912634408602152,False,1.0
+Google Pen White,Google Pen Red,Office,Stationery,1.0,1.0,10,98,27,0.10204081632653061,16.82161753590325,True,1.0
+Google Sunglasses,Google Clear Framed Blue Shades,Uncategorized Items,Accessories,3.0,3.0,10,62,48,0.16129032258064516,14.956317204301076,False,1.0
+Google Seattle Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,10,58,72,0.1724137931034483,10.65852490421456,True,1.0
+Google Laptop and Cell Phone Stickers,Google Decal,Google,Stationery,2.0,1.0,10,127,48,0.07874015748031496,7.301509186351706,False,2.0
+Google Small Standard Journal Navy,Google Clear Pen 4-Pack,Lifestyle,Office,5.0,3.0,10,53,126,0.18867924528301888,6.665169212339023,False,1.6666666666666667
+Noogler Android Figure,Google Magnet,Accessories,Accessories,13.0,6.0,10,92,90,0.10869565217391304,5.375603864734299,False,2.1666666666666665
+Android Iconic Crewneck Sweatshirt,Android SM S/F18 Sticker Sheet,Apparel,Accessories,44.0,2.0,10,94,97,0.10638297872340426,4.881552972143014,False,22.0
+Google Thermal Tumbler Navy,Google Metallic Notebook Set,Drinkware,Office,14.0,5.0,10,76,120,0.13157894736842105,4.880482456140351,False,2.8
+Womens Google Striped LS,Google Crew Socks,Apparel,Apparel,16.0,13.0,10,77,127,0.12987012987012986,4.551590142141324,False,1.2307692307692308
+Google Navy Speckled Tee,Google Unisex Eco Tee Black,Apparel,Uncategorized Items,24.0,18.0,10,123,87,0.08130081300813008,4.159424352864218,False,1.3333333333333333
+Google Clear Pen 4-Pack,Google Pen White,Office,Office,3.0,1.0,10,126,98,0.07936507936507936,3.604632329122125,False,3.0
+Google Badge Heavyweight Pullover Black,Google Leather Strap Hat Blue,Apparel,Apparel,46.0,14.0,10,150,108,0.06666666666666667,2.7475308641975307,False,3.2857142857142856
+Google Crewneck Sweatshirt Navy,Google F/C Longsleeve Charcoal,Uncategorized Items,Apparel,44.0,24.0,10,196,118,0.05102040816326531,1.924507090971982,False,1.8333333333333333
+Google Camp Mug Ivory,Google Clear Pen 4-Pack,Drinkware,Office,10.0,3.0,10,189,126,0.05291005291005291,1.869068615100361,False,3.3333333333333335
+Google Cambridge Campus Mug,Google Cambridge Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,9,41,18,0.21951219512195122,54.28048780487805,False,7.0
+Google Pen Red,Google Pen Lilac,Stationery,Stationery,1.0,1.0,9,27,31,0.3333333333333333,47.86021505376344,False,1.0
+Google Maps Pin,Google Lapel Pin,New,New,6.0,6.0,9,23,38,0.391304347826087,45.83409610983982,False,1.0
+Google Red Kids Sunglasses,Google Blue Kids Sunglasses,Accessories,Accessories,4.0,4.0,9,24,39,0.375,42.79807692307692,True,1.0
+Google See-No Hear-No Set,Google Confetti Slim Task Pad,Electronics Accessories,Office,10.0,3.0,9,42,26,0.21428571428571427,36.684065934065934,False,3.3333333333333335
+Google Cambridge Campus Mug,Google Boulder Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,41,30,0.21951219512195122,32.56829268292683,True,1.0
+Google Small Standard Journal Navy,Google Confetti Slim Task Pad,Lifestyle,Office,5.0,3.0,9,53,26,0.16981132075471697,29.070391872278666,False,1.6666666666666667
+Google Pen Grey,Google Pen Bright Blue,Office,Stationery,1.0,1.0,9,30,46,0.3,29.028260869565216,False,1.0
+Google NYC Campus Sticker,Google LA Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,9,39,36,0.23076923076923078,28.53205128205128,True,1.0
+Google Infant Charcoal Onesie,Android Pocket Onesie Navy,Apparel,Apparel,20.0,18.0,9,40,45,0.225,22.255,False,1.1111111111111112
+Google Pen White,Google Confetti Pen White,Office,Office,1.0,1.0,9,98,21,0.09183673469387756,19.465014577259474,False,1.0
+Google PNW Campus Mug,Google Cambridge Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,55,41,0.16363636363636364,17.764523281596453,True,1.0
+Google NYC Campus Mug,Google Boulder Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,82,30,0.10975609756097561,16.284146341463416,True,1.0
+Google LA Campus Mug,Google Chicago Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,52,54,0.17307692307692307,14.26602564102564,True,1.0
+Google KeepCup,Google Black Cork Journal,New,New,28.0,10.0,9,41,73,0.21951219512195122,13.384229869695957,False,2.8
+Google Seattle Campus Mug,Google LA Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,58,52,0.15517241379310345,13.282161803713528,True,1.0
+Google Pen White,Google Pen Lilac,Office,Stationery,1.0,1.0,9,98,31,0.09183673469387756,13.185977616853194,False,1.0
+Google Crew Combed Cotton Sock,Google See-No Hear-No Set,Apparel,Electronics Accessories,14.0,10.0,9,80,42,0.1125,11.92232142857143,False,1.4
+Google Crew Combed Cotton Sock,Google Mural Socks,Apparel,New,14.0,12.0,9,80,43,0.1125,11.645058139534884,False,1.1666666666666667
+Google Magnet,Google Recycled Pen Black,Accessories,New,6.0,2.0,9,90,42,0.1,10.597619047619048,False,3.0
+Google Chicago Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,54,72,0.16666666666666666,10.30324074074074,True,1.0
+Google Sunnyvale Campus Mug,Google NYC Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,50,82,0.18,9.770487804878048,True,1.0
+Google NYC Campus Mug,Google Chicago Campus Mug,Campus Collection,Campus Collection,7.0,7.0,9,82,54,0.10975609756097561,9.046747967479675,True,1.0
+Google Pen White,Google Pen Citron,Office,Clearance,1.0,1.0,9,98,48,0.09183673469387756,8.51594387755102,False,1.0
+Google Campus Bike,Google Chrome Dinosaur Collectible,Accessories,Accessories,32.0,24.0,9,97,51,0.09278350515463918,8.097634930260764,False,1.3333333333333333
+Google Canteen Bottle Black,Google Recycled Pen Black,Drinkware,New,19.0,2.0,9,130,42,0.06923076923076923,7.3368131868131865,False,9.5
+Google Campus Bike,Google Crew Combed Cotton Sock,Accessories,Apparel,32.0,14.0,9,97,80,0.09278350515463918,5.162242268041237,False,2.2857142857142856
+Google Canteen Bottle Black,Google Keychain,Drinkware,New,19.0,6.0,9,130,62,0.06923076923076923,4.9700992555831265,False,3.1666666666666665
+Google Women's Grid Zip-Up,Google Zip Hoodie F/C,Apparel,Apparel,50.0,48.0,9,51,187,0.17647058823529413,4.2003774771940865,False,1.0416666666666667
+Google Canteen Bottle Black,Google Light Pen Blue,Drinkware,Writing Instruments,19.0,2.0,9,130,83,0.06923076923076923,3.7126042632066727,False,9.5
+Noogler Android Figure,Google Metallic Notebook Set,Accessories,Office,13.0,5.0,9,92,120,0.09782608695652174,3.628532608695652,False,2.6
+Google Land & Sea Cotton Cap,Google Camp Mug Gray,Apparel,Shop by Brand,14.0,10.0,9,114,102,0.07894736842105263,3.445046439628483,False,1.4
+Google F/C Longsleeve Ash,Google Pen White,Apparel,Office,24.0,1.0,9,123,98,0.07317073170731707,3.3232951717272274,False,24.0
+Womens Google Striped LS,Google Heathered Pom Beanie,Apparel,New,16.0,12.0,9,77,170,0.11688311688311688,3.0602750190985484,False,1.3333333333333333
+Google Unisex Eco Tee Black,Google Camp Mug Ivory,Uncategorized Items,Drinkware,18.0,10.0,9,87,189,0.10344827586206896,2.4362342638204706,False,1.8
+Google Red Speckled Tee,Google F/C Longsleeve Ash,Apparel,Apparel,24.0,24.0,9,138,123,0.06521739130434782,2.360021208907741,False,1.0
+Google Heathered Pom Beanie,Google Camp Mug Gray,New,Shop by Brand,12.0,10.0,9,170,102,0.052941176470588235,2.310207612456747,False,1.2
+Google Badge Heavyweight Pullover Black,Google F/C Longsleeve Charcoal,Apparel,Apparel,46.0,24.0,9,150,118,0.06,2.263220338983051,False,1.9166666666666667
+Google Land & Sea Cotton Cap,Google Camp Mug Ivory,Apparel,Drinkware,14.0,10.0,9,114,189,0.07894736842105263,1.859231411862991,False,1.4
+Google Crewneck Sweatshirt Navy,Google Land & Sea Cotton Cap,Uncategorized Items,Apparel,44.0,14.0,9,196,114,0.04591836734693878,1.7928302900107411,False,3.142857142857143
+Google F/C Longsleeve Ash,Google Camp Mug Ivory,Apparel,Drinkware,24.0,10.0,9,123,189,0.07317073170731707,1.7231900890437475,False,2.4
+Google Zip Hoodie F/C,Google Laptop and Cell Phone Stickers,Apparel,Google,48.0,2.0,9,187,127,0.0481283422459893,1.6867657585582552,False,24.0
+Google Camp Mug Ivory,Google Laptop and Cell Phone Stickers,Drinkware,Google,10.0,2.0,9,189,127,0.047619047619047616,1.6689163854518185,False,5.0
+Google Crewneck Sweatshirt Navy,Google F/C Longsleeve Ash,Uncategorized Items,Apparel,44.0,24.0,9,196,123,0.04591836734693878,1.6616475858636137,False,1.8333333333333333
+Google Canteen Bottle Black,Google Camp Mug Ivory,Drinkware,Drinkware,19.0,10.0,9,130,189,0.06923076923076923,1.6304029304029304,False,1.9
+Google Badge Heavyweight Pullover Black,Google Camp Mug Ivory,Apparel,Drinkware,46.0,10.0,9,150,189,0.06,1.413015873015873,False,4.6
+Google Heathered Pom Beanie,Google Camp Mug Ivory,New,Drinkware,12.0,10.0,9,170,189,0.052941176470588235,1.2467787114845938,False,1.2
+Google Crewneck Sweatshirt Navy,Google Heathered Pom Beanie,Uncategorized Items,New,44.0,12.0,9,196,170,0.04591836734693878,1.202250900360144,False,3.6666666666666665
+Google Tee Yellow,Google Tee Red,Clearance,Clearance,9.0,9.0,8,28,20,0.2857142857142857,63.58571428571429,True,1.0
+Google Kirkland Campus Mug,Google Cambridge Campus Mug,Campus Collection,Campus Collection,7.0,7.0,8,18,41,0.4444444444444444,48.24932249322493,True,1.0
+Google Austin Campus Mug,Google Austin Campus Lapel Pin,Campus Collection,Campus Collection,7.0,3.0,8,72,11,0.1111111111111111,44.95959595959596,False,2.3333333333333335
+Google Pen Grey,Google Pen Grass Green,Office,Stationery,1.0,1.0,8,30,27,0.26666666666666666,43.96049382716049,False,1.0
+Google Seattle Campus Sticker,Google LA Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,8,27,36,0.2962962962962963,36.63374485596708,True,1.0
+Google Seattle Campus Sticker,Google NYC Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,8,27,39,0.2962962962962963,33.81576448243115,True,1.0
+Google Pen Red,Google Pen Citron,Stationery,Clearance,1.0,1.0,8,27,48,0.2962962962962963,27.47530864197531,False,1.0
+Google Pen Grey,Google Pen Citron,Office,Clearance,1.0,1.0,8,30,48,0.26666666666666666,24.727777777777778,False,1.0
+Google NYC Campus Mug,Google Kirkland Campus Mug,Campus Collection,Campus Collection,7.0,7.0,8,82,18,0.0975609756097561,24.124661246612465,True,1.0
+Google Black Cork Journal,Google Cork Journal,New,New,10.0,7.0,8,73,23,0.1095890410958904,21.2078618225134,True,1.4285714285714286
+Google Cloud Pen,Google Pen Bright Blue,Shop by Brand,Stationery,2.0,1.0,8,44,46,0.18181818181818182,17.59288537549407,False,2.0
+Google Crew Combed Cotton Sock,Google Confetti Slim Task Pad,Apparel,Office,14.0,3.0,8,80,26,0.1,17.119230769230768,False,4.666666666666667
+Google LA Campus Mug,Google Cambridge Campus Mug,Campus Collection,Campus Collection,7.0,7.0,8,52,41,0.15384615384615385,16.701688555347094,True,1.0
+Google Emoji Sticker Pack,Android Large Removable Sticker Sheet,Accessories,Accessories,4.0,2.0,8,47,47,0.1702127659574468,16.1195110909914,False,2.0
+Google See-No Hear-No Set,Google Small Standard Journal Navy,Electronics Accessories,Lifestyle,10.0,5.0,8,42,53,0.19047619047619047,15.996406109613657,False,2.0
+Google Campus Bike,Google Confetti Slim Task Pad,Accessories,Office,32.0,3.0,8,97,26,0.08247422680412371,14.118953211736716,False,10.666666666666666
+Google NYC Campus Bottle,Google NYC Campus Mug,Campus Collection,Campus Collection,11.0,7.0,8,33,82,0.24242424242424243,13.15890613451589,False,1.5714285714285714
+Google PNW Campus Mug,Google LA Campus Mug,Campus Collection,Campus Collection,7.0,7.0,8,55,52,0.14545454545454545,12.45034965034965,True,1.0
+Google Emoji Magnet Set,Google Magnet,Small Goods,Accessories,8.0,6.0,8,34,90,0.23529411764705882,11.636601307189542,False,1.3333333333333333
+YouTube Play Mug,YouTube Leather Strap Hat Black,Lifestyle,Apparel,10.0,10.0,8,51,62,0.1568627450980392,11.261227071473751,False,1.0
+Google Large Tote White,Google Campus Bike Tote Navy,Bags,Bags,10.0,9.0,8,67,52,0.11940298507462686,10.220436280137772,False,1.1111111111111112
+Google Sunnyvale Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,8,50,72,0.16,9.891111111111112,True,1.0
+Google LA Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,8,52,72,0.15384615384615385,9.510683760683762,True,1.0
+Google Light Pen Blue,Google Pen Bright Blue,Writing Instruments,Stationery,2.0,1.0,8,83,46,0.0963855421686747,9.326348873755894,False,2.0
+Google Light Pen Blue,Google Pen Citron,Writing Instruments,Clearance,2.0,1.0,8,83,48,0.0963855421686747,8.937751004016064,False,2.0
+YouTube Icon Tee Charcoal,YouTube Jotter Task Pad,Apparel,Shop by Brand,18.0,2.5,8,77,54,0.1038961038961039,8.563732563732565,False,7.2
+Google Chrome Dinosaur Collectible,Noogler Android Figure,Accessories,Accessories,24.0,13.0,8,51,92,0.1568627450980392,7.589087809036658,False,1.8461538461538463
+Google Crewneck Sweatshirt Green,Google Cork Base Tumbler,Apparel,New,44.0,22.0,8,146,36,0.0547945205479452,6.774733637747336,False,2.0
+Google Magnet,Google Keychain,Accessories,New,6.0,6.0,8,90,62,0.08888888888888889,6.381362007168459,False,1.0
+Google Clear Pen 4-Pack,Google Decal,Office,Stationery,3.0,1.0,8,126,48,0.06349206349206349,5.887566137566138,False,3.0
+Google Glass Bottle,Google Black Cork Journal,Lifestyle,New,18.0,10.0,8,83,73,0.0963855421686747,5.876877372503714,False,1.8
+Google Canteen Bottle Black,Google Campus Bike Tote Navy,Drinkware,Bags,19.0,9.0,8,130,52,0.06153846153846154,5.267455621301775,False,2.111111111111111
+Google Clear Pen 4-Pack,Google Light Pen Green,Office,Writing Instruments,3.0,2.0,8,126,56,0.06349206349206349,5.046485260770975,False,1.5
+Google Red Speckled Tee,Android Pocket Tee Navy,Apparel,Apparel,24.0,23.0,8,138,53,0.057971014492753624,4.868471424665026,False,1.0434782608695652
+Google Metallic Notebook Set,Google Light Pen Red,Office,Writing Instruments,5.0,2.0,8,120,65,0.06666666666666667,4.565128205128205,False,2.5
+Google Sunglasses,Google Clear Pen 4-Pack,Uncategorized Items,Office,3.0,3.0,8,62,126,0.12903225806451613,4.558115719406042,False,1.0
+Noogler Android Figure,Android SM S/F18 Sticker Sheet,Accessories,Accessories,13.0,2.0,8,92,97,0.08695652173913043,3.9901389511429852,False,6.5
+Google Black Cork Journal,Google Laptop and Cell Phone Stickers,New,Google,10.0,2.0,8,73,127,0.1095890410958904,3.8407938733685687,False,5.0
+Google Dino Game Tee,Google Navy Speckled Tee,Apparel,Apparel,32.0,24.0,8,79,123,0.10126582278481013,3.6645055058145517,False,1.3333333333333333
+Google Crew Combed Cotton Sock,Google Clear Pen 4-Pack,Apparel,Office,14.0,3.0,8,80,126,0.1,3.5325396825396824,False,4.666666666666667
+Google Light Pen Blue,Google Laptop and Cell Phone Stickers,Writing Instruments,Google,2.0,2.0,8,83,127,0.0963855421686747,3.3780476235651267,False,1.0
+Google Zip Hoodie F/C,Keyboard DOT Sticker,Apparel,Office,48.0,2.0,8,187,59,0.0427807486631016,3.2274086830417836,False,24.0
+Google Magnet,Google Clear Pen 4-Pack,Accessories,Office,6.0,3.0,8,90,126,0.08888888888888889,3.1400352733686065,False,2.0
+Google Perk Thermal Tumbler,Google Crew Socks,Lifestyle,Apparel,16.0,13.0,8,95,127,0.08421052631578947,2.951346871114795,False,1.2307692307692308
+Google Zip Hoodie F/C,Google Toddler FC Zip Hoodie,Apparel,Apparel,48.0,28.0,8,187,71,0.0427807486631016,2.6819311591473975,False,1.7142857142857142
+Google Navy Speckled Tee,Google Leather Strap Hat Blue,Apparel,Apparel,24.0,14.0,8,123,108,0.06504065040650407,2.680517916290274,False,1.7142857142857142
+Google Navy Speckled Tee,Google F/C Longsleeve Ash,Apparel,Apparel,24.0,24.0,8,123,123,0.06504065040650407,2.353625487474387,False,1.0
+Google Camp Mug Ivory,Google NYC Campus Mug,Drinkware,Campus Collection,10.0,7.0,8,189,82,0.042328042328042326,2.2975867853916636,False,1.4285714285714286
+Google Navy Speckled Tee,Google Clear Pen 4-Pack,Apparel,Office,24.0,3.0,8,123,126,0.06504065040650407,2.2975867853916636,False,8.0
+Google Badge Heavyweight Pullover Black,Google Land & Sea Cotton Cap,Apparel,Apparel,46.0,14.0,8,150,114,0.05333333333333334,2.0823391812865495,False,3.2857142857142856
+Google Crewneck Sweatshirt Green,Google F/C Longsleeve Charcoal,Apparel,Apparel,44.0,24.0,8,146,118,0.0547945205479452,2.0668678894822383,False,1.8333333333333333
+Google Crewneck Sweatshirt Green,Google Navy Speckled Tee,Apparel,Apparel,44.0,24.0,8,146,123,0.0547945205479452,1.9828488695845863,False,1.8333333333333333
+Google Badge Heavyweight Pullover Black,Google F/C Longsleeve Ash,Apparel,Apparel,46.0,24.0,8,150,123,0.05333333333333334,1.9299728997289973,False,1.9166666666666667
+Google Land & Sea Cotton Cap,Google Heathered Pom Beanie,Apparel,New,14.0,12.0,8,114,170,0.07017543859649122,1.837358101135191,False,1.1666666666666667
+Google Crew Socks,Google Heathered Pom Beanie,Apparel,New,13.0,12.0,8,127,170,0.06299212598425197,1.6492820750347383,False,1.0833333333333333
+Google Zip Hoodie F/C,Google F/C Longsleeve Ash,Apparel,Apparel,48.0,24.0,8,187,123,0.0427807486631016,1.548106604060693,False,2.0
+Google Zip Hoodie F/C,Google Crew Socks,Apparel,Apparel,48.0,13.0,8,187,127,0.0427807486631016,1.4993473409406712,False,3.6923076923076925
+Google Crew Socks,Google Camp Mug Ivory,Apparel,Drinkware,13.0,10.0,8,127,189,0.06299212598425197,1.4834812315127275,False,1.3
+Google Crewneck Sweatshirt Navy,Google Red Speckled Tee,Uncategorized Items,Apparel,44.0,24.0,8,196,138,0.04081632653061224,1.316474415853298,False,1.8333333333333333
+Google Seattle Campus Sticker,Google Bellevue Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,7,27,7,0.25925925925925924,164.85185185185185,True,1.0
+Google Red YoYo,Google Blue YoYo,New,New,3.0,3.0,7,21,20,0.3333333333333333,74.18333333333334,True,1.0
+Google Seattle Campus Sticker,Google Cambridge Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,7,27,18,0.25925925925925924,64.10905349794238,True,1.0
+Google Seattle Campus Sticker,Google Boulder Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,7,27,21,0.25925925925925924,54.95061728395062,True,1.0
+Google LA Campus Sticker,Google Cambridge Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,7,36,18,0.19444444444444445,48.08179012345679,True,1.0
+Google Lapel Pin,Google NYC Campus Lapel Pin,New,Campus Collection,6.0,3.0,7,38,23,0.18421052631578946,35.6487414187643,False,2.0
+Google NYC Campus Ladies Tee,Google NYC Campus Sticker,Campus Collection,Campus Collection,14.0,1.0,7,23,39,0.30434782608695654,34.734671125975474,False,14.0
+Google Pen Neon Coral,Google Pen Grey,Stationery,Office,2.0,1.0,7,30,30,0.23333333333333334,34.61888888888889,False,2.0
+Google Pen Bright Blue,Google Confetti Pen White,Stationery,Office,1.0,1.0,7,46,21,0.15217391304347827,32.2536231884058,False,1.0
+YouTube Iconic Play Pin,Google Lapel Pin,New,New,7.0,6.0,7,26,38,0.2692307692307692,31.535425101214575,False,1.1666666666666667
+Google PNW Campus Mug,Google Kirkland Campus Mug,Campus Collection,Campus Collection,7.0,7.0,7,55,18,0.12727272727272726,31.47171717171717,True,1.0
+Google Austin Campus Zip Hoodie,Google Austin Campus Mug,Campus Collection,Campus Collection,32.0,7.0,7,20,72,0.35,21.636805555555554,False,4.571428571428571
+Google PNW Campus Mug,Google Seattle Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,7,55,27,0.12727272727272726,20.98114478114478,False,7.0
+Google Seattle Campus Mug,Google Seattle Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,7,58,27,0.1206896551724138,19.895913154533844,False,7.0
+Google Chicago Campus Mug,Google Boulder Campus Mug,Campus Collection,Campus Collection,7.0,7.0,7,54,30,0.12962962962962962,19.232716049382717,True,1.0
+Google Seattle Campus Mug,Google Boulder Campus Mug,Campus Collection,Campus Collection,7.0,7.0,7,58,30,0.1206896551724138,17.90632183908046,True,1.0
+Android Iconic Pen,Google Pen White,New,Office,2.0,1.0,7,19,98,0.3684210526315789,16.73308270676692,False,2.0
+Google Hemp Tote,Google Recycled Writing Set,Clearance,Clearance,12.0,3.0,7,48,42,0.14583333333333334,15.45486111111111,False,4.0
+Google Black Cork Journal,Android Lumberjack Pin,New,Accessories,10.0,4.0,7,73,30,0.0958904109589041,14.226940639269406,False,2.5
+Google Chicago Campus Mug,Google Cambridge Campus Mug,Campus Collection,Campus Collection,7.0,7.0,7,54,41,0.12962962962962962,14.072719060523939,True,1.0
+Google Black Cloud Zip Hoodie,Google Cloud Pen,Apparel,Shop by Brand,55.0,2.0,7,53,44,0.1320754716981132,13.360634648370498,False,27.5
+Google Small Standard Journal Navy,Google Decal,Lifestyle,Stationery,5.0,1.0,7,53,48,0.1320754716981132,12.247248427672956,False,5.0
+Google Light Pen Green,Google Pen Citron,Writing Instruments,Clearance,2.0,1.0,7,56,48,0.125,11.591145833333334,False,2.0
+Google Sunnyvale Campus Mug,Google PNW Campus Mug,Campus Collection,Campus Collection,7.0,7.0,7,50,55,0.14,11.329818181818181,True,1.0
+Google Mural Sticker Sheet,Android Large Removable Sticker Sheet,Small Goods,Accessories,2.0,2.0,7,61,47,0.11475409836065574,10.867457272410185,False,1.0
+Android Lumberjack Pin,Android SM S/F18 Sticker Sheet,Accessories,Accessories,4.0,2.0,7,30,97,0.23333333333333334,10.706872852233676,False,2.0
+Google PNW Campus Mug,Google Chicago Campus Mug,Campus Collection,Campus Collection,7.0,7.0,7,55,54,0.12727272727272726,10.49057239057239,True,1.0
+Google Hemp Tote,Google Keychain,Clearance,New,12.0,6.0,7,48,62,0.14583333333333334,10.469422043010752,False,2.0
+Google Black Cork Journal,Google Recycled Writing Set,New,Clearance,10.0,3.0,7,73,42,0.0958904109589041,10.162100456621005,False,3.3333333333333335
+Google Metallic Notebook Set,Google Pen Red,Office,Stationery,5.0,1.0,7,120,27,0.058333333333333334,9.616358024691358,False,5.0
+Google Confetti Slim Task Pad,Google Clear Pen 4-Pack,Office,Office,3.0,3.0,7,26,126,0.2692307692307692,9.510683760683762,False,1.0
+Google Women's Grid Zip-Up,Google Toddler FC Zip Hoodie,Apparel,Apparel,50.0,28.0,7,51,71,0.13725490196078433,8.6045291355979,False,1.7857142857142858
+Google Light Pen Blue,Maze Pen,Writing Instruments,Office,2.0,1.0,7,83,44,0.08433734939759036,8.531489594742606,False,2.0
+Google Clear Pen 4-Pack,Google Mini Kick Ball,Office,Fun,3.0,2.0,7,126,30,0.05555555555555555,8.242592592592592,False,1.5
+Google PNW Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,7,55,72,0.12727272727272726,7.8679292929292926,True,1.0
+Google Crew Combed Cotton Sock,Google Small Standard Journal Navy,Apparel,Lifestyle,14.0,5.0,7,80,53,0.0875,7.348349056603774,False,2.8
+Maze Pen,Google Pen White,Office,Office,1.0,1.0,7,44,98,0.1590909090909091,7.22564935064935,False,1.0
+Google Men's Tech Fleece Grey,Google Women's Grid Zip-Up,Apparel,Apparel,71.0,50.0,7,87,51,0.08045977011494253,7.022086995717827,False,1.42
+Google Chrome Dinosaur Collectible,Google Magnet,Accessories,Accessories,24.0,6.0,7,51,90,0.13725490196078433,6.7880174291939,False,4.0
+Android Buoy Bottle,Android SM S/F18 Sticker Sheet,Drinkware,Accessories,4.0,2.0,7,48,97,0.14583333333333334,6.691795532646048,False,2.0
+Google Pen White,Google Decal,Office,Stationery,1.0,1.0,7,98,48,0.07142857142857142,6.623511904761905,False,1.0
+Google Lapel Pin,Google Laptop and Cell Phone Stickers,New,Google,6.0,2.0,7,38,127,0.18421052631578946,6.456071280563614,False,3.0
+Google Super G Tumbler (Red Lid),Google Land & Sea Cotton Cap,Lifestyle,Apparel,22.0,14.0,7,43,114,0.16279069767441862,6.355977152182782,False,1.5714285714285714
+YouTube Twill Sandwich Cap Black,YouTube Leather Strap Hat Black,Apparel,Apparel,10.0,10.0,7,80,62,0.0875,6.281653225806451,False,1.0
+Google Bot (Multicolored),Google Laptop and Cell Phone Stickers,Lifestyle,Google,8.0,2.0,7,40,127,0.175,6.133267716535433,False,4.0
+Google Campus Bike,Google Small Standard Journal Navy,Accessories,Lifestyle,32.0,5.0,7,97,53,0.07216494845360824,6.0604940673020815,False,6.4
+Google Metallic Notebook Set,Google Pride Sticker,Office,Shop by Brand,5.0,1.0,7,120,43,0.058333333333333334,6.038178294573643,False,5.0
+Google Metallic Notebook Set,Maze Pen,Office,Office,5.0,1.0,7,120,44,0.058333333333333334,5.90094696969697,False,5.0
+Google Metallic Notebook Set,Google Pen Bright Blue,Office,Stationery,5.0,1.0,7,120,46,0.058333333333333334,5.644384057971014,False,5.0
+Google Laptop and Cell Phone Stickers,Google Cloud Pen,Google,Shop by Brand,2.0,2.0,7,127,44,0.05511811023622047,5.575697924123121,False,1.0
+Google Super G Tumbler (Red Lid),Google Canteen Bottle Black,Lifestyle,Drinkware,22.0,19.0,7,43,130,0.16279069767441862,5.573703041144902,False,1.1578947368421053
+Keyboard DOT Sticker,Android SM S/F18 Sticker Sheet,Office,Accessories,2.0,2.0,7,59,97,0.11864406779661017,5.444172636728989,False,1.0
+Google Land & Sea Cotton Cap,Google Campus Bike Tote Navy,Apparel,Bags,14.0,9.0,7,114,52,0.06140350877192982,5.255904183535763,False,1.5555555555555556
+Google Laptop and Cell Phone Stickers,Android Large Removable Sticker Sheet,Google,Accessories,2.0,2.0,7,127,47,0.05511811023622047,5.21980231194505,False,1.0
+Google Red Speckled Tee,#IamRemarkable Unisex T-Shirt,Apparel,Apparel,24.0,10.0,7,138,44,0.050724637681159424,5.1312582345191045,False,2.4
+Google Black Cloud Zip Hoodie,Google Metallic Notebook Set,Apparel,Office,55.0,5.0,7,53,120,0.1320754716981132,4.898899371069183,False,11.0
+Google Utility Bag Grey,Google Metallic Notebook Set,Bags,Office,6.0,5.0,7,53,120,0.1320754716981132,4.898899371069183,False,1.2
+YouTube Play Mug,Google Clear Pen 4-Pack,Lifestyle,Office,10.0,3.0,7,51,126,0.13725490196078433,4.848583877995643,False,3.3333333333333335
+Google Metallic Notebook Set,YouTube Jotter Task Pad,Office,Shop by Brand,5.0,2.5,7,120,54,0.058333333333333334,4.808179012345679,False,2.0
+Google Leather Strap Hat Blue,YouTube Leather Strap Hat Black,Apparel,Apparel,14.0,10.0,7,108,62,0.06481481481481481,4.6530764635603346,True,1.4
+Google Red Speckled Tee,Google Heather Green Speckled Tee,Apparel,Apparel,24.0,24.0,7,138,51,0.050724637681159424,4.426967888604717,False,1.0
+Google Heathered Pom Beanie,Maze Pen,New,Office,12.0,1.0,7,170,44,0.041176470588235294,4.165374331550802,False,12.0
+Google Mural Sticker Sheet,Google Laptop and Cell Phone Stickers,Small Goods,Google,2.0,2.0,7,61,127,0.11475409836065574,4.0218148960888085,False,1.0
+Google Campus Bike Corkbase Mug Blue,Google Camp Mug Ivory,Lifestyle,Drinkware,14.0,10.0,7,43,189,0.16279069767441862,3.833763996554694,False,1.4
+Google Heathered Pom Beanie,Android Buoy Bottle,New,Drinkware,12.0,4.0,7,170,48,0.041176470588235294,3.8182598039215687,False,3.0
+Google Light Pen Red,Google Laptop and Cell Phone Stickers,Writing Instruments,Google,2.0,2.0,7,65,127,0.1076923076923077,3.7743185947910356,False,1.0
+Google Campus Bike,Noogler Android Figure,Accessories,Accessories,32.0,13.0,7,97,92,0.07216494845360824,3.491371582250112,False,2.4615384615384617
+Google Speckled Beanie Navy,Google Leather Strap Hat Blue,New,Apparel,16.0,14.0,7,85,108,0.08235294117647059,3.39400871459695,False,1.1428571428571428
+Google Perk Thermal Tumbler,Google Camp Mug Gray,Lifestyle,Shop by Brand,16.0,10.0,7,95,102,0.07368421052631578,3.215376676986584,False,1.6
+Google Canteen Bottle Black,Google Thermal Tumbler Navy,Drinkware,Drinkware,19.0,14.0,7,130,76,0.05384615384615385,3.1535425101214574,False,1.3571428571428572
+Google Magnet,Google Metallic Notebook Set,Accessories,Office,6.0,5.0,7,90,120,0.07777777777777778,2.8849074074074075,False,1.2
+Google Sherpa Zip Hoodie Charcoal,Google Crewneck Sweatshirt Green,Apparel,Apparel,55.0,44.0,7,78,146,0.08974358974358974,2.7359501229364245,False,1.25
+Google Perk Thermal Tumbler,Google Metallic Notebook Set,Lifestyle,Office,16.0,5.0,7,95,120,0.07368421052631578,2.7330701754385966,False,3.2
+Google Campus Bike,Google Laptop and Cell Phone Stickers,Accessories,Google,32.0,2.0,7,97,127,0.07216494845360824,2.529182563519766,False,16.0
+Google Navy Speckled Tee,Google F/C Longsleeve Charcoal,Apparel,Apparel,24.0,24.0,7,123,118,0.056910569105691054,2.1466859583850075,False,1.0
+Google Crew Combed Cotton Sock,Google Camp Mug Ivory,Apparel,Drinkware,14.0,10.0,7,80,189,0.0875,2.060648148148148,False,1.4
+Google F/C Longsleeve Ash,Google Clear Pen 4-Pack,Apparel,Office,24.0,3.0,7,123,126,0.056910569105691054,2.0103884372177054,False,8.0
+Google Navy Speckled Tee,Google Laptop and Cell Phone Stickers,Apparel,Google,24.0,2.0,7,123,127,0.056910569105691054,1.994558607003393,False,12.0
+Google Crew Socks,Google Clear Pen 4-Pack,Apparel,Office,13.0,3.0,7,127,126,0.05511811023622047,1.947069116360455,False,4.333333333333333
+Google Zip Hoodie F/C,Noogler Android Figure,Apparel,Accessories,48.0,13.0,7,187,92,0.0374331550802139,1.811032318065566,False,3.6923076923076925
+Google Camp Mug Ivory,Google Pen White,Drinkware,Office,10.0,1.0,7,189,98,0.037037037037037035,1.682161753590325,False,10.0
+Google Badge Heavyweight Pullover Black,Google Clear Pen 4-Pack,Apparel,Office,46.0,3.0,7,150,126,0.04666666666666667,1.6485185185185185,False,15.333333333333334
+Google Navy Speckled Tee,Google Heathered Pom Beanie,Apparel,New,24.0,12.0,7,123,170,0.056910569105691054,1.490052606408417,False,2.0
+Google Badge Heavyweight Pullover Black,Google Crewneck Sweatshirt Green,Apparel,Apparel,46.0,44.0,7,150,146,0.04666666666666667,1.4226940639269405,False,1.0454545454545454
+Google Zip Hoodie F/C,Google Canteen Bottle Black,Apparel,Drinkware,48.0,19.0,7,187,130,0.0374331550802139,1.28165364047717,False,2.526315789473684
+Google Crewneck Sweatshirt Navy,Google Laptop and Cell Phone Stickers,Uncategorized Items,Google,44.0,2.0,7,196,127,0.03571428571428571,1.251687289088864,False,22.0
+Google Crewneck Sweatshirt Navy,Google Crew Socks,Uncategorized Items,Apparel,44.0,13.0,7,196,127,0.03571428571428571,1.251687289088864,False,3.3846153846153846
+Super G Unisex Joggers,Google Land & Sea Cotton Cap,Shop by Brand,Apparel,30.0,14.0,7,221,114,0.03167420814479638,1.2366833373025323,False,2.142857142857143
+Super G Unisex Joggers,Google F/C Longsleeve Ash,Shop by Brand,Apparel,30.0,24.0,7,221,123,0.03167420814479638,1.1461943126218592,False,1.25
+Super G Unisex Joggers,Google Crew Socks,Shop by Brand,Apparel,30.0,13.0,7,221,127,0.03167420814479638,1.1100937043503045,False,2.3076923076923075
+Super G Unisex Joggers,Google Red Speckled Tee,Shop by Brand,Apparel,30.0,24.0,7,221,138,0.03167420814479638,1.0216079742933963,False,1.25
+Google Seattle Campus Sticker,Google Kirkland Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,6,27,9,0.2222222222222222,109.90123456790124,True,1.0
+Google LA Campus Sticker,Google Bellevue Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,6,36,7,0.16666666666666666,105.97619047619048,True,1.0
+Google Tee Red,Google Tee Blue,Clearance,Uncategorized Items,9.0,9.0,6,20,15,0.3,89.02,True,1.0
+Google Yellow YoYo,Google Red YoYo,New,New,3.0,3.0,6,16,21,0.375,79.48214285714286,True,1.0
+Google Cambridge Campus Sticker,Google Boulder Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,6,18,21,0.3333333333333333,70.65079365079364,True,1.0
+Google PNW Campus Mug,Google PNW Campus Lapel Pin,Campus Collection,Campus Collection,7.0,3.0,6,55,7,0.10909090909090909,69.36623376623376,False,2.3333333333333335
+Google Tee Yellow,Google Tee Green,Clearance,Clearance,9.0,9.0,6,28,16,0.21428571428571427,59.611607142857146,True,1.0
+Google Kirkland Campus Mug,Google Boulder Campus Mug,Campus Collection,Campus Collection,7.0,7.0,6,18,30,0.3333333333333333,49.455555555555556,True,1.0
+Google LA Campus Mug,Google LA Campus Lapel Pin,Campus Collection,Campus Collection,7.0,3.0,6,52,11,0.11538461538461539,46.68881118881119,False,2.3333333333333335
+Google Blue Kids Sunglasses,Google Yellow YoYo,Accessories,New,4.0,3.0,6,39,16,0.15384615384615385,42.79807692307692,False,1.3333333333333333
+Google Pen Grey,Google Confetti Pen White,Office,Office,1.0,1.0,6,30,21,0.2,42.39047619047619,False,1.0
+Google NYC Campus Sticker,Google Cambridge Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,6,39,18,0.15384615384615385,38.042735042735046,True,1.0
+Google LA Campus Mug,Google LA Campus Tote,Campus Collection,Campus Collection,7.0,6.0,6,52,14,0.11538461538461539,36.684065934065934,False,1.1666666666666667
+Google Chicago Campus Bottle,Google Chicago Campus Mug,Campus Collection,Campus Collection,11.0,7.0,6,15,54,0.4,32.97037037037037,False,1.5714285714285714
+Google NYC Campus Sticker,Google Boulder Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,6,39,21,0.15384615384615385,32.608058608058606,True,1.0
+Google Yellow YoYo,Google Sunglasses,New,Uncategorized Items,3.0,3.0,6,16,62,0.375,26.921370967741936,False,1.0
+Daddy Works at Google Book,Android Super Hero 3D Framed Art,Small Goods,Accessories,16.0,16.0,6,40,26,0.15,25.678846153846155,False,1.0
+Google Cloud Pen,Google Pen Grass Green,Shop by Brand,Stationery,2.0,1.0,6,44,27,0.13636363636363635,22.47979797979798,False,2.0
+Google NYC Campus Zip Hoodie,Google LA Campus Zip Hoodie,Campus Collection,Clearance,32.0,32.0,6,63,19,0.09523809523809523,22.31077694235589,True,1.0
+Google Utility Bag Grey,Google Land & Sea Tech Taco,Bags,Shop by Brand,6.0,3.0,6,53,23,0.11320754716981132,21.908121410992617,False,2.0
+Google KeepCup,Android Lumberjack Pin,New,Accessories,28.0,4.0,6,41,30,0.14634146341463414,21.71219512195122,False,7.0
+Google Cloud Pen,Google Pen Grey,Shop by Brand,Office,2.0,1.0,6,44,30,0.13636363636363635,20.23181818181818,False,2.0
+Google NYC Campus Zip Hoodie,Google NYC Campus Ladies Tee,Campus Collection,Campus Collection,32.0,14.0,6,63,23,0.09523809523809523,18.43064182194617,False,2.2857142857142856
+Google PNW Campus Zip Hoodie,Google PNW Campus Mug,Clearance,Campus Collection,32.0,7.0,6,27,55,0.2222222222222222,17.983838383838386,False,4.571428571428571
+Google Mural Sticky Note Pad,#IamRemarkable Journal,Office,Stationery,11.0,6.0,6,44,35,0.13636363636363635,17.34155844155844,False,1.8333333333333333
+Google LA Campus Mug,Google Boulder Campus Mug,Campus Collection,Campus Collection,7.0,7.0,6,52,30,0.11538461538461539,17.119230769230768,True,1.0
+YouTube Crew Socks,Google Mural Socks,Apparel,New,13.0,12.0,6,38,43,0.15789473684210525,16.343941248470014,False,1.0833333333333333
+Google NYC Campus Mug,Google Boulder Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,6,82,21,0.07317073170731707,15.508710801393729,False,7.0
+Google Super G Tumbler (Red Lid),Google Mural Mug,Lifestyle,Drinkware,22.0,14.0,6,43,42,0.13953488372093023,14.787375415282392,False,1.5714285714285714
+Google Blue Kids Sunglasses,Google Clear Framed Blue Shades,Accessories,Accessories,4.0,3.0,6,39,48,0.15384615384615385,14.26602564102564,False,1.3333333333333333
+Google Sunnyvale Campus Mug,Google Cambridge Campus Mug,Campus Collection,Campus Collection,7.0,7.0,6,50,41,0.12,13.027317073170732,True,1.0
+Google Super G Tumbler (Red Lid),Google Campus Bike Tote Navy,Lifestyle,Bags,22.0,9.0,6,43,52,0.13953488372093023,11.943649373881932,False,2.4444444444444446
+Google Lapel Pin,Google Keychain,New,New,6.0,6.0,6,38,62,0.15789473684210525,11.335314091680814,False,1.0
+Android Iconic Socks,Google Crew Socks,New,Apparel,14.0,13.0,6,19,127,0.3157894736842105,11.067550766680482,False,1.0769230769230769
+Google Blue Kids Sunglasses,Google Sunglasses,Accessories,Uncategorized Items,4.0,3.0,6,39,62,0.15384615384615385,11.044665012406949,False,1.3333333333333333
+Google NYC Campus Zip Hoodie,Google NYC Campus Sticker,Campus Collection,Campus Collection,32.0,1.0,6,63,39,0.09523809523809523,10.86935286935287,False,32.0
+Google Clear Pen 4-Pack,Google Blue YoYo,Office,New,3.0,3.0,6,126,20,0.047619047619047616,10.597619047619048,False,1.0
+Google Mural Sticker Sheet,Google Pride Sticker,Small Goods,Shop by Brand,2.0,1.0,6,61,43,0.09836065573770492,10.18147159740755,False,2.0
+YouTube Play Mug,YouTube Jotter Task Pad,Lifestyle,Shop by Brand,10.0,2.5,6,51,54,0.11764705882352941,9.697167755991286,False,4.0
+Google Austin Campus Mug,Google NYC Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,6,72,39,0.08333333333333333,9.510683760683762,False,7.0
+Google Toddler FC Zip Hoodie,Google Infant Charcoal Onesie,Apparel,Apparel,28.0,20.0,6,71,40,0.08450704225352113,9.403521126760563,False,1.4
+#IamRemarkable Journal,Google Light Pen Blue,Stationery,Writing Instruments,6.0,2.0,6,35,83,0.17142857142857143,9.193115318416524,False,3.0
+Google Large Standard Journal Grey,Google Cloud Pen,Office,Shop by Brand,13.0,2.0,6,68,44,0.08823529411764706,8.925802139037433,False,6.5
+Google Campus Bike,Google Emoji Magnet Set,Accessories,Small Goods,32.0,8.0,6,97,34,0.061855670103092786,8.097634930260764,False,4.0
+Womens Google Striped LS,Google Mural Socks,Apparel,New,16.0,12.0,6,77,43,0.07792207792207792,8.065841135608578,False,1.3333333333333333
+YouTube Leather Strap Hat Black,YouTube Jotter Task Pad,Apparel,Shop by Brand,10.0,2.5,6,62,54,0.0967741935483871,7.976702508960574,False,4.0
+Google Tee Yellow,Google Clear Pen 4-Pack,Clearance,Office,9.0,3.0,6,28,126,0.21428571428571427,7.569727891156463,False,3.0
+Google Dino Game Tee,Google Beekeepers Tee Mint,Apparel,Apparel,32.0,14.0,6,79,45,0.0759493670886076,7.512236286919832,False,2.2857142857142856
+Google Metallic Notebook Set,Google Pen Grey,Office,Office,5.0,1.0,6,120,30,0.05,7.418333333333333,False,5.0
+Google Mural Sticky Note Pad,Google Light Pen Blue,Office,Writing Instruments,11.0,2.0,6,44,83,0.13636363636363635,7.312705366922234,False,5.5
+Google Metallic Notebook Set,Google Mesh Bag Blue,Office,Bags,5.0,5.0,6,120,31,0.05,7.179032258064516,False,1.0
+Google Red Speckled Tee,Google 24 oz Ring Bottle Red,Apparel,Google,24.0,6.0,6,138,29,0.043478260869565216,6.673163418290854,False,4.0
+Google Recycled Pen Black,Google Pen White,New,Office,2.0,1.0,6,42,98,0.14285714285714285,6.488338192419825,False,2.0
+Google Navy Speckled Tee,Google Campus Bike Eco Tee Navy,Apparel,Apparel,24.0,20.0,6,123,35,0.04878048780487805,6.203484320557491,False,1.2
+Google Small Standard Journal Navy,Google Light Pen Blue,Lifestyle,Writing Instruments,5.0,2.0,6,53,83,0.11320754716981132,6.070925210275062,False,2.5
+Google Heathered Pom Beanie,Android Iconic Beanie,New,New,12.0,9.0,6,170,26,0.03529411764705882,6.042081447963801,False,1.3333333333333333
+Google NYC Campus Zip Hoodie,Google Toddler FC Zip Hoodie,Campus Collection,Apparel,32.0,28.0,6,63,71,0.09523809523809523,5.970489604292421,False,1.1428571428571428
+Google Leather Strap Hat Blue,#IamRemarkable Unisex T-Shirt,Apparel,Apparel,14.0,10.0,6,108,44,0.05555555555555555,5.619949494949495,False,1.4
+Google Blue Kids Sunglasses,Google Laptop and Cell Phone Stickers,Accessories,Google,4.0,2.0,6,39,127,0.15384615384615385,5.391883706844337,False,2.0
+Google Large Standard Journal Grey,Google Black Cork Journal,Office,New,13.0,10.0,6,68,73,0.08823529411764706,5.379935535858179,False,1.3
+Google Metallic Notebook Set,Google Recycled Writing Set,Office,Clearance,5.0,3.0,6,120,42,0.05,5.298809523809524,False,1.6666666666666667
+Google Campus Bike,Google Campus Bike Tote Navy,Accessories,Bags,32.0,9.0,6,97,52,0.061855670103092786,5.294607454401269,False,3.5555555555555554
+Google Crew Striped Athletic Sock,Noogler Android Figure,Apparel,Accessories,14.0,13.0,6,55,92,0.10909090909090909,5.277865612648221,False,1.0769230769230769
+Google Magnet,Keyboard DOT Sticker,Accessories,Office,6.0,2.0,6,90,59,0.06666666666666667,5.029378531073446,False,3.0
+Noogler Android Figure,Keyboard DOT Sticker,Accessories,Office,13.0,2.0,6,92,59,0.06521739130434782,4.920044215180545,False,6.5
+Google Glass Bottle,Google Large Tote White,Lifestyle,Bags,18.0,10.0,6,83,67,0.07228915662650602,4.802373673799677,False,1.8
+Keyboard DOT Sticker,Google Pen White,Office,Office,2.0,1.0,6,59,98,0.1016949152542373,4.618817018332757,False,2.0
+Google Camp Mug Ivory,Google SF Campus Tote,Drinkware,Campus Collection,10.0,6.0,6,189,31,0.031746031746031744,4.558115719406042,False,1.6666666666666667
+Google Emoji Sticker Pack,Google Clear Pen 4-Pack,Accessories,Office,4.0,3.0,6,47,126,0.1276595744680851,4.509625126646403,False,1.3333333333333333
+Google Hemp Tote,Google Clear Pen 4-Pack,Clearance,Office,12.0,3.0,6,48,126,0.125,4.415674603174603,False,4.0
+Google Keychain,Google Pen White,New,Office,6.0,1.0,6,62,98,0.0967741935483871,4.395325872284397,False,6.0
+Womens Google Striped LS,Google Crew Combed Cotton Sock,Apparel,Apparel,16.0,14.0,6,77,80,0.07792207792207792,4.33538961038961,False,1.1428571428571428
+Google F/C Longsleeve Charcoal,Google Small Standard Journal Navy,Apparel,Lifestyle,24.0,5.0,6,118,53,0.05084745762711865,4.270227054685002,False,4.8
+Google Sunnyvale Campus Mug,Google Clear Pen 4-Pack,Campus Collection,Office,7.0,3.0,6,50,126,0.12,4.239047619047619,False,2.3333333333333335
+Google Light Pen Red,Android SM S/F18 Sticker Sheet,Writing Instruments,Accessories,2.0,2.0,6,65,97,0.09230769230769231,4.235685963521015,False,1.0
+Google Large Tote White,Google Pen White,Bags,Office,10.0,1.0,6,67,98,0.08955223880597014,4.067316478830338,False,10.0
+Google Metallic Notebook Set,Google Light Pen Green,Office,Writing Instruments,5.0,2.0,6,120,56,0.05,3.974107142857143,False,2.5
+Google Black Cork Journal,Google Pen White,New,Office,10.0,1.0,6,73,98,0.0821917808219178,3.7330164942689406,False,10.0
+Google Canteen Bottle Black,Google Light Pen Green,Drinkware,Writing Instruments,19.0,2.0,6,130,56,0.046153846153846156,3.6684065934065933,False,9.5
+Google Red Speckled Tee,YouTube Icon Tee Grey,Apparel,Apparel,24.0,18.0,6,138,53,0.043478260869565216,3.6513535684987697,False,1.3333333333333333
+Womens Google Striped LS,Android SM S/F18 Sticker Sheet,Apparel,Accessories,16.0,2.0,6,77,97,0.07792207792207792,3.5755790601151425,False,8.0
+Google Keychain,Google Laptop and Cell Phone Stickers,New,Google,6.0,2.0,6,62,127,0.0967741935483871,3.3916687833375665,False,3.0
+Google Sunglasses,Google Laptop and Cell Phone Stickers,Uncategorized Items,Google,3.0,2.0,6,62,127,0.0967741935483871,3.3916687833375665,False,1.5
+Google Glass Bottle,Google Perk Thermal Tumbler,Lifestyle,Lifestyle,18.0,16.0,6,83,95,0.07228915662650602,3.3869372225745087,False,1.125
+Google Clear Pen 4-Pack,Google Light Pen Red,Office,Writing Instruments,3.0,2.0,6,126,65,0.047619047619047616,3.2608058608058608,False,1.5
+Google Land & Sea Cotton Cap,Google Austin Campus Mug,Apparel,Campus Collection,14.0,7.0,6,114,72,0.05263157894736842,3.253654970760234,False,2.0
+Google Flat Front Bag Grey,Google Camp Mug Gray,Bags,Shop by Brand,24.0,10.0,6,81,102,0.07407407407407407,3.232389251997095,False,2.4
+Google Large Tote White,Google Laptop and Cell Phone Stickers,Bags,Google,10.0,2.0,6,67,127,0.08955223880597014,3.138559172640733,False,5.0
+Google Crew Socks,Google Large Tote White,Apparel,Bags,13.0,10.0,6,127,67,0.047244094488188976,3.138559172640733,False,1.3
+Noogler Android Figure,Google Pen White,Accessories,Office,13.0,1.0,6,92,98,0.06521739130434782,2.96206743566992,False,13.0
+Google Camp Mug Ivory,Google Decal,Drinkware,Stationery,10.0,1.0,6,189,48,0.031746031746031744,2.943783068783069,False,10.0
+Google Glass Bottle,Google Metallic Notebook Set,Lifestyle,Office,18.0,5.0,6,83,120,0.07228915662650602,2.6813253012048195,False,3.6
+Google F/C Longsleeve Charcoal,Google Speckled Beanie Navy,Apparel,New,24.0,16.0,6,118,85,0.05084745762711865,2.6626121635094715,False,1.5
+Google F/C Longsleeve Ash,Google Light Pen Blue,Apparel,Writing Instruments,24.0,2.0,6,123,83,0.04878048780487805,2.615927123126653,False,12.0
+Google Perk Thermal Tumbler,Google Leather Strap Hat Blue,Lifestyle,Apparel,16.0,14.0,6,95,108,0.06315789473684211,2.6029239766081873,False,1.1428571428571428
+Google Heathered Pom Beanie,Google Mural Sticker Sheet,New,Small Goods,12.0,2.0,6,170,61,0.03529411764705882,2.575313404050145,False,6.0
+Google Crew Socks,Google NYC Campus Mug,Apparel,Campus Collection,13.0,7.0,6,127,82,0.047244094488188976,2.564432494718648,False,1.8571428571428572
+Google Flat Front Bag Grey,Google Canteen Bottle Black,Bags,Drinkware,24.0,19.0,6,81,130,0.07407407407407407,2.5361823361823363,False,1.263157894736842
+Google Heathered Pom Beanie,YouTube Leather Strap Hat Black,New,Apparel,12.0,10.0,6,170,62,0.03529411764705882,2.533776091081594,False,1.2
+Google Red Speckled Tee,YouTube Icon Tee Charcoal,Apparel,Apparel,24.0,18.0,6,138,77,0.043478260869565216,2.5132693393562957,False,1.3333333333333333
+Google Red Speckled Tee,Womens Google Striped LS,Apparel,Apparel,24.0,16.0,6,138,77,0.043478260869565216,2.5132693393562957,False,1.5
+Google Men's Tech Fleece Grey,Google F/C Longsleeve Ash,Apparel,Apparel,71.0,24.0,6,87,123,0.06896551724137931,2.495654611718531,False,2.9583333333333335
+Google F/C Longsleeve Ash,Google Unisex Eco Tee Black,Apparel,Uncategorized Items,24.0,18.0,6,123,87,0.04878048780487805,2.495654611718531,False,1.3333333333333333
+Google Crewneck Sweatshirt Grey,Google Crewneck Sweatshirt Green,Uncategorized Items,Apparel,44.0,44.0,6,74,146,0.08108108108108109,2.4718622732321363,True,1.0
+Google Badge Heavyweight Pullover Black,Google Crewneck Sweatshirt Grey,Apparel,Uncategorized Items,46.0,44.0,6,150,74,0.04,2.405945945945946,False,1.0454545454545454
+Google Crewneck Sweatshirt Green,Womens Google Striped LS,Apparel,Apparel,44.0,16.0,6,146,77,0.0410958904109589,2.3755559508984168,False,2.75
+Google Badge Heavyweight Pullover Black,Womens Google Striped LS,Apparel,Apparel,46.0,16.0,6,150,77,0.04,2.312207792207792,False,2.875
+Noogler Android Figure,Google Clear Pen 4-Pack,Accessories,Office,13.0,3.0,6,92,126,0.06521739130434782,2.3038302277432714,False,4.333333333333333
+Google Metallic Notebook Set,Android SM S/F18 Sticker Sheet,Office,Accessories,5.0,2.0,6,120,97,0.05,2.2943298969072163,False,2.5
+Google Clear Pen 4-Pack,Android SM S/F18 Sticker Sheet,Office,Accessories,3.0,2.0,6,126,97,0.047619047619047616,2.185076092292587,False,1.5
+Google Badge Heavyweight Pullover Black,Google NYC Campus Mug,Apparel,Campus Collection,46.0,7.0,6,150,82,0.04,2.171219512195122,False,6.571428571428571
+Google Crew Socks,Android SM S/F18 Sticker Sheet,Apparel,Accessories,13.0,2.0,6,127,97,0.047244094488188976,2.167870768731228,False,6.5
+Google Crewneck Sweatshirt Green,Google Unisex Eco Tee Black,Apparel,Uncategorized Items,44.0,18.0,6,146,87,0.0410958904109589,2.102503542749173,False,2.4444444444444446
+Google Camp Mug Gray,Google Clear Pen 4-Pack,Shop by Brand,Office,10.0,3.0,6,102,126,0.058823529411764705,2.07796451914099,False,3.3333333333333335
+Google Crew Combed Cotton Sock,Google Heathered Pom Beanie,Apparel,New,14.0,12.0,6,80,170,0.075,1.9636764705882352,False,1.1666666666666667
+Google Camp Mug Ivory,Google Austin Campus Mug,Drinkware,Campus Collection,10.0,7.0,6,189,72,0.031746031746031744,1.9625220458553791,False,1.4285714285714286
+Google F/C Longsleeve Ash,Google Metallic Notebook Set,Apparel,Office,24.0,5.0,6,123,120,0.04878048780487805,1.809349593495935,False,4.8
+Google Canteen Bottle Black,Google Land & Sea Cotton Cap,Drinkware,Apparel,19.0,14.0,6,130,114,0.046153846153846156,1.8020242914979756,False,1.3571428571428572
+Google F/C Longsleeve Charcoal,Google Crew Socks,Apparel,Apparel,24.0,13.0,6,118,127,0.05084745762711865,1.7820632590417724,False,1.8461538461538463
+Google Crewneck Sweatshirt Navy,Womens Google Striped LS,Uncategorized Items,Apparel,44.0,16.0,6,196,77,0.030612244897959183,1.7695467797508613,False,2.75
+Google Crew Socks,Google Metallic Notebook Set,Apparel,Office,13.0,5.0,6,127,120,0.047244094488188976,1.7523622047244094,False,2.6
+Google Crewneck Sweatshirt Navy,Google Dino Game Tee,Uncategorized Items,Apparel,44.0,32.0,6,196,79,0.030612244897959183,1.7247481270989409,False,1.375
+Google Canteen Bottle Black,Google Metallic Notebook Set,Drinkware,Office,19.0,5.0,6,130,120,0.046153846153846156,1.7119230769230769,False,3.8
+Google Perk Thermal Tumbler,Google Heathered Pom Beanie,Lifestyle,New,16.0,12.0,6,95,170,0.06315789473684211,1.6536222910216718,False,1.3333333333333333
+Google Zip Hoodie F/C,Google Unisex Eco Tee Black,Apparel,Uncategorized Items,48.0,18.0,6,187,87,0.03208556149732621,1.6415268301678039,False,2.6666666666666665
+Google Men's Tech Fleece Grey,Google Zip Hoodie F/C,Apparel,Apparel,71.0,48.0,6,87,187,0.06896551724137931,1.6415268301678039,False,1.4791666666666667
+Google Red Speckled Tee,Google F/C Longsleeve Charcoal,Apparel,Apparel,24.0,24.0,6,138,118,0.043478260869565216,1.640014738393515,False,1.0
+Google Crewneck Sweatshirt Grey,Super G Unisex Joggers,Uncategorized Items,Shop by Brand,44.0,30.0,6,74,221,0.08108108108108109,1.6329949859361623,False,1.4666666666666666
+Noogler Android Figure,Google Camp Mug Ivory,Accessories,Drinkware,13.0,10.0,6,92,189,0.06521739130434782,1.5358868184955141,False,1.3
+Google Perk Thermal Tumbler,Google Camp Mug Ivory,Lifestyle,Drinkware,16.0,10.0,6,95,189,0.06315789473684211,1.4873851294903926,False,1.6
+Google Badge Heavyweight Pullover Black,Google Navy Speckled Tee,Apparel,Apparel,46.0,24.0,6,150,123,0.04,1.447479674796748,False,1.9166666666666667
+Android Iconic Crewneck Sweatshirt,Super G Unisex Joggers,Apparel,Shop by Brand,44.0,30.0,6,94,221,0.06382978723404255,1.2855492442476173,False,1.4666666666666666
+Google Camp Mug Ivory,Google Metallic Notebook Set,Drinkware,Office,10.0,5.0,6,189,120,0.031746031746031744,1.1775132275132276,False,2.0
+Google Zip Hoodie F/C,Google Navy Speckled Tee,Apparel,Apparel,48.0,24.0,6,187,123,0.03208556149732621,1.1610799530455198,False,2.0
+Google Red Speckled Tee,Google Heathered Pom Beanie,Apparel,New,24.0,12.0,6,138,170,0.043478260869565216,1.1383631713554987,False,2.0
+Google Crewneck Sweatshirt Navy,Google Navy Speckled Tee,Uncategorized Items,Apparel,44.0,24.0,6,196,123,0.030612244897959183,1.1077650572424091,False,1.8333333333333333
+Google Badge Heavyweight Pullover Black,Google Heathered Pom Beanie,Apparel,New,46.0,12.0,6,150,170,0.04,1.047294117647059,False,3.8333333333333335
+Google Red Speckled Tee,Google Camp Mug Ivory,Apparel,Drinkware,24.0,10.0,6,138,189,0.043478260869565216,1.023924545663676,False,2.4
+Google Zip Hoodie F/C,Google Crewneck Sweatshirt Green,Apparel,Apparel,48.0,44.0,6,187,146,0.03208556149732621,0.9781700974287598,False,1.0909090909090908
+Google Zip Hoodie F/C,Google Crewneck Sweatshirt Navy,Apparel,Uncategorized Items,48.0,44.0,6,187,196,0.03208556149732621,0.7286369093091782,False,1.0909090909090908
+Google Kirkland Campus Sticker,Google Bellevue Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,5,9,7,0.5555555555555556,353.25396825396825,True,1.0
+Google Boulder Campus Sticker,Google Bellevue Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,5,21,7,0.23809523809523808,151.39455782312925,True,1.0
+Google NYC Campus Sticker,Google Bellevue Campus Sticker,Campus Collection,Campus Collection,1.0,1.0,5,39,7,0.1282051282051282,81.52014652014653,True,1.0
+Android Large Trace Journal Black,Android Small Trace Journal Black,Notebooks & Journals,Notebooks & Journals,6.0,5.0,5,22,13,0.22727272727272727,77.81468531468532,True,1.2
+Stan and Friends Youth Tee Green,Stan and Friends Toddler Tee Green,Apparel,Apparel,14.0,14.0,5,15,20,0.3333333333333333,74.18333333333334,True,1.0
+Google Mesh Bag Red,Google Mesh Bag Blue,Bags,Bags,5.0,5.0,5,12,31,0.4166666666666667,59.825268817204304,True,1.0
+Google Tee Yellow,Google Tee Grey,Clearance,Uncategorized Items,9.0,9.0,5,28,14,0.17857142857142858,56.77295918367347,True,1.0
+Google Land & Sea Tech Taco,Google Small Cable Organizer Blue,Shop by Brand,Accessories,3.0,2.0,5,23,19,0.21739130434782608,50.92677345537757,False,1.5
+Google Recycled Pen Green,Google Recycled Pen Black,New,New,2.0,2.0,5,11,42,0.45454545454545453,48.17099567099567,True,1.0
+Google Youth FC Longsleeve Charcoal,Google Youth Badge Tee Navy,Apparel,Apparel,24.0,13.0,5,23,24,0.21739130434782608,40.31702898550725,False,1.8461538461538463
+Google Youth Hero Tee Maroon,Google Youth Hero Tee Grey,Apparel,Apparel,19.0,19.0,5,20,28,0.25,39.74107142857143,False,1.0
+YouTube Iconic Play Pin,Google Maps Pin,New,New,7.0,6.0,5,26,23,0.19230769230769232,37.21571906354515,False,1.1666666666666667
+Google Utility BackPack,Supernatural Paper Tote,Bags,Bags,96.0,22.0,5,47,13,0.10638297872340426,36.42389525368249,False,4.363636363636363
+Google Pen Neon Coral,Google Confetti Pen White,Stationery,Office,2.0,1.0,5,30,21,0.16666666666666666,35.32539682539682,False,2.0
+Google Pen Red,Google Pen Grey,Stationery,Office,1.0,1.0,5,27,30,0.18518518518518517,27.47530864197531,True,1.0
+Google Cambridge Campus Mug,Google Boulder Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,5,41,21,0.12195121951219512,25.847851335656213,False,7.0
+Google NYC Campus Lapel Pin,Google NYC Campus Sticker,Campus Collection,Campus Collection,3.0,1.0,5,23,39,0.21739130434782608,24.81047937569677,False,3.0
+Android SM S/F18 Sticker Sheet,Google Mountain View Campus Sticker,Accessories,Campus Collection,2.0,1.0,5,97,10,0.05154639175257732,22.943298969072163,False,2.0
+YouTube Crew Socks,YouTube Iconic Play Pin,Apparel,New,13.0,7.0,5,38,26,0.13157894736842105,22.525303643724698,False,1.8571428571428572
+Android Pocket Tee Navy,Android Pocket Tee Green,Apparel,Apparel,23.0,23.0,5,53,20,0.09433962264150944,20.995283018867923,True,1.0
+Supernatural Paper Tote,Google Glass Bottle,Bags,Lifestyle,22.0,18.0,5,13,83,0.38461538461538464,20.625579240037073,False,1.2222222222222223
+Google Utility BackPack,Google Cork Journal,Bags,New,96.0,7.0,5,47,23,0.10638297872340426,20.587419056429233,False,13.714285714285714
+Google NYC Campus Bottle,Google NYC Campus Sticker,Campus Collection,Campus Collection,11.0,1.0,5,33,39,0.15151515151515152,17.29215229215229,False,11.0
+Google Super G Tumbler (Blue Lid),Google Large Standard Journal Grey,Lifestyle,Office,22.0,13.0,5,20,68,0.25,16.363970588235293,False,1.6923076923076923
+Google Leather Strap Hat Black,Google Small Standard Journal Navy,Apparel,Lifestyle,14.0,5.0,5,26,53,0.19230769230769232,16.15021770682148,False,2.8
+Google Emoji Magnet Set,Google Emoji Sticker Pack,Small Goods,Accessories,8.0,4.0,5,34,47,0.14705882352941177,13.926783479349186,False,2.0
+Google PNW Campus Mug,Google Boulder Campus Mug,Campus Collection,Campus Collection,7.0,7.0,5,55,30,0.09090909090909091,13.487878787878788,True,1.0
+Stan and Friends Tee Green,Google Beekeepers Tee Mint,Apparel,Apparel,14.0,14.0,5,38,45,0.13157894736842105,13.014619883040936,False,1.0
+Google Land & Sea Tote Bag,Google Land & Sea Journal Set,Bags,Google,16.0,12.0,5,33,53,0.15151515151515152,12.724413950829046,False,1.3333333333333333
+Google LA Campus Unisex Tee,Google LA Campus Mug,Clearance,Campus Collection,14.0,7.0,5,34,52,0.14705882352941177,12.587669683257918,False,2.0
+Google NYC Campus Sticker,Google Decal,Campus Collection,Stationery,1.0,1.0,5,39,48,0.1282051282051282,11.8883547008547,False,1.0
+Google NYC Campus Mug,Google NYC Campus Lapel Pin,Campus Collection,Campus Collection,7.0,3.0,5,82,23,0.06097560975609756,11.800106044538706,False,2.3333333333333335
+Google Toddler FC Zip Hoodie,Android Pocket Toddler Tee Navy,Apparel,Apparel,28.0,18.0,5,71,27,0.07042253521126761,11.609285341679708,False,1.5555555555555556
+Google KeepCup,Google Hemp Tote,New,Clearance,28.0,12.0,5,41,48,0.12195121951219512,11.308434959349594,False,2.3333333333333335
+Google NYC Campus Zip Hoodie,Google NYC Campus Bottle,Campus Collection,Campus Collection,32.0,11.0,5,63,33,0.07936507936507936,10.704665704665704,False,2.909090909090909
+Google Boulder Campus Mug,Google Austin Campus Mug,Campus Collection,Campus Collection,7.0,7.0,5,30,72,0.16666666666666666,10.30324074074074,True,1.0
+Google Campus Bike Corkbase Mug Blue,Google Campus Bike Tote Navy,Lifestyle,Bags,14.0,9.0,5,43,52,0.11627906976744186,9.95304114490161,False,1.5555555555555556
+Google Sustainable Pencil Pouch,Google Pen White,Clearance,Office,8.0,1.0,5,23,98,0.21739130434782608,9.873558118899734,False,8.0
+Android Buoy Bottle,Android Large Removable Sticker Sheet,Drinkware,Accessories,4.0,2.0,5,48,47,0.10416666666666667,9.864804964539006,False,2.0
+Android Pocket Tee Navy,Unisex Google Pocket Tee Grey,Apparel,Apparel,23.0,16.0,5,53,43,0.09433962264150944,9.765247915752523,False,1.4375
+Google Land & Sea Journal Set,Google Mural Sticky Note Pad,Google,Office,12.0,11.0,5,53,44,0.09433962264150944,9.543310463121784,False,1.0909090909090908
+Google Large Standard Journal Grey,#IamRemarkable Journal,Office,Stationery,13.0,6.0,5,68,35,0.07352941176470588,9.350840336134453,False,2.1666666666666665
+Google Sunnyvale Campus Mug,Google Decal,Campus Collection,Stationery,7.0,1.0,5,50,48,0.1,9.272916666666667,False,7.0
+Google Light Pen Green,Maze Pen,Writing Instruments,Office,2.0,1.0,5,56,44,0.08928571428571429,9.032061688311689,False,2.0
+Google Black Cork Journal,#IamRemarkable Journal,New,Stationery,10.0,6.0,5,73,35,0.0684931506849315,8.71037181996086,False,1.6666666666666667
+Google Recycled Writing Set,Google Mural Sticker Sheet,Clearance,Small Goods,3.0,2.0,5,42,61,0.11904761904761904,8.686572989851678,False,1.5
+Google Austin Campus Mug,Google LA Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,5,72,36,0.06944444444444445,8.586033950617283,False,7.0
+Google Sunnyvale Campus Mug,Google Chicago Campus Mug,Campus Collection,Campus Collection,7.0,7.0,5,50,54,0.1,8.242592592592592,True,1.0
+Google Red Speckled Tee,#IamRemarkable Ladies T-Shirt,Apparel,Apparel,24.0,10.0,5,138,20,0.036231884057971016,8.06340579710145,False,2.4
+Google Land & Sea Mug,Google Land & Sea Journal Set,Shop by Brand,Google,14.0,12.0,5,53,53,0.09433962264150944,7.922748309006764,False,1.1666666666666667
+Google Women's Grid Zip-Up,Google Woodtop Bottle Black,Apparel,New,50.0,24.0,5,51,57,0.09803921568627451,7.655658754729962,False,2.0833333333333335
+Noogler Android Figure,Google Bot,Accessories,Accessories,13.0,8.0,5,92,32,0.05434782608695652,7.559442934782608,False,1.625
+Google NYC Campus Mug,Google LA Campus Sticker,Campus Collection,Campus Collection,7.0,1.0,5,82,36,0.06097560975609756,7.538956639566396,False,7.0
+Google Seaport Tote,Google Land & Sea Cotton Cap,New,Apparel,48.0,14.0,5,26,114,0.19230769230769232,7.508434547908232,False,3.4285714285714284
+Google Land & Sea Journal Set,Google Light Pen Green,Google,Writing Instruments,12.0,2.0,5,53,56,0.09433962264150944,7.498315363881401,False,6.0
+Google Light Pen Red,Google Pen Bright Blue,Writing Instruments,Stationery,2.0,1.0,5,65,46,0.07692307692307693,7.44314381270903,False,2.0
+Google Campus Bike,Google Campus Bike Bottle,Accessories,Lifestyle,32.0,22.0,5,97,31,0.05154639175257732,7.401064183571666,False,1.4545454545454546
+Google Clear Framed Blue Shades,Google Light Pen Red,Accessories,Writing Instruments,3.0,2.0,5,48,65,0.10416666666666667,7.13301282051282,False,1.5
+Google Light Pen Red,Google Pen Citron,Writing Instruments,Clearance,2.0,1.0,5,65,48,0.07692307692307693,7.13301282051282,False,2.0
+Noogler Android Figure,Google Emoji Magnet Set,Accessories,Small Goods,13.0,8.0,5,92,34,0.05434782608695652,7.114769820971867,False,1.625
+Google Black Cork Journal,Google Cloud Pen,New,Shop by Brand,10.0,2.0,5,73,44,0.0684931506849315,6.928704856787048,False,5.0
+Google Metallic Notebook Set,Google Pen Grass Green,Office,Stationery,5.0,1.0,5,120,27,0.041666666666666664,6.868827160493828,False,5.0
+Google Magnet,Google Lapel Pin,Accessories,New,6.0,6.0,5,90,38,0.05555555555555555,6.507309941520468,False,1.0
+Google Laptop and Cell Phone Stickers,Google Seattle Campus Sticker,Google,Campus Collection,2.0,1.0,5,127,27,0.03937007874015748,6.490230387868183,False,2.0
+Google Navy Speckled Tee,Google Youth FC Tee Charcoal,Apparel,Apparel,24.0,20.0,5,123,28,0.04065040650406504,6.461962833914053,False,1.2
+Google Metallic Notebook Set,Google Pen Neon Coral,Office,Stationery,5.0,2.0,5,120,30,0.041666666666666664,6.1819444444444445,False,2.5
+Google Canteen Bottle Black,Google SF Campus Bottle,Drinkware,Campus Collection,19.0,11.0,5,130,28,0.038461538461538464,6.114010989010989,False,1.7272727272727273
+Google Light Pen Blue,Google Cloud Pen,Writing Instruments,Shop by Brand,2.0,2.0,5,83,44,0.060240963855421686,6.093921139101862,False,1.0
+Google See-No Hear-No Set,Google Magnet,Electronics Accessories,Accessories,10.0,6.0,5,42,90,0.11904761904761904,5.887566137566138,False,1.6666666666666667
+Google Premium Sunglasses,Google Clear Pen 4-Pack,Accessories,Office,11.0,3.0,5,30,126,0.16666666666666666,5.887566137566138,False,3.6666666666666665
+Google Perk Thermal Tumbler,Google Bot (Multicolored),Lifestyle,Lifestyle,16.0,8.0,5,95,40,0.05263157894736842,5.856578947368421,False,2.0
+Google Land & Sea Nalgene Water Bottle,Google Glass Bottle,Drinkware,Lifestyle,20.0,18.0,5,46,83,0.10869565217391304,5.828968046097433,False,1.1111111111111112
+Google Clear Pen 4-Pack,Google Pen Lilac,Office,Stationery,3.0,1.0,5,126,31,0.03968253968253968,5.697644649257552,False,3.0
+Google Heather Green Speckled Tee,Womens Google Striped LS,Apparel,Apparel,24.0,16.0,5,51,77,0.09803921568627451,5.667175961293609,False,1.5
+YouTube Icon Tee Charcoal,YouTube Play Mug,Apparel,Lifestyle,18.0,10.0,5,77,51,0.06493506493506493,5.667175961293609,False,1.8
+Google Black Cloud Zip Hoodie,Google Thermal Tumbler Navy,Apparel,Drinkware,55.0,14.0,5,53,76,0.09433962264150944,5.5250744786494534,False,3.9285714285714284
+Noogler Android Figure,Maze Pen,Accessories,Office,13.0,1.0,5,92,44,0.05434782608695652,5.497776679841897,False,13.0
+Google Incognito Techpack V2,Google Land & Sea Cotton Cap,Bags,Apparel,70.0,14.0,5,36,114,0.1388888888888889,5.4227582846003894,False,5.0
+Google Perk Thermal Tumbler,Google Pen Bright Blue,Lifestyle,Stationery,16.0,1.0,5,95,46,0.05263157894736842,5.092677345537758,False,16.0
+Google Utility Bag Grey,Google Light Pen Blue,Bags,Writing Instruments,6.0,2.0,5,53,83,0.09433962264150944,5.059104341895885,False,3.0
+Google Land & Sea Journal Set,Google Light Pen Blue,Google,Writing Instruments,12.0,2.0,5,53,83,0.09433962264150944,5.059104341895885,False,6.0
+Google Women's Microfleece Jacket Black,Google Red Speckled Tee,Uncategorized Items,Apparel,60.0,24.0,5,32,138,0.15625,5.039628623188406,False,2.5
+Google Zip Hoodie F/C,Google Cup Cap Tumbler Grey,Apparel,New,48.0,24.0,5,187,24,0.026737967914438502,4.9587789661319075,False,2.0
+Google Speckled Beanie Navy,Google Land & Sea Mug,New,Shop by Brand,16.0,14.0,5,85,53,0.058823529411764705,4.940066592674806,False,1.1428571428571428
+Google Crew Striped Athletic Sock,Google NYC Campus Mug,Apparel,Campus Collection,14.0,7.0,5,55,82,0.09090909090909091,4.934589800443459,False,2.0
+Google Clear Framed Blue Shades,Android SM S/F18 Sticker Sheet,Accessories,Accessories,3.0,2.0,5,48,97,0.10416666666666667,4.7798539518900345,False,1.5
+YouTube Icon Tee Charcoal,Google Sunglasses,Apparel,Uncategorized Items,18.0,3.0,5,77,62,0.06493506493506493,4.661709258483452,False,6.0
+YouTube Icon Tee Charcoal,YouTube Leather Strap Hat Black,Apparel,Apparel,18.0,10.0,5,77,62,0.06493506493506493,4.661709258483452,False,1.8
+Google Camp Mug Ivory,Google Confetti Slim Task Pad,Drinkware,Office,10.0,3.0,5,189,26,0.026455026455026454,4.5288970288970285,False,3.3333333333333335
+Google Sherpa Zip Hoodie Navy,Google Unisex Eco Tee Black,Apparel,Uncategorized Items,55.0,18.0,5,58,87,0.08620689655172414,4.41042409829568,False,3.0555555555555554
+Google Small Standard Journal Navy,Android SM S/F18 Sticker Sheet,Lifestyle,Accessories,5.0,2.0,5,53,97,0.09433962264150944,4.328924333787201,False,2.5
+Google Sunglasses,Google Light Pen Blue,Uncategorized Items,Writing Instruments,3.0,2.0,5,62,83,0.08064516129032258,4.324718227749709,False,1.5
+Google Small Standard Journal Navy,Google Pen White,Lifestyle,Office,5.0,1.0,5,53,98,0.09433962264150944,4.284751636503658,False,5.0
+YouTube Play Mug,Google Camp Mug Gray,Lifestyle,Shop by Brand,10.0,10.0,5,51,102,0.09803921568627451,4.278162245290273,False,1.0
+Google Badge Heavyweight Pullover Black,Google Infant Hero Tee Olive,Apparel,Apparel,46.0,14.0,5,150,35,0.03333333333333333,4.239047619047619,False,3.2857142857142856
+Google Clear Pen 4-Pack,Google Pride Sticker,Office,Shop by Brand,3.0,1.0,5,126,43,0.03968253968253968,4.107604282022887,False,3.0
+Google Mural Socks,Google Clear Pen 4-Pack,New,Office,12.0,3.0,5,43,126,0.11627906976744186,4.107604282022887,False,4.0
+Google Laptop and Cell Phone Stickers,Maze Pen,Google,Office,2.0,1.0,5,127,44,0.03937007874015748,3.982641374373658,False,2.0
+Google Large Standard Journal Grey,Google Light Pen Blue,Office,Writing Instruments,13.0,2.0,5,68,83,0.07352941176470588,3.9431254429482636,False,6.5
+Google Camp Mug Ivory,Google Mini Kick Ball,Drinkware,Fun,10.0,2.0,5,189,30,0.026455026455026454,3.9250440917107583,False,5.0
+Google Metallic Notebook Set,Google Pen Citron,Office,Clearance,5.0,1.0,5,120,48,0.041666666666666664,3.8637152777777777,False,5.0
+Google Hemp Tote,Google Metallic Notebook Set,Clearance,Office,12.0,5.0,5,48,120,0.10416666666666667,3.8637152777777777,False,2.4
+Google Blue Stojo Cup,Google Heathered Pom Beanie,Shop by Brand,New,20.0,12.0,5,34,170,0.14705882352941177,3.8503460207612457,False,1.6666666666666667
+Google Utility BackPack,Google F/C Longsleeve Ash,Bags,Apparel,96.0,24.0,5,47,123,0.10638297872340426,3.8496799861615636,False,4.0
+Google Dino Game Tee,YouTube Icon Tee Charcoal,Apparel,Apparel,32.0,18.0,5,79,77,0.06329113924050633,3.6585566332401775,False,1.7777777777777777
+Google Cork Base Tumbler,Google Heathered Pom Beanie,New,New,22.0,12.0,5,36,170,0.1388888888888889,3.636437908496732,False,1.8333333333333333
+Google Flat Front Bag Grey,Google Thermal Tumbler Navy,Bags,Drinkware,24.0,14.0,5,81,76,0.06172839506172839,3.615172189733593,False,1.7142857142857142
+Google Perk Thermal Tumbler,Google Large Tote White,Lifestyle,Bags,16.0,10.0,5,95,67,0.05263157894736842,3.4964650432050277,False,1.6
+Google Light Pen Red,Google Pen White,Writing Instruments,Office,2.0,1.0,5,65,98,0.07692307692307693,3.4937205651491365,False,2.0
+Google Navy Speckled Tee,YouTube Icon Tee Grey,Apparel,Apparel,24.0,18.0,5,123,53,0.04065040650406504,3.4138671575395,False,1.3333333333333333
+Google Black Cork Journal,Google Magnet,New,Accessories,10.0,6.0,5,73,90,0.0684931506849315,3.387366818873668,False,1.6666666666666667
+Super G Unisex Joggers,Google Premium Sunglasses,Shop by Brand,Accessories,30.0,11.0,5,221,30,0.02262443438914027,3.356711915535445,False,2.727272727272727
+Google Large Standard Journal Grey,Google Pen White,Office,Office,13.0,1.0,5,68,98,0.07352941176470588,3.3395858343337337,False,13.0
+Google Black Cloud Zip Hoodie,Google Laptop and Cell Phone Stickers,Apparel,Google,55.0,2.0,5,53,127,0.09433962264150944,3.3063437824988857,False,27.5
+Google Speckled Beanie Navy,Google Crew Combed Cotton Sock,New,Apparel,16.0,14.0,5,85,80,0.058823529411764705,3.272794117647059,False,1.1428571428571428
+Google Campus Bike,Google Toddler FC Zip Hoodie,Accessories,Apparel,32.0,28.0,5,97,71,0.05154639175257732,3.2314505590242484,False,1.1428571428571428
+Google Canteen Bottle Black,Google Utility Bag Grey,Drinkware,Bags,19.0,6.0,5,130,53,0.038461538461538464,3.2300435413642963,False,3.1666666666666665
+Google Light Pen Green,Google Laptop and Cell Phone Stickers,Writing Instruments,Google,2.0,2.0,5,56,127,0.08928571428571429,3.1292182227221597,False,1.0
+Google Heathered Pom Beanie,Google Recycled Pen Black,New,New,12.0,2.0,5,170,42,0.029411764705882353,3.1169467787114846,False,6.0
+Google Speckled Beanie Grey,Google Clear Pen 4-Pack,New,Office,16.0,3.0,5,57,126,0.08771929824561403,3.0987190197716514,False,5.333333333333333
+Google Crew Combed Cotton Sock,Noogler Android Figure,Apparel,Accessories,14.0,13.0,5,80,92,0.0625,3.0237771739130435,False,1.0769230769230769
+Google Magnet,Google Light Pen Blue,Accessories,Writing Instruments,6.0,2.0,5,90,83,0.05555555555555555,2.9792503346720216,False,3.0
+Google Perk Thermal Tumbler,Google Crew Combed Cotton Sock,Lifestyle,Apparel,16.0,14.0,5,95,80,0.05263157894736842,2.9282894736842104,False,1.1428571428571428
+Google Navy Speckled Tee,YouTube Leather Strap Hat Black,Apparel,Apparel,24.0,10.0,5,123,62,0.04065040650406504,2.9183057959611856,False,2.4
+Google Beekeepers Tee Mint,Google Heathered Pom Beanie,Apparel,New,14.0,12.0,5,45,170,0.1111111111111111,2.9091503267973855,False,1.1666666666666667
+Google Women's Grid Zip-Up,Google Badge Heavyweight Pullover Black,Apparel,Apparel,50.0,46.0,5,51,150,0.09803921568627451,2.9091503267973855,False,1.0869565217391304
+Android Pocket Onesie Navy,Google Heathered Pom Beanie,Apparel,New,18.0,12.0,5,45,170,0.1111111111111111,2.9091503267973855,False,1.5
+Google Dino Game Tee,Android SM S/F18 Sticker Sheet,Apparel,Accessories,32.0,2.0,5,79,97,0.06329113924050633,2.9042150593762233,False,16.0
+Google Crew Socks,Google Mural Sticker Sheet,Apparel,Small Goods,13.0,2.0,5,127,61,0.03937007874015748,2.8727249257777205,False,6.5
+Google Campus Bike,YouTube Twill Sandwich Cap Black,Accessories,Apparel,32.0,10.0,5,97,80,0.05154639175257732,2.8679123711340204,False,3.2
+Google Packable Bag Black,Google Heathered Pom Beanie,Bags,New,16.0,12.0,5,46,170,0.10869565217391304,2.8459079283887467,False,1.3333333333333333
+Google Flat Front Bag Grey,Google Pen White,Bags,Office,24.0,1.0,5,81,98,0.06172839506172839,2.803602922650542,False,24.0
+Google Large Tote White,Google Metallic Notebook Set,Bags,Office,10.0,5.0,5,67,120,0.07462686567164178,2.7680348258706466,False,2.0
+Google Light Pen Blue,Android SM S/F18 Sticker Sheet,Writing Instruments,Accessories,2.0,2.0,5,83,97,0.060240963855421686,2.7642528878400197,False,1.0
+Google Speckled Beanie Navy,Google Perk Thermal Tumbler,New,Lifestyle,16.0,16.0,5,85,95,0.058823529411764705,2.7560371517027864,False,1.0
+Google Large Standard Journal Grey,Google Metallic Notebook Set,Office,Office,13.0,5.0,5,68,120,0.07352941176470588,2.727328431372549,False,2.6
+Google Camp Mug Ivory,Maze Pen,Drinkware,Office,10.0,1.0,5,189,44,0.026455026455026454,2.676166426166426,False,10.0
+Google Canteen Bottle Black,Google Light Pen Red,Drinkware,Writing Instruments,19.0,2.0,5,130,65,0.038461538461538464,2.6337278106508877,False,9.5
+Google Red Speckled Tee,Google Keychain,Apparel,New,24.0,6.0,5,138,62,0.036231884057971016,2.601098644226274,False,4.0
+Google Canteen Bottle Black,Google Large Tote White,Drinkware,Bags,19.0,10.0,5,130,67,0.038461538461538464,2.555109070034443,False,1.9
+Google Heathered Pom Beanie,Google Campus Bike Tote Navy,New,Bags,12.0,9.0,5,170,52,0.029411764705882353,2.5175339366515836,False,1.3333333333333333
+Google Badge Heavyweight Pullover Black,Keyboard DOT Sticker,Apparel,Office,46.0,2.0,5,150,59,0.03333333333333333,2.514689265536723,False,23.0
+Google Leather Strap Hat Blue,Google NYC Campus Mug,Apparel,Campus Collection,14.0,7.0,5,108,82,0.046296296296296294,2.512985546522132,False,2.0
+Google Zip Hoodie F/C,Google Decal,Apparel,Stationery,48.0,1.0,5,187,48,0.026737967914438502,2.4793894830659537,False,48.0
+Google Heathered Pom Beanie,Google Utility Bag Grey,New,Bags,12.0,6.0,5,170,53,0.029411764705882353,2.470033296337403,False,2.0
+Google Crew Socks,Google Austin Campus Mug,Apparel,Campus Collection,13.0,7.0,5,127,72,0.03937007874015748,2.4338363954505686,False,1.8571428571428572
+Google Crewneck Sweatshirt Green,Google Large Tote White,Apparel,Bags,44.0,10.0,5,146,67,0.03424657534246575,2.2750971171539565,False,4.4
+Google Speckled Beanie Navy,Google Metallic Notebook Set,New,Office,16.0,5.0,5,85,120,0.058823529411764705,2.181862745098039,False,3.2
+Google F/C Longsleeve Charcoal,Google Unisex Eco Tee Black,Apparel,Uncategorized Items,24.0,18.0,5,118,87,0.0423728813559322,2.1678355737385546,False,1.3333333333333333
+Google NYC Campus Mug,Google Clear Pen 4-Pack,Campus Collection,Office,7.0,3.0,5,82,126,0.06097560975609756,2.1539876113046845,False,2.3333333333333335
+Google Crew Striped Athletic Sock,Google Camp Mug Ivory,Apparel,Drinkware,14.0,10.0,5,55,189,0.09090909090909091,2.140933140933141,False,1.4
+Google Heathered Pom Beanie,Google Sunglasses,New,Uncategorized Items,12.0,3.0,5,170,62,0.029411764705882353,2.111480075901328,False,4.0
+Google Crewneck Sweatshirt Navy,Google Chicago Campus Mug,Uncategorized Items,Campus Collection,44.0,7.0,5,196,54,0.025510204081632654,2.1027021919879063,False,6.285714285714286
+Google Speckled Beanie Navy,Google Clear Pen 4-Pack,New,Office,16.0,3.0,5,85,126,0.058823529411764705,2.07796451914099,False,5.333333333333333
+Google Speckled Beanie Navy,Google Crew Socks,New,Apparel,16.0,13.0,5,85,127,0.058823529411764705,2.061602593793423,False,1.2307692307692308
+Google Dino Game Tee,Google Red Speckled Tee,Apparel,Apparel,32.0,24.0,5,79,138,0.06329113924050633,2.041368556228215,False,1.3333333333333333
+Google Red Speckled Tee,Google Crew Combed Cotton Sock,Apparel,Apparel,24.0,14.0,5,138,80,0.036231884057971016,2.0158514492753623,False,1.7142857142857142
+Google Camp Mug Ivory,Google Keychain,Drinkware,New,10.0,6.0,5,189,62,0.026455026455026454,1.8992148830858508,False,1.6666666666666667
+Google Perk Thermal Tumbler,Google Clear Pen 4-Pack,Lifestyle,Office,16.0,3.0,5,95,126,0.05263157894736842,1.859231411862991,False,5.333333333333333
+Google Toddler FC Zip Hoodie,Google Heathered Pom Beanie,Apparel,New,28.0,12.0,5,71,170,0.07042253521126761,1.843827671913836,False,2.3333333333333335
+Google Campus Bike,Google Clear Pen 4-Pack,Accessories,Office,32.0,3.0,5,97,126,0.05154639175257732,1.820896743577156,False,10.666666666666666
+Google Camp Mug Gray,Google Metallic Notebook Set,Shop by Brand,Office,10.0,5.0,5,102,120,0.049019607843137254,1.818218954248366,False,2.0
+Google Heathered Pom Beanie,Google Black Cork Journal,New,New,12.0,10.0,5,170,73,0.029411764705882353,1.7933118452860597,False,1.2
+Google Badge Heavyweight Pullover Black,Google Speckled Beanie Navy,Apparel,New,46.0,16.0,5,150,85,0.03333333333333333,1.7454901960784315,False,2.875
+Google Men's Tech Fleece Grey,Google Badge Heavyweight Pullover Black,Apparel,Apparel,71.0,46.0,5,87,150,0.05747126436781609,1.7053639846743296,False,1.5434782608695652
+Google Badge Heavyweight Pullover Black,Google Unisex Eco Tee Black,Apparel,Uncategorized Items,46.0,18.0,5,150,87,0.03333333333333333,1.7053639846743296,False,2.5555555555555554
+Google Heathered Pom Beanie,YouTube Twill Sandwich Cap Black,New,Apparel,12.0,10.0,5,170,80,0.029411764705882353,1.6363970588235295,False,1.2
+Google Zip Hoodie F/C,Google Crewneck Sweatshirt Grey,Apparel,Uncategorized Items,48.0,44.0,5,187,74,0.026737967914438502,1.6082526376644024,False,1.0909090909090908
+Google Badge Heavyweight Pullover Black,Google Perk Thermal Tumbler,Apparel,Lifestyle,46.0,16.0,5,150,95,0.03333333333333333,1.5617543859649123,False,2.875
+Google Crewneck Sweatshirt Navy,Google Black Cork Journal,Uncategorized Items,New,44.0,10.0,5,196,73,0.025510204081632654,1.5554235392787252,False,4.4
+Google Thermal Tumbler Navy,Google Camp Mug Ivory,Drinkware,Drinkware,14.0,10.0,5,76,189,0.06578947368421052,1.5493595098858257,False,1.4
+Google Navy Speckled Tee,Google Metallic Notebook Set,Apparel,Office,24.0,5.0,5,123,120,0.04065040650406504,1.507791327913279,False,4.8
+Google Zip Hoodie F/C,Google Crew Combed Cotton Sock,Apparel,Apparel,48.0,14.0,5,187,80,0.026737967914438502,1.4876336898395721,False,3.4285714285714284
+Google Navy Speckled Tee,Google Crew Socks,Apparel,Apparel,24.0,13.0,5,123,127,0.04065040650406504,1.4246847192881378,False,1.8461538461538463
+Google F/C Longsleeve Ash,Google Crew Socks,Apparel,Apparel,24.0,13.0,5,123,127,0.04065040650406504,1.4246847192881378,False,1.8461538461538463
+Noogler Android Figure,Google Heathered Pom Beanie,Accessories,New,13.0,12.0,5,92,170,0.05434782608695652,1.4229539641943734,False,1.0833333333333333
+Google Camp Mug Ivory,Google Light Pen Blue,Drinkware,Writing Instruments,10.0,2.0,5,189,83,0.026455026455026454,1.4186906355581055,False,5.0
+Google Glass Bottle,Google Camp Mug Ivory,Lifestyle,Drinkware,18.0,10.0,5,83,189,0.060240963855421686,1.4186906355581055,False,1.8
+Google Speckled Beanie Navy,Google Camp Mug Ivory,New,Drinkware,16.0,10.0,5,85,189,0.058823529411764705,1.3853096794273265,False,1.6
+Google Crewneck Sweatshirt Navy,Google NYC Campus Mug,Uncategorized Items,Campus Collection,44.0,7.0,5,196,82,0.025510204081632654,1.3847063215530115,False,6.285714285714286
+Google Red Speckled Tee,Google Metallic Notebook Set,Apparel,Office,24.0,5.0,5,138,120,0.036231884057971016,1.3439009661835748,False,4.8
+Google Crewneck Sweatshirt Green,Google Land & Sea Cotton Cap,Apparel,Apparel,44.0,14.0,5,146,114,0.03424657534246575,1.3371184811343426,False,3.142857142857143
+Super G Unisex Joggers,Womens Google Striped LS,Shop by Brand,Apparel,30.0,16.0,5,221,77,0.02262443438914027,1.3078098372216018,False,1.875
+Google Red Speckled Tee,Google Crew Socks,Apparel,Apparel,24.0,13.0,5,138,127,0.036231884057971016,1.2698276845829053,False,1.8461538461538463
+Google Crewneck Sweatshirt Navy,Google Magnet,Uncategorized Items,Accessories,44.0,6.0,5,196,90,0.025510204081632654,1.2616213151927438,False,7.333333333333333
+Google Red Speckled Tee,Google Canteen Bottle Black,Apparel,Drinkware,24.0,19.0,5,138,130,0.036231884057971016,1.2405239687848384,False,1.263157894736842
+Google Leather Strap Hat Blue,Google Heathered Pom Beanie,Apparel,New,14.0,12.0,5,108,170,0.046296296296296294,1.2121459694989107,False,1.1666666666666667
+Google Crewneck Sweatshirt Navy,Android Iconic Crewneck Sweatshirt,Uncategorized Items,Apparel,44.0,44.0,5,196,94,0.025510204081632654,1.2079353017802865,False,1.0
+Google Crewneck Sweatshirt Green,Google Crew Socks,Apparel,Apparel,44.0,13.0,5,146,127,0.03424657534246575,1.2002480854276778,False,3.3846153846153846
+Google Zip Hoodie F/C,Google Camp Mug Gray,Apparel,Shop by Brand,48.0,10.0,5,187,102,0.026737967914438502,1.1667715214428018,False,4.8
+Super G Unisex Joggers,Google Unisex Eco Tee Black,Shop by Brand,Uncategorized Items,30.0,18.0,5,221,87,0.02262443438914027,1.1574868674260155,False,1.6666666666666667
+Google Crewneck Sweatshirt Green,Google Red Speckled Tee,Apparel,Apparel,44.0,24.0,5,146,138,0.03424657534246575,1.1045761365892397,False,1.8333333333333333
+Google Heathered Pom Beanie,Google Metallic Notebook Set,New,Office,12.0,5.0,5,170,120,0.029411764705882353,1.0909313725490195,False,2.4
+Google F/C Longsleeve Ash,Google Heathered Pom Beanie,Apparel,New,24.0,12.0,5,123,170,0.04065040650406504,1.0643232902917263,False,2.0
+Google Zip Hoodie F/C,Google F/C Longsleeve Charcoal,Apparel,Apparel,48.0,24.0,5,187,118,0.026737967914438502,1.0085652134505574,False,2.0
+Google Zip Hoodie F/C,Google Badge Heavyweight Pullover Black,Apparel,Apparel,48.0,46.0,5,187,150,0.026737967914438502,0.7934046345811052,False,1.0434782608695652
+Google Zip Hoodie F/C,Google Heathered Pom Beanie,Apparel,New,48.0,12.0,5,187,170,0.026737967914438502,0.700062912865681,False,4.0
+Google Badge Heavyweight Pullover Black,Super G Unisex Joggers,Apparel,Shop by Brand,46.0,30.0,5,150,221,0.03333333333333333,0.6713423831070889,False,1.5333333333333334
+Google Zip Hoodie F/C,Google Camp Mug Ivory,Apparel,Drinkware,48.0,10.0,5,187,189,0.026737967914438502,0.629686217921512,False,4.8
+Google Crewneck Sweatshirt Navy,Google Camp Mug Ivory,Uncategorized Items,Drinkware,44.0,10.0,5,196,189,0.025510204081632654,0.6007720548536875,False,4.4
