@@ -973,6 +973,168 @@ elif page == "Season Playbook":
                         f"{recommended_phase} as its phase."
                     )
 
+    st.markdown("### Product weekly sales trend")
+
+    product_trend = (
+        product_history.groupby("week_start", as_index=False)
+        .agg(
+            views=("sessions_viewed", "sum"),
+            purchases=("sessions_purchased", "sum"),
+            revenue=("revenue", "sum"),
+        )
+        .sort_values("week_start")
+    )
+
+    trend_fig = px.line(
+        product_trend,
+        x="week_start",
+        y="purchases",
+        markers=True,
+        hover_data={
+            "views": True,
+            "revenue": ":,.2f",
+        },
+        labels={
+            "week_start": "Week beginning",
+            "purchases": "Purchase sessions",
+            "views": "Product-view sessions",
+            "revenue": "Revenue ($)",
+        },
+        title=f"Weekly purchases: {selected_product}",
+    )
+
+    phase_shades = {
+        "Early Nov": "#DCEAF9",
+        "Black Friday / Cyber Monday": "#FCE5D6",
+        "Mid-Dec": "#E1F2E5",
+        "Post-Christmas": "#EEE4FA",
+    }
+
+    phase_labels = {
+        "Early Nov": "Early Nov",
+        "Black Friday / Cyber Monday": "BFCM",
+        "Mid-Dec": "Mid-Dec",
+        "Post-Christmas": "Post-Christmas",
+    }
+
+    for phase_name in phase_order:
+        phase_dates = df.loc[
+            df["phase"] == phase_name,
+            "week_start",
+        ]
+
+        if phase_dates.empty:
+            continue
+
+        phase_start = phase_dates.min()
+        phase_end = (
+            phase_dates.max() + pd.Timedelta(days=7)
+        )
+
+        trend_fig.add_vrect(
+            x0=phase_start,
+            x1=phase_end,
+            fillcolor=phase_shades[phase_name],
+            opacity=0.40,
+            line_width=0,
+            layer="below",
+        )
+
+        trend_fig.add_annotation(
+            x=phase_start,
+            y=1.04,
+            yref="paper",
+            text=phase_labels[phase_name],
+            showarrow=False,
+            xanchor="left",
+            font=dict(size=10),
+        )
+
+    trend_fig.update_layout(
+        height=450,
+        hovermode="x unified",
+        margin=dict(t=85),
+    )
+
+    st.markdown("#### Historical USPS shipping deadlines")
+
+    usps_deadlines = {
+        "Retail Ground — Dec 15": "2020-12-15",
+        "First-Class Package — Dec 18": "2020-12-18",
+        "Priority Mail — Dec 19": "2020-12-19",
+        "Priority Mail Express — Dec 23": "2020-12-23",
+    }
+
+    selected_deadlines = st.multiselect(
+        "Show USPS 2020 mail-by dates on chart",
+        options=list(usps_deadlines),
+        default=[
+            "Retail Ground — Dec 15",
+            "Priority Mail — Dec 19",
+        ],
+        key="historical_usps_deadlines",
+    )
+
+    for index, service in enumerate(selected_deadlines):
+        cutoff = usps_deadlines[service]
+
+        trend_fig.add_shape(
+            type="line",
+            x0=cutoff,
+            x1=cutoff,
+            y0=0,
+            y1=1,
+            xref="x",
+            yref="paper",
+            line=dict(
+                color="#B42318",
+                width=2,
+                dash="dash",
+            ),
+        )
+
+        trend_fig.add_annotation(
+            x=cutoff,
+            xref="x",
+            y=0.94 - (index % 4) * 0.12,
+            yref="paper",
+            text=service,
+            showarrow=False,
+            xanchor="left",
+            bgcolor="rgba(255,255,255,0.85)",
+            font=dict(
+                size=10,
+                color="#B42318",
+            ),
+        )
+
+    st.plotly_chart(
+        trend_fig,
+        width="stretch",
+    )
+    st.caption(
+        "Historical USPS recommended mailing deadlines for "
+        "expected Christmas 2020 delivery are shown as red "
+        "dashed lines. These were not store order cutoffs "
+        "and do not establish why purchases changed. "
+        "Actual delivery was not guaranteed."
+    )
+
+    st.link_button(
+        "Source: USPS 2020 holiday shipping deadlines",
+        "https://about.usps.com/newsroom/national-releases/"
+        "2020/1008-usps-releases-deadlines-for-holiday-shipping.htm",
+    )
+
+
+
+    st.caption(
+        "Shaded regions represent historical holiday phases "
+        "from the 2020–2021 dataset. "
+        "Weekly figures describe recorded purchase sessions, "
+        "not forecasts of future sales."
+    )
+
     st.markdown("### Seasonal launch schedule")
 
     from datetime import date, timedelta
@@ -1165,6 +1327,227 @@ elif page == "Season Playbook":
         "manually and retained only in the current app session."
     )
 
+    st.markdown("### Google Trends data comparison")
+
+    trends_path = DATA_DIR / "google_trends_hoodie.csv"
+
+    if not trends_path.exists():
+        st.warning("Google Trends CSV not found in data/.")
+    else:
+        trends_raw = pd.read_csv(trends_path, skiprows=2)
+
+        interest_columns = [
+            column for column in trends_raw.columns
+            if column != "Month"
+        ]
+
+        if "Month" not in trends_raw.columns or len(interest_columns) != 1:
+            st.error("Unexpected Google Trends CSV format.")
+        else:
+            trends = pd.DataFrame({
+                "month": pd.to_datetime(
+                    trends_raw["Month"].astype(str) + "-01",
+                    errors="coerce",
+                ),
+                "interest": pd.to_numeric(
+                    trends_raw[interest_columns[0]],
+                    errors="coerce",
+                ),
+            }).dropna().sort_values("month")
+
+            st.caption(
+                "Source: Google Trends, US Web Search, "
+                "keyword 'hoodie'. CSV downloaded manually. "
+                "Scores represent relative interest, not "
+                "search counts or product purchases."
+            )
+
+            st.markdown("#### US search interest over time")
+
+            fig_trends = px.line(
+                trends,
+                x="month",
+                y="interest",
+                markers=True,
+                labels={
+                    "month": "Month",
+                    "interest": "Google Trends interest (0–100)",
+                },
+                title="US Google Trends — hoodie",
+            )
+
+            fig_trends.update_yaxes(range=[0, 105])
+            fig_trends.update_layout(height=400)
+
+            st.plotly_chart(fig_trends, width="stretch")
+
+            st.markdown("#### Holiday search timing comparison")
+
+            holiday_trends = trends.copy()
+
+            holiday_trends["year"] = (
+                holiday_trends["month"].dt.year
+            )
+
+            holiday_trends["month_number"] = (
+                holiday_trends["month"].dt.month
+            )
+
+            holiday_trends = holiday_trends[
+                holiday_trends["year"].isin([2020, 2025, 2026])
+                & holiday_trends["month_number"].between(10, 12)
+            ].copy()
+
+            holiday_trends["Holiday month"] = (
+                holiday_trends["month"].dt.strftime("%b")
+            )
+
+            holiday_trends["Year"] = (
+                holiday_trends["year"].astype(str)
+            )
+
+            fig_holiday = px.line(
+                holiday_trends,
+                x="Holiday month",
+                y="interest",
+                color="Year",
+                markers=True,
+                category_orders={
+                    "Holiday month": ["Oct", "Nov", "Dec"],
+                    "Year": ["2020", "2025", "2026"],
+                },
+                labels={
+                    "interest": "Google Trends interest (0–100)",
+                },
+                title="US hoodie searches: holiday seasons compared",
+            )
+
+            fig_holiday.update_yaxes(range=[0, 105])
+
+            fig_holiday.update_layout(
+                height=420,
+                hovermode="x unified",
+            )
+
+            st.plotly_chart(
+                fig_holiday,
+                width="stretch",
+            )
+
+            st.caption(
+                "The three years use the same relative-interest "
+                "scale from one Google Trends CSV export. "
+                "November 2026 is incomplete, and December "
+                "2026 is not yet available. Missing months "
+                "are not treated as zero searches."
+            )
+
+
+            st.markdown(
+                "#### Historical product demand vs search interest"
+            )
+
+            if "hoodie" not in selected_product.lower():
+                st.info(
+                    "The imported search keyword is 'hoodie'. "
+                    "For a different product category, import "
+                    "a relevant Google Trends keyword before "
+                    "interpreting the comparison."
+                )
+
+            sales_monthly = product_history.copy()
+
+            sales_monthly["month"] = (
+                sales_monthly["week_start"]
+                .dt.to_period("M")
+                .dt.to_timestamp()
+            )
+
+            sales_monthly = (
+                sales_monthly.groupby("month", as_index=False)
+                .agg(
+                    purchases=("sessions_purchased", "sum"),
+                )
+            )
+
+            comparison = sales_monthly.merge(
+                trends,
+                on="month",
+                how="inner",
+            )
+
+            comparison = comparison[
+                (comparison["month"] >= "2020-10-01")
+                & (comparison["month"] <= "2021-01-01")
+            ].sort_values("month")
+
+            if comparison.empty:
+                st.warning(
+                    "No overlapping historical months found."
+                )
+            else:
+                max_purchases = comparison["purchases"].max()
+                max_interest = comparison["interest"].max()
+
+                comparison["Product purchase index"] = (
+                    comparison["purchases"] / max_purchases * 100
+                    if max_purchases > 0 else 0.0
+                )
+
+                comparison["US hoodie search index"] = (
+                    comparison["interest"] / max_interest * 100
+                    if max_interest > 0 else 0.0
+                )
+
+                comparison["Month"] = (
+                    comparison["month"].dt.strftime("%b %Y")
+                )
+
+                comparison_chart = comparison[
+                    [
+                        "Month",
+                        "Product purchase index",
+                        "US hoodie search index",
+                    ]
+                ].melt(
+                    id_vars="Month",
+                    var_name="Series",
+                    value_name="Index",
+                )
+
+                fig_compare = px.line(
+                    comparison_chart,
+                    x="Month",
+                    y="Index",
+                    color="Series",
+                    markers=True,
+                    title=(
+                        f"2020–2021 seasonal comparison: "
+                        f"{selected_product}"
+                    ),
+                )
+
+                fig_compare.update_yaxes(range=[0, 105])
+                fig_compare.update_layout(height=400)
+
+                st.plotly_chart(fig_compare, width="stretch")
+
+                st.caption(
+                    "Each series is independently rescaled to "
+                    "a maximum of 100 over the overlapping months. "
+                    "Monthly product purchases are grouped using "
+                    "the week-start date. This is an exploratory "
+                    "seasonality comparison, not evidence that "
+                    "search interest causes purchases."
+                )
+
+            st.caption(
+                "November 2026 may be incomplete. "
+                "The CSV is a downloaded snapshot, "
+                "not an automatically updating live feed."
+            )
+
+
     st.caption(
         "Phase recommendation uses historical purchase "
         "activity per calendar week. The 100-view threshold "
@@ -1186,6 +1569,29 @@ elif page == "Season Playbook":
 
 elif page == "Shortlist Builder":
     st.title("Shortlist Builder")
+
+    # Recommended merchandising shortlist size: 10–15 products.
+    selected_count = len(st.session_state.shortlist)
+
+    if 0 < selected_count < 10:
+        st.info(
+            f"You have selected {selected_count} products. "
+            f"Add at least {10 - selected_count} more to reach "
+            "the recommended 10–15 product range."
+        )
+    elif 10 <= selected_count <= 15:
+        st.success(
+            f"Your {selected_count}-product shortlist is within "
+            "the recommended 10–15 product range."
+        )
+    elif selected_count > 15:
+        st.warning(
+            f"You have selected {selected_count} products. "
+            f"Consider removing {selected_count - 15} to stay "
+            "within the recommended 10–15 product range."
+        )
+
+
 
     if st.session_state.shortlist:
 
