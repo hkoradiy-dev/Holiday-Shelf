@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Development backups
+app.py.backup
+app.py.before_*
